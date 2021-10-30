@@ -1,0 +1,8 @@
+[cine21_recruit]
+title = "씨네21 ─ 영화인 리쿠르트"
+url = "http://b.cine21.com/bbs/board.php?bo_table=recruit"
+entrySelector = "table[class='table div-table list-pc bg-white'] tbody tr:not(.active)"
+titleSelector = "td.list-subject"
+linkSelector = "td.list-subject a"
+contentSelector = "td.text-center.font-11:nth-child(2)"
+waitUntil = "networkidle"
