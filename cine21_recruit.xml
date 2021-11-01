@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2021-10-31T17:38:23.801Z</updated>
+    <updated>2021-11-01T05:32:47.909Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제18회 서울국제사랑영화제 개최 안내 (온라인 무료상영)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17239</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17239"/>
+        <updated>2021-11-01T05:32:47.324Z</updated>
+        <content type="html"><![CDATA[<b>
+				서울국제사랑영화제			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[프로젝트 매니저 (정규직) 채용]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17238</id>
@@ -116,13 +124,5 @@
         <updated>2021-10-30T13:34:36.410Z</updated>
         <content type="html"><![CDATA[<b>
 				아카데미 로카			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기간 내 상시모집] ㈜인디스토리 국내배급팀 신입/경력사원 모집 공고 (~10/31 마감)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17224</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17224"/>
-        <updated>2021-10-30T13:34:36.411Z</updated>
-        <content type="html"><![CDATA[<b>
-				㈜인디스토리			</b>]]></content>
     </entry>
 </feed>
