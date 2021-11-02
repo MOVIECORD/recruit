@@ -2,8 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-02T05:32:12.482Z</updated>
+    <updated>2021-11-02T17:41:40.107Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[김포국제청소년영화제] 넷플릭스 흥행작 'D.P' 한준희 감독 초청 마스터 클래스 개최 (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17252</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17252"/>
+        <updated>2021-11-02T17:41:39.410Z</updated>
+        <content type="html"><![CDATA[<b>
+				김포국제청소년영화제			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[강좌_영화 비즈니스 입문 (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17251</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17251"/>
+        <updated>2021-11-02T17:41:39.411Z</updated>
+        <content type="html"><![CDATA[<b>
+				아카데미 로카			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영화사 직원(외화수입및 배급업무) 및 스토리 작가와/그림작가(웹툰 및)를 구합니다									댓글+2개 (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17248</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17248"/>
+        <updated>2021-11-02T17:41:39.412Z</updated>
+        <content type="html"><![CDATA[<b>
+				미디어마그나			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[왓챠] 광고영업 담당자 모집 (씨네21 ─ 영화인 리쿠르트)]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17247</id>
@@ -99,29 +123,5 @@
         <updated>2021-10-30T13:34:36.385Z</updated>
         <content type="html"><![CDATA[<b>
 				스튜디오앤뉴			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울영상위원회 사원 공개 채용 공고 (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17233</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17233"/>
-        <updated>2021-10-30T13:34:36.403Z</updated>
-        <content type="html"><![CDATA[<b>
-				서울영상위원회			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[무주산골영화제 디자이너 채용 공고 (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17232</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17232"/>
-        <updated>2021-10-30T13:34:36.403Z</updated>
-        <content type="html"><![CDATA[<b>
-				무주산골영화제			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화/OTT 전문 디지털 마케팅사 지앤이(주)제스타드 신입/경력 공고 (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17231</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17231"/>
-        <updated>2021-10-30T13:34:36.404Z</updated>
-        <content type="html"><![CDATA[<b>
-				제스타드(주)			</b>]]></content>
     </entry>
 </feed>
