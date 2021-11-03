@@ -2,8 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-03T05:32:30.736Z</updated>
+    <updated>2021-11-03T17:40:38.458Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[영화 기획, 배급, 해외수입 및 유통 업무 경력, 신입 직원 공고 (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17258</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17258"/>
+        <updated>2021-11-03T17:40:37.660Z</updated>
+        <content type="html"><![CDATA[<b>
+				영화사  미디어마그나			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[베이스캠프] 디지털 마케팅 신입 모집 공고									댓글+1개 (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17257</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17257"/>
+        <updated>2021-11-03T17:40:37.666Z</updated>
+        <content type="html"><![CDATA[<b>
+				베이스캠프 A&amp;C			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[MBC아카데미] ‘영화홍보마케팅&프로듀서’ 2022 상반기 실무멘토링 과정 모집! (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17256</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17256"/>
+        <updated>2021-11-03T17:40:37.668Z</updated>
+        <content type="html"><![CDATA[<b>
+				MBC아카데미 문화연출학부			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화창작공간 5층 프로덕션오피스 21년 12월 입주 모집 공고 (씨네21 ─ 영화인 리쿠르트)]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17255</id>
@@ -43,14 +67,6 @@
         <updated>2021-11-02T17:41:39.411Z</updated>
         <content type="html"><![CDATA[<b>
 				아카데미 로카			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화사 직원(외화수입및 배급업무) 및 스토리 작가와/그림작가(웹툰 및)를 구합니다									댓글+2개 (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17248</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17248"/>
-        <updated>2021-11-02T17:41:39.412Z</updated>
-        <content type="html"><![CDATA[<b>
-				미디어마그나			</b>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[왓챠] 광고영업 담당자 모집 (씨네21 ─ 영화인 리쿠르트)]]></title>
@@ -107,21 +123,5 @@
         <updated>2021-11-01T05:32:47.324Z</updated>
         <content type="html"><![CDATA[<b>
 				서울국제사랑영화제			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[프로젝트 매니저 (정규직) 채용 (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17238</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17238"/>
-        <updated>2021-10-30T13:34:36.379Z</updated>
-        <content type="html"><![CDATA[<b>
-				비스포크랩 주식회사			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한영 또는 영한 자막 감수자 채용 (정규직) (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17237</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17237"/>
-        <updated>2021-10-30T13:34:36.381Z</updated>
-        <content type="html"><![CDATA[<b>
-				비스포크랩 주식회사			</b>]]></content>
     </entry>
 </feed>
