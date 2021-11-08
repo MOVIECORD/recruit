@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2021-11-07T17:38:54.685Z</updated>
+    <updated>2021-11-08T05:33:01.865Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[공고] 2021 (사)한국연극배우협회 신입회원 모집 (11.01~11.14)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17270</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17270"/>
+        <updated>2021-11-08T05:33:01.110Z</updated>
+        <content type="html"><![CDATA[<b>
+				(사) 한국연극배우협회			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[판타스틱큐브, <배리어프리영화제> 무료 상영 신청하러 가기]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17269</id>
@@ -116,13 +124,5 @@
         <updated>2021-11-03T05:32:30.004Z</updated>
         <content type="html"><![CDATA[<b>
 				서울영상위원회			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[곧 마감) 함께 콘텐츠 만드는 커뮤니티 "크리어스" 8기 모집 (영화/다큐/웹드/뮤비)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17254</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17254"/>
-        <updated>2021-11-03T05:32:30.007Z</updated>
-        <content type="html"><![CDATA[<b>
-				크리어스			</b>]]></content>
     </entry>
 </feed>
