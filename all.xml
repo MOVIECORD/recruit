@@ -2,8 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-08T17:41:19.184Z</updated>
+    <updated>2021-11-09T05:32:35.754Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[BIFAN 스태프(프로그램팀장, 창작지원팀장) 채용 공고 (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17274</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17274"/>
+        <updated>2021-11-09T05:32:35.165Z</updated>
+        <content type="html"><![CDATA[<b>
+				부천국제판타스틱영화제			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[디즈니+ 담당 디지털 광고 AE, 디자이너, PD 채용 중 (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17273</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17273"/>
+        <updated>2021-11-09T05:32:35.167Z</updated>
+        <content type="html"><![CDATA[<b>
+				주식회사 구십구도씨			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 및 넷플릭스 컨텐츠 홍보 에이전시 [딜라이트]에서 경력 사원을 모집합니다. (씨네21 ─ 영화인 리쿠르트)]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17272</id>
@@ -107,21 +123,5 @@
         <updated>2021-11-04T05:32:48.288Z</updated>
         <content type="html"><![CDATA[<b>
 				태원엔터테인먼트			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 기획, 배급, 해외수입 및 유통 업무 경력, 신입 직원 공고 (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17258</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17258"/>
-        <updated>2021-11-03T17:40:37.660Z</updated>
-        <content type="html"><![CDATA[<b>
-				영화사  미디어마그나			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[베이스캠프] 디지털 마케팅 신입 모집 공고									댓글+1개 (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17257</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17257"/>
-        <updated>2021-11-03T17:40:37.666Z</updated>
-        <content type="html"><![CDATA[<b>
-				베이스캠프 A&amp;C			</b>]]></content>
     </entry>
 </feed>
