@@ -2,9 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2021-11-11T05:33:03.529Z</updated>
+    <updated>2021-11-11T17:41:01.450Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[아르바이트 모집] 영화사 파인하우스필름에서 아르바이트를 모집합니다.]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17292</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17292"/>
+        <updated>2021-11-11T17:41:00.807Z</updated>
+        <content type="html"><![CDATA[<b>
+				파인하우스필름			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서울국제여성영화제 사무국 스태프(프로그램팀 팀장) 모집]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17291</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17291"/>
+        <updated>2021-11-11T17:41:00.807Z</updated>
+        <content type="html"><![CDATA[<b>
+				서울국제여성영화제			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021 NAK 드라마 공모전]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17290</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17290"/>
+        <updated>2021-11-11T17:41:00.808Z</updated>
+        <content type="html"><![CDATA[<b>
+				NAK ENTERTAINMENT			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[강의] 영화 그린북의 캐릭터들의 서사에 관한 강의를 시작합니다.]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17289</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17289"/>
+        <updated>2021-11-11T17:41:00.809Z</updated>
+        <content type="html"><![CDATA[<b>
+				플랜비디자인			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[영화진흥위원회] 2022년도 한국영화아카데미 39기 촬영/프로듀싱/애니메이션전공 신입생 모집  (11/15…]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17287</id>
@@ -92,37 +124,5 @@
         <updated>2021-11-05T17:40:10.567Z</updated>
         <content type="html"><![CDATA[<b>
 				천만스토리			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제10회 서울구로국제어린이영화제 1차 스태프 채용]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17266</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17266"/>
-        <updated>2021-11-05T05:32:34.086Z</updated>
-        <content type="html"><![CDATA[<b>
-				서울구로국제어린이영화제			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[청담미디어 Story Production팀원을 모집합니다]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17265</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17265"/>
-        <updated>2021-11-05T05:32:34.087Z</updated>
-        <content type="html"><![CDATA[<b>
-				청담미디어			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전주영화제작소 계약직 스태프 모집]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17264</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17264"/>
-        <updated>2021-11-05T05:32:34.087Z</updated>
-        <content type="html"><![CDATA[<b>
-				전주국제영화제			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[미디어 회사] 한<->영 번역/감수자 모집합니다]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17263</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17263"/>
-        <updated>2021-11-05T05:32:34.093Z</updated>
-        <content type="html"><![CDATA[<b>
-				(주)넥서스			</b>]]></content>
     </entry>
 </feed>
