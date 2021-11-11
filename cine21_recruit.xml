@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2021-11-10T17:34:53.492Z</updated>
+    <updated>2021-11-11T05:33:03.529Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[영화진흥위원회] 2022년도 한국영화아카데미 39기 촬영/프로듀싱/애니메이션전공 신입생 모집  (11/15…]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17287</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17287"/>
+        <updated>2021-11-11T05:33:02.839Z</updated>
+        <content type="html"><![CDATA[<b>
+				영화진흥위원회			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화창작공간(프로덕션) 입주자 모집 공고]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17285</id>
@@ -116,13 +124,5 @@
         <updated>2021-11-05T05:32:34.093Z</updated>
         <content type="html"><![CDATA[<b>
 				(주)넥서스			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부천판타스틱큐브] 판타스틱큐브 다큐멘터리와 인문학을 잇다 행사안내(관람료 천원)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17262</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17262"/>
-        <updated>2021-11-05T05:32:34.093Z</updated>
-        <content type="html"><![CDATA[<b>
-				부천판타스틱큐브			</b>]]></content>
     </entry>
 </feed>
