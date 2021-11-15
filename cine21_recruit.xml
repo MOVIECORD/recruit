@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2021-11-14T17:38:55.036Z</updated>
+    <updated>2021-11-15T05:32:47.436Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[청담미디어 Story팀과 Production팀 팀원을 모집합니다!]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17298</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17298"/>
+        <updated>2021-11-15T05:32:46.722Z</updated>
+        <content type="html"><![CDATA[<b>
+				청담미디어			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[15회 여성인권영화제 FIWOM 2021 ‘피움뷰어’ 모집 (~11/18)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17297</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17297"/>
+        <updated>2021-11-15T05:32:46.724Z</updated>
+        <content type="html"><![CDATA[<b>
+				한국여성의전화			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(주)인터파크 엔터테인먼트(티켓)부문 영화 투자 및 티켓 영업 담당 채용 공고의 건]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17295</id>
@@ -108,21 +124,5 @@
         <updated>2021-11-08T17:41:18.497Z</updated>
         <content type="html"><![CDATA[<b>
 				딜라이트			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[크리어스 8기 촬영워크숍 크루모집 (~11/20, 선착순마감)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17271</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17271"/>
-        <updated>2021-11-08T17:41:18.497Z</updated>
-        <content type="html"><![CDATA[<b>
-				크리어스			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[공고] 2021 (사)한국연극배우협회 신입회원 모집 (11.01~11.14)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17270</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17270"/>
-        <updated>2021-11-08T05:33:01.110Z</updated>
-        <content type="html"><![CDATA[<b>
-				(사) 한국연극배우협회			</b>]]></content>
     </entry>
 </feed>
