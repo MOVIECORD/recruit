@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-18T17:37:54.330Z</updated>
+    <updated>2021-11-19T05:32:41.866Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[사람엔터테인먼트] 기획제작본부 글로벌 업무 담당 인턴 모집 (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17312</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17312"/>
+        <updated>2021-11-19T05:32:41.098Z</updated>
+        <content type="html"><![CDATA[<b>
+				사람엔터테인먼트			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021 제4회 김포국제청소년영화제에 여러분을 초대합니다! (씨네21 ─ 영화인 리쿠르트)]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17311</id>
@@ -115,13 +123,5 @@
         <updated>2021-11-15T05:32:46.724Z</updated>
         <content type="html"><![CDATA[<b>
 				한국여성의전화			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(주)인터파크 엔터테인먼트(티켓)부문 영화 투자 및 티켓 영업 담당 채용 공고의 건 (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17295</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17295"/>
-        <updated>2021-11-14T17:38:54.434Z</updated>
-        <content type="html"><![CDATA[<b>
-				(주)인터파크			</b>]]></content>
     </entry>
 </feed>
