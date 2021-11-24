@@ -2,9 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2021-11-23T17:38:51.928Z</updated>
+    <updated>2021-11-24T05:32:50.840Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[넥서스] 영상 편집자 모집합니다.]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17329</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17329"/>
+        <updated>2021-11-24T05:32:50.215Z</updated>
+        <content type="html"><![CDATA[<b>
+				넥서스			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[넥서스] 영상 영한 감수자 모집]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17328</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17328"/>
+        <updated>2021-11-24T05:32:50.215Z</updated>
+        <content type="html"><![CDATA[<b>
+				넥서스			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[넥스트 숏-폼 시즌3 | 숏폼 콘텐츠 지원 공모 (~12/3)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17327</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17327"/>
+        <updated>2021-11-24T05:32:50.218Z</updated>
+        <content type="html"><![CDATA[<b>
+				무중력지대 강남 / 임팩트스테이션			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[키노라이츠] 상영관 플로어 매니저 모집]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17326</id>
@@ -12,30 +36,6 @@
         <updated>2021-11-23T17:38:51.356Z</updated>
         <content type="html"><![CDATA[<b>
 				키노라이츠			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[독립영화워크숍] 12월 28일(화) 개최, 독립영화워크숍의 공개설명회에 의한 입문과정 참여 회원 모집]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17325</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17325"/>
-        <updated>2021-11-23T17:38:51.356Z</updated>
-        <content type="html"><![CDATA[<b>
-				독립영화워크숍			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[독립영화워크숍] 11월 30일(화) 개최, 독립영화워크숍의 공개설명회에 의한 중급과정 참여 회원 모집]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17324</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17324"/>
-        <updated>2021-11-23T17:38:51.359Z</updated>
-        <content type="html"><![CDATA[<b>
-				독립영화워크숍			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<서울지역영화교육허브센터>의 독립영화 관련 공간 지원 및 무상 제공]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17323</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17323"/>
-        <updated>2021-11-23T17:38:51.359Z</updated>
-        <content type="html"><![CDATA[<b>
-				독립영화워크숍			</b>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[MBC아카데미] ‘영화홍보마케팅&프로듀서’ 2022 상반기 실무멘토링 과정 모집!]]></title>
