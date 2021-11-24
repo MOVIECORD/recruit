@@ -2,11 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2021-11-24T05:32:50.840Z</updated>
+    <updated>2021-11-24T17:41:26.274Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[넥서스] 영상 편집자 모집합니다.]]></title>
+        <title type="html"><![CDATA[[공지] 제4회 연기지도자 자격(3급)시험 원서접수 (11.10~12.15)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17331</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17331"/>
+        <updated>2021-11-24T17:41:25.550Z</updated>
+        <content type="html"><![CDATA[<b>
+				(사)한국연극배우협회			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서울국제여성영화제 사무국 스태프(프로그램팀 팀장) 모집]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17330</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17330"/>
+        <updated>2021-11-24T17:41:25.566Z</updated>
+        <content type="html"><![CDATA[<b>
+				서울국제여성영화제			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[넥서스] 영상 편집자 모집합니다]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17329</id>
         <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17329"/>
         <updated>2021-11-24T05:32:50.215Z</updated>
@@ -108,21 +124,5 @@
         <updated>2021-11-19T17:40:28.961Z</updated>
         <content type="html"><![CDATA[<b>
 				서울지역영화교육허브센터			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 수입/배급사 (주)더쿱 마케팅 신입/경력 팀원을 모집]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17313</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17313"/>
-        <updated>2021-11-19T17:40:28.962Z</updated>
-        <content type="html"><![CDATA[<b>
-				(주)더쿱			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사람엔터테인먼트] 기획제작본부 글로벌 업무 담당 인턴 모집]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17312</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17312"/>
-        <updated>2021-11-19T05:32:41.098Z</updated>
-        <content type="html"><![CDATA[<b>
-				사람엔터테인먼트			</b>]]></content>
     </entry>
 </feed>
