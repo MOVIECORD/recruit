@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-25T05:33:17.947Z</updated>
+    <updated>2021-11-25T17:41:02.145Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[<쇼박스 경력직 채용공고> (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17334</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17334"/>
+        <updated>2021-11-25T17:41:01.501Z</updated>
+        <content type="html"><![CDATA[<b>
+				쇼박스			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[바른손 영화사업부 기획프로듀서 경력/신입 모집 (씨네21 ─ 영화인 리쿠르트)]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17333</id>
@@ -115,13 +123,5 @@
         <updated>2021-11-19T17:40:28.960Z</updated>
         <content type="html"><![CDATA[<b>
 				영화진흥위원회			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[11월 30일(화) 개최, 독립영화워크숍의 공개설명회에 의한 중급과정 참여 회원 모집 (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17316</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17316"/>
-        <updated>2021-11-19T17:40:28.961Z</updated>
-        <content type="html"><![CDATA[<b>
-				독립영화협의회			</b>]]></content>
     </entry>
 </feed>
