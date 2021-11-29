@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2021-11-28T17:39:46.415Z</updated>
+    <updated>2021-11-29T05:32:58.976Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화사 ㈜누리픽쳐스에서 마케팅&배급, 해외팀 인턴을 모집합니다.]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17336</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17336"/>
+        <updated>2021-11-29T05:32:58.318Z</updated>
+        <content type="html"><![CDATA[<b>
+				(주)누리픽쳐스			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[바른손 영화사업부 기획프로듀서 경력/신입 모집]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17333</id>
@@ -116,13 +124,5 @@
         <updated>2021-11-19T17:40:28.960Z</updated>
         <content type="html"><![CDATA[<b>
 				영화진흥위원회			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[11월 30일(화) 개최, 독립영화워크숍의 공개설명회에 의한 중급과정 참여 회원 모집]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17316</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17316"/>
-        <updated>2021-11-26T17:40:44.345Z</updated>
-        <content type="html"><![CDATA[<b>
-				독립영화협의회			</b>]]></content>
     </entry>
 </feed>
