@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2021-11-29T05:32:58.976Z</updated>
+    <updated>2021-11-29T17:41:54.153Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<쇼박스 경력직 채용공고>]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17337</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17337"/>
+        <updated>2021-11-29T17:41:53.459Z</updated>
+        <content type="html"><![CDATA[<b>
+				쇼박스			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화사 ㈜누리픽쳐스에서 마케팅&배급, 해외팀 인턴을 모집합니다.]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17336</id>
@@ -116,13 +124,5 @@
         <updated>2021-11-19T17:40:28.960Z</updated>
         <content type="html"><![CDATA[<b>
 				독립영화협의회			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[영화진흥위원회] 2022년도 한국영화아카데미 39기 촬영/프로듀싱/애니메이션전공 신입생 모집  (11/15…]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17317</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17317"/>
-        <updated>2021-11-19T17:40:28.960Z</updated>
-        <content type="html"><![CDATA[<b>
-				영화진흥위원회			</b>]]></content>
     </entry>
 </feed>
