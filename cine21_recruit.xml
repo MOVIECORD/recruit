@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2021-11-30T05:32:06.101Z</updated>
+    <updated>2021-11-30T17:38:51.441Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[씨네큐브 발권업무 아르바이트 모집]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17340</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17340"/>
+        <updated>2021-11-30T17:38:50.717Z</updated>
+        <content type="html"><![CDATA[<b>
+				씨네큐브			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전국에서 당일지급15만이상 채권회수/추심팀 신규사원 모집합니다]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17339</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17339"/>
+        <updated>2021-11-30T17:38:50.717Z</updated>
+        <content type="html"><![CDATA[<b>
+				ZMD컴퍼니			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[장편영화 시나리오 기획, 개발 스터디 (상업영화 아이템 개발, 공모전 준비 등)]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17338</id>
@@ -108,21 +124,5 @@
         <updated>2021-11-23T17:38:51.360Z</updated>
         <content type="html"><![CDATA[<b>
 				(주)씨에이엔			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[W SERVICES(왓챠 자회사) 검수 매니저 모집]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17320</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17320"/>
-        <updated>2021-11-22T17:42:01.640Z</updated>
-        <content type="html"><![CDATA[<b>
-				W SERVICES(왓챠 자회사)			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[12월 28일(화) 개최, 독립영화워크숍의 공개설명회에 의한 입문과정 참여 회원 모집]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17319</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17319"/>
-        <updated>2021-11-19T17:40:28.951Z</updated>
-        <content type="html"><![CDATA[<b>
-				독립영화협의회			</b>]]></content>
     </entry>
 </feed>
