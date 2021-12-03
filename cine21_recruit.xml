@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2021-12-02T17:40:33.684Z</updated>
+    <updated>2021-12-03T05:34:16.051Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[채용] 2022년 평창국제평화영화제 스태프 채용 안내(프로그램팀)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17350</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17350"/>
+        <updated>2021-12-03T05:34:15.316Z</updated>
+        <content type="html"><![CDATA[<b>
+				(사)평창국제평화영화제			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[지니스 커뮤니케이션] 영화 디지털 마케팅 경력 채용 공고]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17349</id>
@@ -116,13 +124,5 @@
         <updated>2021-11-25T05:33:17.337Z</updated>
         <content type="html"><![CDATA[<b>
 				서울영상위원회			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[공지] 제4회 연기지도자 자격(3급)시험 원서접수 (11.10~12.15)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17331</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17331"/>
-        <updated>2021-11-24T17:41:25.550Z</updated>
-        <content type="html"><![CDATA[<b>
-				(사)한국연극배우협회			</b>]]></content>
     </entry>
 </feed>
