@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2021-12-04T05:33:16.276Z</updated>
+    <updated>2021-12-05T05:33:15.406Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화연출 입시학원 강사님 모집합니다!]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17356</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17356"/>
+        <updated>2021-12-05T05:33:14.767Z</updated>
+        <content type="html"><![CDATA[<b>
+				줌인 영화학원			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 수입/배급사 (주)더쿱 마케팅 신입/경력 팀원을 모집]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17355</id>
@@ -116,13 +124,5 @@
         <updated>2021-11-30T17:38:50.717Z</updated>
         <content type="html"><![CDATA[<b>
 				씨네큐브			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전국에서 당일지급15만이상 채권회수/추심팀 신규사원 모집합니다]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17339</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17339"/>
-        <updated>2021-11-30T17:38:50.717Z</updated>
-        <content type="html"><![CDATA[<b>
-				ZMD컴퍼니			</b>]]></content>
     </entry>
 </feed>
