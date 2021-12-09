@@ -2,8 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-09T05:35:44.632Z</updated>
+    <updated>2021-12-09T17:43:33.524Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[왓챠] 드라마 제작 PD 모집 (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17375</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17375"/>
+        <updated>2021-12-09T17:43:32.802Z</updated>
+        <content type="html"><![CDATA[<b>
+				왓챠			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전주영화제작소 계약직 스태프 모집(색보정 보조) (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17374</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17374"/>
+        <updated>2021-12-09T17:43:32.802Z</updated>
+        <content type="html"><![CDATA[<b>
+				전주국제영화제			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대한민국에서 받을 수 있는 영화교육을 거의 대부분 거친 꼴이 되어버렸습니다. (씨네21 ─ 영화인 리쿠르트)]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17373</id>
@@ -107,21 +123,5 @@
         <updated>2021-12-06T17:31:27.297Z</updated>
         <content type="html"><![CDATA[<b>
 				전주국제영화제조직위원회			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[BIAF2022] 부천국제애니메이션페스티벌 스태프 채용 공고 (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17360</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17360"/>
-        <updated>2021-12-06T05:33:35.752Z</updated>
-        <content type="html"><![CDATA[<b>
-				부천국제애니메이션페스티벌			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[청담미디어 Story팀과 Production팀 팀원을 모집합니다! (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17359</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17359"/>
-        <updated>2021-12-06T05:33:35.754Z</updated>
-        <content type="html"><![CDATA[<b>
-				청담미디어			</b>]]></content>
     </entry>
 </feed>
