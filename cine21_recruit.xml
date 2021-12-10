@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2021-12-09T17:43:33.528Z</updated>
+    <updated>2021-12-10T05:33:23.176Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[용필름] 기획마케팅실/제작관리실 정규직 채용 공고]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17376</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17376"/>
+        <updated>2021-12-10T05:33:22.484Z</updated>
+        <content type="html"><![CDATA[<b>
+				용필름			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[왓챠] 드라마 제작 PD 모집]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17375</id>
@@ -116,13 +124,5 @@
         <updated>2021-12-06T17:31:27.296Z</updated>
         <content type="html"><![CDATA[<b>
 				(주)비싸이드픽쳐스			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제23회 전주국제영화제 스태프 모집(2차)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17361</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17361"/>
-        <updated>2021-12-06T17:31:27.297Z</updated>
-        <content type="html"><![CDATA[<b>
-				전주국제영화제조직위원회			</b>]]></content>
     </entry>
 </feed>
