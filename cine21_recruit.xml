@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2021-12-15T17:42:03.824Z</updated>
+    <updated>2021-12-16T05:33:08.953Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아카데미 로카 2022년 정규 강좌 수강생 모집]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17381</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17381"/>
+        <updated>2021-12-16T05:33:08.355Z</updated>
+        <content type="html"><![CDATA[<b>
+				아카데미 로카			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[투에이치컴퍼니에서 당일지급15만원이상 채권회수/회수팀 신입사원 모집합니다]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17380</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17380"/>
+        <updated>2021-12-16T05:33:08.356Z</updated>
+        <content type="html"><![CDATA[<b>
+				(주)투에이치컴퍼니			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 홍보마케팅사 "흥미진진" 경력 사원 채용 공고]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17379</id>
@@ -108,21 +124,5 @@
         <updated>2021-12-07T17:44:28.388Z</updated>
         <content type="html"><![CDATA[<b>
 				홀리가든			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[(주)올댓시네마] 오프라인 마케팅 경력 채용 공고]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17365</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17365"/>
-        <updated>2021-12-06T17:31:27.278Z</updated>
-        <content type="html"><![CDATA[<b>
-				(주)올댓시네마			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[무비앤아이 영화 홍보 마케팅 신입/ 경력 모집]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17364</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17364"/>
-        <updated>2021-12-06T17:31:27.283Z</updated>
-        <content type="html"><![CDATA[<b>
-				무비앤아이			</b>]]></content>
     </entry>
 </feed>
