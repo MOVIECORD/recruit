@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2021-12-20T05:34:47.807Z</updated>
+    <updated>2021-12-20T17:43:56.533Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[태원엔터테인먼트] 기획개발 드라마 대본 모니터링 요원 모집 공고]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17393</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17393"/>
+        <updated>2021-12-20T17:43:55.884Z</updated>
+        <content type="html"><![CDATA[<b>
+				태원엔터테인먼트			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영화디지털마케팅사<아이스크림> 경력 및 신입 사원 채용합니다.]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17392</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17392"/>
+        <updated>2021-12-20T17:43:55.884Z</updated>
+        <content type="html"><![CDATA[<b>
+				eyescream			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[숏폼 콘텐츠 창작자 워크숍 참여자 모집 (~12.21)]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17391</id>
@@ -108,21 +124,5 @@
         <updated>2021-12-15T17:42:03.181Z</updated>
         <content type="html"><![CDATA[<b>
 				충무로영상센터 오!재미동			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[KSI 특강] 공모전 당선을 위한 최종점검 180분 특강 (특별게스트 - 2020 영진위, KBS 공모 당…]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17377</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17377"/>
-        <updated>2021-12-12T17:40:27.905Z</updated>
-        <content type="html"><![CDATA[<b>
-				한국시나리오연구소			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[용필름] 기획마케팅실/제작관리실 정규직 채용 공고]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17376</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17376"/>
-        <updated>2021-12-10T05:33:22.484Z</updated>
-        <content type="html"><![CDATA[<b>
-				용필름			</b>]]></content>
     </entry>
 </feed>
