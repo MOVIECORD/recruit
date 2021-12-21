@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2021-12-20T17:43:56.533Z</updated>
+    <updated>2021-12-21T05:34:28.313Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[미디어 회사] 국내 프로젝트 매니저 모집합니다]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17394</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17394"/>
+        <updated>2021-12-21T05:34:27.549Z</updated>
+        <content type="html"><![CDATA[<b>
+				넥서스			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[태원엔터테인먼트] 기획개발 드라마 대본 모니터링 요원 모집 공고]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17393</id>
@@ -116,13 +124,5 @@
         <updated>2021-12-15T17:42:03.157Z</updated>
         <content type="html"><![CDATA[<b>
 				흥미진진			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오!재미동 온라인 강의] 영화구경꾼들 <이야기의 확장, 극장의 자리 그리고 영화의 미래>]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17378</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17378"/>
-        <updated>2021-12-15T17:42:03.181Z</updated>
-        <content type="html"><![CDATA[<b>
-				충무로영상센터 오!재미동			</b>]]></content>
     </entry>
 </feed>
