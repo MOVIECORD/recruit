@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2021-12-22T17:44:50.014Z</updated>
+    <updated>2021-12-23T05:34:26.326Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[영화사 하늘]홍보/마케팅 신입 및 경력 채용 공고]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17405</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17405"/>
+        <updated>2021-12-23T05:34:25.725Z</updated>
+        <content type="html"><![CDATA[<b>
+				영화사 하늘			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[지니스 커뮤니케이션] 영화 디지털 마케팅 경력직 상시 채용 공고]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17403</id>
@@ -116,13 +124,5 @@
         <updated>2021-12-17T05:33:05.969Z</updated>
         <content type="html"><![CDATA[<b>
 				로드원오원			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[키노라이츠] 콘텐츠 디렉터를 기다립니다]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17386</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17386"/>
-        <updated>2021-12-16T17:41:52.575Z</updated>
-        <content type="html"><![CDATA[<b>
-				키노라이츠			</b>]]></content>
     </entry>
 </feed>
