@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2021-12-26T17:42:06.422Z</updated>
+    <updated>2021-12-27T05:36:35.156Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[투에이치컴퍼니에서 당일지급15만이상 신규사원 모집합니다]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17411</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17411"/>
+        <updated>2021-12-27T05:36:34.490Z</updated>
+        <content type="html"><![CDATA[<b>
+				투에이치컴퍼니			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[안녕하세요 웹스프레드 경력채용공고입니다.]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17410</id>
@@ -116,13 +124,5 @@
         <updated>2021-12-21T05:34:27.549Z</updated>
         <content type="html"><![CDATA[<b>
 				넥서스			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[태원엔터테인먼트] 기획개발 드라마 대본 모니터링 요원 모집 공고]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17393</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17393"/>
-        <updated>2021-12-20T17:43:55.884Z</updated>
-        <content type="html"><![CDATA[<b>
-				태원엔터테인먼트			</b>]]></content>
     </entry>
 </feed>
