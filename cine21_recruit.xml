@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2021-12-29T17:43:13.620Z</updated>
+    <updated>2021-12-30T05:39:10.348Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화/OTT콘텐츠 제작사(주)케이드래곤 기획PD 직원 채용공고]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17420</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17420"/>
+        <updated>2021-12-30T05:39:09.721Z</updated>
+        <content type="html"><![CDATA[<b>
+				(주)케이드래곤			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(주)모쿠슈라픽쳐스에서 영화 수입/배급을 담당할 신입사원을 모집합니다.]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17419</id>
@@ -116,13 +124,5 @@
         <updated>2021-12-23T17:43:03.751Z</updated>
         <content type="html"><![CDATA[<b>
 				한국시나리오연구소			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[영화사 하늘]홍보/마케팅 신입 및 경력 채용 공고]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17405</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17405"/>
-        <updated>2021-12-23T05:34:25.725Z</updated>
-        <content type="html"><![CDATA[<b>
-				영화사 하늘			</b>]]></content>
     </entry>
 </feed>
