@@ -2,9 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2022-01-03T17:48:00.315Z</updated>
+    <updated>2022-01-04T05:39:27.802Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제10회 무주산골영화제 한국장편영화경쟁부문 ‘창窓’ 섹션 출품 공모 안내]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17431</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17431"/>
+        <updated>2022-01-04T05:39:27.177Z</updated>
+        <content type="html"><![CDATA[<b>
+				무주산골영화제			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[디즈니+ 담당 디지털 광고 AE, 디자이너, PD 채용 중]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17430</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17430"/>
+        <updated>2022-01-04T05:39:27.179Z</updated>
+        <content type="html"><![CDATA[<b>
+				주식회사 구십구도씨			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사단법인 DMZ국제다큐멘터리영화제 2022년 상반기 정규직원 채용공고]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17429</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17429"/>
+        <updated>2022-01-04T05:39:27.179Z</updated>
+        <content type="html"><![CDATA[<b>
+				DMZ국제다큐멘터리영화제			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 홍보마케팅사 "흥미진진" 신입사원 채용 공고]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17428</id>
@@ -100,29 +124,5 @@
         <updated>2021-12-28T17:43:02.292Z</updated>
         <content type="html"><![CDATA[<b>
 				비스포크랩 주식회사			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한영 자막 감수자 채용 (정규직)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17415</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17415"/>
-        <updated>2021-12-28T17:43:02.293Z</updated>
-        <content type="html"><![CDATA[<b>
-				비스포크랩 주식회사			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Partner Relations Coordinator 채용 (정규직)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17414</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17414"/>
-        <updated>2021-12-28T17:43:02.296Z</updated>
-        <content type="html"><![CDATA[<b>
-				비스포크랩 주식회사			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부천국제판타스틱영화제 스태프(산업프로그램팀원) 채용 공고]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17413</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17413"/>
-        <updated>2021-12-28T05:34:04.959Z</updated>
-        <content type="html"><![CDATA[<b>
-				부천국제판타스틱영화제			</b>]]></content>
     </entry>
 </feed>
