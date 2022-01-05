@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2022-01-05T05:39:43.926Z</updated>
+    <updated>2022-01-05T17:48:48.636Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 평창국제평화영화제 경쟁부문 출품공모 안내]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17445</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17445"/>
+        <updated>2022-01-05T17:48:48.005Z</updated>
+        <content type="html"><![CDATA[<b>
+				평창국제평화영화제			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 평창국제평화영화제 스태프 채용]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17444</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17444"/>
+        <updated>2022-01-05T17:48:48.005Z</updated>
+        <content type="html"><![CDATA[<b>
+				사단법인 평창국제평화영화제			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단편영화 제작팀 <플랑세캉스>에서 신입회원을 모집합니다.]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17436</id>
@@ -108,21 +124,5 @@
         <updated>2022-01-03T05:39:41.042Z</updated>
         <content type="html"><![CDATA[<b>
 							</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(주)비싸이드픽쳐스에서 함께 상업영화 및 스토리를 기획 개발할 작가님을 모집합니다.]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17423</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17423"/>
-        <updated>2022-01-03T05:39:41.042Z</updated>
-        <content type="html"><![CDATA[<b>
-				(주)비싸이드픽쳐스			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장편상업영화 시나리오 개발 스터디 팀원 모집 (공모전 준비, 아이템 개발 등)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17422</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17422"/>
-        <updated>2021-12-31T05:39:12.628Z</updated>
-        <content type="html"><![CDATA[<b>
-				시나리오 스터디			</b>]]></content>
     </entry>
 </feed>
