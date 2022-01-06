@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2022-01-05T17:48:48.636Z</updated>
+    <updated>2022-01-06T05:40:32.378Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[투에이치에서 당일지급 현장보조업무 알바생 모집중입니다]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17446</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17446"/>
+        <updated>2022-01-06T05:40:31.689Z</updated>
+        <content type="html"><![CDATA[<b>
+				투에이치컴퍼니			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 평창국제평화영화제 경쟁부문 출품공모 안내]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17445</id>
@@ -116,13 +124,5 @@
         <updated>2022-01-03T05:39:41.042Z</updated>
         <content type="html"><![CDATA[<b>
 				비스포크랩 주식회사			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[충무로영상센터 오!재미동] 단편영화 시나리오,무조건 완성하기 수강생 대모집!]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17424</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17424"/>
-        <updated>2022-01-03T05:39:41.042Z</updated>
-        <content type="html"><![CDATA[<b>
-							</b>]]></content>
     </entry>
 </feed>
