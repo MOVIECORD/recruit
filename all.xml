@@ -2,8 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-07T05:40:08.361Z</updated>
+    <updated>2022-01-07T17:48:50.333Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[영상 영한 감수자 모집합니다 (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17452</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17452"/>
+        <updated>2022-01-07T17:48:49.692Z</updated>
+        <content type="html"><![CDATA[<b>
+				넥서스			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 서울구로국제어린이영화제 <제작지원사업> 공모 (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17451</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17451"/>
+        <updated>2022-01-07T17:48:49.692Z</updated>
+        <content type="html"><![CDATA[<b>
+				서울구로국제어린이영화제			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제10회 서울구로국제어린이영화제 <경쟁부문 출품공모> (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17450</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17450"/>
+        <updated>2022-01-07T17:48:49.692Z</updated>
+        <content type="html"><![CDATA[<b>
+				서울구로국제어린이영화제			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<트레이서>제작사 ㈜웨스트월드스토리 기획본부 경력 사원 모집 (씨네21 ─ 영화인 리쿠르트)]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17449</id>
@@ -99,29 +123,5 @@
         <updated>2022-01-04T05:39:27.177Z</updated>
         <content type="html"><![CDATA[<b>
 				무주산골영화제			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[디즈니+ 담당 디지털 광고 AE, 디자이너, PD 채용 중 (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17430</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17430"/>
-        <updated>2022-01-04T05:39:27.179Z</updated>
-        <content type="html"><![CDATA[<b>
-				주식회사 구십구도씨			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사단법인 DMZ국제다큐멘터리영화제 2022년 상반기 정규직원 채용공고 (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17429</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17429"/>
-        <updated>2022-01-04T05:39:27.179Z</updated>
-        <content type="html"><![CDATA[<b>
-				DMZ국제다큐멘터리영화제			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 홍보마케팅사 "흥미진진" 신입사원 채용 공고 (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17428</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17428"/>
-        <updated>2022-01-03T17:47:59.655Z</updated>
-        <content type="html"><![CDATA[<b>
-				흥미진진			</b>]]></content>
     </entry>
 </feed>
