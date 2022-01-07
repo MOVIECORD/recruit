@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2022-01-06T17:48:47.348Z</updated>
+    <updated>2022-01-07T05:40:08.340Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<트레이서>제작사 ㈜웨스트월드스토리 기획본부 경력 사원 모집]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17449</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17449"/>
+        <updated>2022-01-07T05:40:07.710Z</updated>
+        <content type="html"><![CDATA[<b>
+				주식회사 웨스트월드 스토리			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제24회 서울국제여성영화제 사무국 스태프 1차 모집(기획사업팀)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17448</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17448"/>
+        <updated>2022-01-07T05:40:07.712Z</updated>
+        <content type="html"><![CDATA[<b>
+				서울국제여성영화제			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(주)용필름 2022년 상반기 신인작가 인선 공고]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17447</id>
@@ -108,21 +124,5 @@
         <updated>2022-01-03T17:47:59.655Z</updated>
         <content type="html"><![CDATA[<b>
 				흥미진진			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화/OTT콘텐츠 제작사 ㈜엠씨엠씨 신입/경력 정규직 채용 공고]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17427</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17427"/>
-        <updated>2022-01-03T17:47:59.655Z</updated>
-        <content type="html"><![CDATA[<b>
-				(주)엠씨엠씨			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엣나인필름에서 극장 및 영화 마케팅 분야 신입/경력사원을 모집합니다.]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17426</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17426"/>
-        <updated>2022-01-03T17:47:59.655Z</updated>
-        <content type="html"><![CDATA[<b>
-				(주)엣나인필름			</b>]]></content>
     </entry>
 </feed>
