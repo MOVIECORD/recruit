@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-12T17:45:52.726Z</updated>
+    <updated>2022-01-13T05:40:37.103Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[(주)지니스 커뮤니케이션 영화/콘텐츠 마케팅 경력직 공고 (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17473</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17473"/>
+        <updated>2022-01-13T05:40:36.473Z</updated>
+        <content type="html"><![CDATA[<b>
+				(주)지니스 커뮤니케이션			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[앨리캣] 영화 디지털마케팅 신입(인턴)사원 채용 공고 (씨네21 ─ 영화인 리쿠르트)]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17472</id>
@@ -115,13 +123,5 @@
         <updated>2022-01-09T17:46:57.264Z</updated>
         <content type="html"><![CDATA[<b>
 				서울지역영화교육허브센터			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영상 영한 감수자 모집합니다 (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17452</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17452"/>
-        <updated>2022-01-07T17:48:49.692Z</updated>
-        <content type="html"><![CDATA[<b>
-				넥서스			</b>]]></content>
     </entry>
 </feed>
