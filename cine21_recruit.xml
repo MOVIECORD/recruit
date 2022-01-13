@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2022-01-13T05:40:37.105Z</updated>
+    <updated>2022-01-13T17:49:18.212Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[건국대학교 미래지식교육원 스크린액팅 (2기, 비기너) 과정 모집]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17475</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17475"/>
+        <updated>2022-01-13T17:49:17.579Z</updated>
+        <content type="html"><![CDATA[<b>
+				건국대학교 미래지식교육원			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ALLM] 온라인 마케팅사 ‘ALLM’에서 디지털 마케터 신입&경력직을 구합니다.]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17474</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17474"/>
+        <updated>2022-01-13T17:49:17.580Z</updated>
+        <content type="html"><![CDATA[<b>
+				ALLM			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(주)지니스 커뮤니케이션 영화/콘텐츠 마케팅 경력직 공고]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17473</id>
@@ -108,21 +124,5 @@
         <updated>2022-01-09T17:46:57.262Z</updated>
         <content type="html"><![CDATA[<b>
 				독립영화워크숍			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3월 1일(화) 개최, 독립영화워크숍의 공개설명회에 의한 입문과정 참여 회원 모집]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17454</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17454"/>
-        <updated>2022-01-09T17:46:57.262Z</updated>
-        <content type="html"><![CDATA[<b>
-				독립영화협의회			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<서울지역영화교육허브센터>의 독립영화 관련 공간 지원 및 무상 제공]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17453</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17453"/>
-        <updated>2022-01-09T17:46:57.264Z</updated>
-        <content type="html"><![CDATA[<b>
-				서울지역영화교육허브센터			</b>]]></content>
     </entry>
 </feed>
