@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2022-01-13T17:49:18.212Z</updated>
+    <updated>2022-01-14T05:40:12.825Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 워터 웹시네마 단편영화제 출품작 공모 - Water web cinema]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17476</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17476"/>
+        <updated>2022-01-14T05:40:12.235Z</updated>
+        <content type="html"><![CDATA[<b>
+				공모전 운영사무국			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[건국대학교 미래지식교육원 스크린액팅 (2기, 비기너) 과정 모집]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17475</id>
@@ -116,13 +124,5 @@
         <updated>2022-01-09T17:46:57.258Z</updated>
         <content type="html"><![CDATA[<b>
 				독립영화협의회			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「영화인」의 시작]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17455</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17455"/>
-        <updated>2022-01-09T17:46:57.262Z</updated>
-        <content type="html"><![CDATA[<b>
-				독립영화워크숍			</b>]]></content>
     </entry>
 </feed>
