@@ -2,8 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-18T05:40:32.012Z</updated>
+    <updated>2022-01-18T17:49:52.546Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[2022년 제1회 롯데 마스터 프로젝트 공모전 개최 (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17480</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17480"/>
+        <updated>2022-01-18T17:49:51.575Z</updated>
+        <content type="html"><![CDATA[<b>
+				롯데컬처웍스			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[부천 스토리텔링 아카데미] 제1기 학생 모집 (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17479</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17479"/>
+        <updated>2022-01-18T17:49:51.576Z</updated>
+        <content type="html"><![CDATA[<b>
+				부천시 문화산업전략과			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[BIAF2022] 부천국제애니메이션페스티벌 프로그램팀 공개 채용 (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17478</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17478"/>
+        <updated>2022-01-18T17:49:51.576Z</updated>
+        <content type="html"><![CDATA[<b>
+				부천국제애니메이션페스티벌			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단편영화 제작지원 [필름X젠더] 공모시작! (~2/7) (씨네21 ─ 영화인 리쿠르트)]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17477</id>
@@ -99,29 +123,5 @@
         <updated>2022-01-11T05:39:41.016Z</updated>
         <content type="html"><![CDATA[<b>
 				(주)태원엔터테인먼트			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[함께 콘텐츠 만드는 "크리어스" 9기 모집 (영화/다큐/웹드/뮤비/예능) (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17459</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17459"/>
-        <updated>2022-01-10T17:49:11.666Z</updated>
-        <content type="html"><![CDATA[<b>
-				크리어스			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아카데미 로카 <영화 비즈니스 입문 48기 in 강남> 수강생 모집 (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17458</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17458"/>
-        <updated>2022-01-10T17:49:11.667Z</updated>
-        <content type="html"><![CDATA[<b>
-				아카데미 로카			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[왓챠] 드라마 PD 모집 (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17457</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17457"/>
-        <updated>2022-01-10T17:49:11.668Z</updated>
-        <content type="html"><![CDATA[<b>
-				왓챠			</b>]]></content>
     </entry>
 </feed>
