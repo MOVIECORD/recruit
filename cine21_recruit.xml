@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2022-01-20T05:37:16.497Z</updated>
+    <updated>2022-01-20T17:41:48.339Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022년 제18회 제천국제음악영화제 스태프 1차 모집 공고]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17484</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17484"/>
+        <updated>2022-01-20T17:41:47.702Z</updated>
+        <content type="html"><![CDATA[<b>
+				제천국제음악영화제			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(주)더쿱 마케팅 경력 채용]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17483</id>
@@ -116,13 +124,5 @@
         <updated>2022-01-12T05:40:21.369Z</updated>
         <content type="html"><![CDATA[<b>
 				(주)레드로버			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[KSI특강] 사극(史劇)전문가 김종성 기자 180분 특강 - 삼국시대, 고려시대에서 소재 찾기]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17463</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17463"/>
-        <updated>2022-01-11T17:49:21.328Z</updated>
-        <content type="html"><![CDATA[<b>
-				한국시나리오연구소			</b>]]></content>
     </entry>
 </feed>
