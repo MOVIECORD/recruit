@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2022-01-23T17:39:56.109Z</updated>
+    <updated>2022-01-24T05:37:19.964Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 독립영화 매칭 워크숍: 퍼스트링크(FIRST LINK) 참여 작품 공모 (~2/10)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17487</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17487"/>
+        <updated>2022-01-24T05:37:19.221Z</updated>
+        <content type="html"><![CDATA[<b>
+				인디그라운드			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 스토리업 단편영화 제작지원 공모 (~2/9)]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17486</id>
@@ -116,13 +124,5 @@
         <updated>2022-01-13T05:40:36.473Z</updated>
         <content type="html"><![CDATA[<b>
 				(주)지니스 커뮤니케이션			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[앨리캣] 영화 디지털마케팅 신입(인턴)사원 채용 공고]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17472</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17472"/>
-        <updated>2022-01-12T17:45:52.057Z</updated>
-        <content type="html"><![CDATA[<b>
-				주식회사 앨리캣			</b>]]></content>
     </entry>
 </feed>
