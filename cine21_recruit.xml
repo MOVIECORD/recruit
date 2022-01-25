@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2022-01-24T17:42:19.938Z</updated>
+    <updated>2022-01-25T05:37:36.437Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제20회 광화문국제단편영화제 스태프 모집]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17494</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17494"/>
+        <updated>2022-01-25T05:37:35.794Z</updated>
+        <content type="html"><![CDATA[<b>
+				광화문국제단편영화제			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[함께 콘텐츠 만드는 "크리어스" 9기 모집 (영화/다큐/웹드/뮤비/예능/촬영-조명)]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17493</id>
@@ -116,13 +124,5 @@
         <updated>2022-01-18T05:40:31.290Z</updated>
         <content type="html"><![CDATA[<b>
 				서울국제여성영화제			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 워터 웹시네마 단편영화제 출품작 공모 - Water web cinema]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17476</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17476"/>
-        <updated>2022-01-14T05:40:12.235Z</updated>
-        <content type="html"><![CDATA[<b>
-				공모전 운영사무국			</b>]]></content>
     </entry>
 </feed>
