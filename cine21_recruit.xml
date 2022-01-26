@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2022-01-26T05:37:30.968Z</updated>
+    <updated>2022-01-26T17:41:45.425Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022년 평창국제평화영화제 스태프 채용 안내(4차)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17497</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17497"/>
+        <updated>2022-01-26T17:41:44.721Z</updated>
+        <content type="html"><![CDATA[<b>
+				사단법인 평창국제평화영화제			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[청담미디어 Story 팀원을 모집합니다]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17496</id>
@@ -116,13 +124,5 @@
         <updated>2022-01-18T17:49:51.575Z</updated>
         <content type="html"><![CDATA[<b>
 				롯데컬처웍스			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부천 스토리텔링 아카데미] 제1기 학생 모집]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17479</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17479"/>
-        <updated>2022-01-18T17:49:51.576Z</updated>
-        <content type="html"><![CDATA[<b>
-				부천시 문화산업전략과			</b>]]></content>
     </entry>
 </feed>
