@@ -2,9 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2022-02-06T17:38:34.660Z</updated>
+    <updated>2022-02-07T05:37:25.326Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[로카] 영화사 취업 설명회 by LOCA in 건대입구 예매 오픈!]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17513</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17513"/>
+        <updated>2022-02-07T05:37:24.601Z</updated>
+        <content type="html"><![CDATA[<b>
+				아카데미 로카			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[공모] 2022년 상반기 <제21회 필름게이트> 공모(~3.20)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17512</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17512"/>
+        <updated>2022-02-07T05:37:24.601Z</updated>
+        <content type="html"><![CDATA[<b>
+				신영균예술문화재단			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[로카] <영화 비즈니스 취업 준비 과정 27기> & <영화 비즈니스 입문 49기> 수강생 모집]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17511</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17511"/>
+        <updated>2022-02-07T05:37:24.623Z</updated>
+        <content type="html"><![CDATA[<b>
+				아카데미 로카			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주식회사 절찬상영중 2022 신입, 경력 모집]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17510</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17510"/>
+        <updated>2022-02-07T05:37:24.623Z</updated>
+        <content type="html"><![CDATA[<b>
+				절찬상영중			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서울환경영화제 홍보팀장 상근자채용 (~2/8)]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17509</id>
@@ -92,37 +124,5 @@
         <updated>2022-01-26T17:41:44.721Z</updated>
         <content type="html"><![CDATA[<b>
 				사단법인 평창국제평화영화제			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[청담미디어 Story 팀원을 모집합니다]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17496</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17496"/>
-        <updated>2022-01-26T05:37:30.338Z</updated>
-        <content type="html"><![CDATA[<b>
-				청담미디어			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(주)모쿠슈라픽쳐스에서 영화 수입/배급을 담당할 신입사원을 모집합니다.]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17495</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17495"/>
-        <updated>2022-01-25T17:41:02.713Z</updated>
-        <content type="html"><![CDATA[<b>
-				모쿠슈라픽쳐스			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제20회 광화문국제단편영화제 스태프 모집]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17494</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17494"/>
-        <updated>2022-01-25T05:37:35.794Z</updated>
-        <content type="html"><![CDATA[<b>
-				광화문국제단편영화제			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[함께 콘텐츠 만드는 "크리어스" 9기 모집 (영화/다큐/웹드/뮤비/예능/촬영-조명)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17493</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17493"/>
-        <updated>2022-01-24T17:42:19.209Z</updated>
-        <content type="html"><![CDATA[<b>
-				크리어스			</b>]]></content>
     </entry>
 </feed>
