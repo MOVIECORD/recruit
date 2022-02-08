@@ -2,9 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2022-02-08T05:37:19.611Z</updated>
+    <updated>2022-02-08T17:39:50.425Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(주)넥서스 미디어 회사 국내마케팅팀 프로젝트 매니저 모십니다]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17520</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17520"/>
+        <updated>2022-02-08T17:39:49.789Z</updated>
+        <content type="html"><![CDATA[<b>
+				(주)넥서스			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[더틱톡] 드라마/예능 홍보대행 2022년 신입 공고]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17519</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17519"/>
+        <updated>2022-02-08T17:39:49.794Z</updated>
+        <content type="html"><![CDATA[<b>
+				더틱톡			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제23회 전주국제영화제 단기스태프 모집]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17518</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17518"/>
+        <updated>2022-02-08T17:39:49.794Z</updated>
+        <content type="html"><![CDATA[<b>
+				전주국제영화제조직위원회			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제26회 BIFAN, NAFF 워크 인 프로그레스 공모 (~2월 15일)]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17517</id>
@@ -100,29 +124,5 @@
         <updated>2022-02-03T17:40:22.590Z</updated>
         <content type="html"><![CDATA[<b>
 				키노라이츠			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[류승완, 한준희 감독은 지옥 같은 공동작업을 입문 수료하였습니다.]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17505</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17505"/>
-        <updated>2022-01-31T17:38:50.593Z</updated>
-        <content type="html"><![CDATA[<b>
-				독립영화워크숍			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3월 1일(화) 개최, 독립영화워크숍의 공개설명회에 의한 입문과정 참여 회원 모집]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17504</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17504"/>
-        <updated>2022-01-29T05:37:48.261Z</updated>
-        <content type="html"><![CDATA[<b>
-				독립영화협의회			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘영화 만드는 것 자체가 공동작업’]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17503</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17503"/>
-        <updated>2022-01-29T05:37:48.267Z</updated>
-        <content type="html"><![CDATA[<b>
-				독립영화워크숍			</b>]]></content>
     </entry>
 </feed>
