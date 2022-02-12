@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2022-02-11T17:38:26.967Z</updated>
+    <updated>2022-02-12T05:37:17.386Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(주)넥서스 미디어 회사 국내마케팅팀 프로젝트 매니저 모십니다]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17540</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17540"/>
+        <updated>2022-02-12T05:37:16.741Z</updated>
+        <content type="html"><![CDATA[<b>
+				(주)넥서스			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[공모] 2022년 진지한할인 제작지원 공모(~3.2)]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17539</id>
@@ -116,13 +124,5 @@
         <updated>2022-02-09T17:40:38.973Z</updated>
         <content type="html"><![CDATA[<b>
 				베이스캠프A&amp;C			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[엔케이컨텐츠] 마케팅 경력직원을 모집합니다 ( ~ 2/28 )]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17525</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17525"/>
-        <updated>2022-02-09T17:40:38.974Z</updated>
-        <content type="html"><![CDATA[<b>
-				엔케이컨텐츠			</b>]]></content>
     </entry>
 </feed>
