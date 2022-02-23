@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2022-02-23T05:37:12.122Z</updated>
+    <updated>2022-02-23T17:40:18.235Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[마인드마크] 영화배급 부가판권 전문가 모집]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17580</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17580"/>
+        <updated>2022-02-23T17:40:17.582Z</updated>
+        <content type="html"><![CDATA[<b>
+				마인드마크			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[-2022 제5회 김포국제청소년영화제 [3.1절 특별상영회 '주전장'] 관람신청 안내-]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17579</id>
@@ -116,13 +124,5 @@
         <updated>2022-02-16T17:39:05.420Z</updated>
         <content type="html"><![CDATA[<b>
 				MBC아카데미			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[공모] 2022 평창국제평화영화제 피칭 프로젝트]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17558</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17558"/>
-        <updated>2022-02-16T17:39:05.421Z</updated>
-        <content type="html"><![CDATA[<b>
-				평창국제평화영화제			</b>]]></content>
     </entry>
 </feed>
