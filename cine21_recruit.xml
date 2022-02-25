@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2022-02-24T17:39:38.439Z</updated>
+    <updated>2022-02-25T05:37:20.625Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[(주)하이브미디어코프] 기획팀 인턴 채용 공고]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17589</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17589"/>
+        <updated>2022-02-25T05:37:19.941Z</updated>
+        <content type="html"><![CDATA[<b>
+				(주)하이브미디어코프			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(주)넥서스 영상 편집자를 찾습니다]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17588</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17588"/>
+        <updated>2022-02-25T05:37:19.942Z</updated>
+        <content type="html"><![CDATA[<b>
+				(주)넥서스			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[재공고] 2022년 평창국제평화영화제 스태프 채용 안내]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17587</id>
@@ -108,21 +124,5 @@
         <updated>2022-02-22T17:39:28.480Z</updated>
         <content type="html"><![CDATA[<b>
 				(주)더쿱			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[키노라이츠 유튜브 채널 영상 편집자 모집]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17573</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17573"/>
-        <updated>2022-02-22T17:39:28.489Z</updated>
-        <content type="html"><![CDATA[<b>
-				(주)키노라이츠			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[BIAF2022] 부천국제애니메이션페스티벌 단기스탭 공개 채용]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17572</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17572"/>
-        <updated>2022-02-22T05:37:25.799Z</updated>
-        <content type="html"><![CDATA[<b>
-				부천국제애니메이션페스티벌			</b>]]></content>
     </entry>
 </feed>
