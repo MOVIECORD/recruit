@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2022-03-02T17:40:07.593Z</updated>
+    <updated>2022-03-03T05:38:15.698Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서울환경영화제 홍보팀장 채용공고]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17601</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17601"/>
+        <updated>2022-03-03T05:38:14.932Z</updated>
+        <content type="html"><![CDATA[<b>
+				서울환경영화제			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[사단법인 DMZ국제다큐멘터리영화제 2022년 2차 정규직원 채용공고]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17600</id>
@@ -116,13 +124,5 @@
         <updated>2022-02-24T17:39:37.845Z</updated>
         <content type="html"><![CDATA[<b>
 				(사)평창국제평화영화제			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(사) 제천국제음악영화제 제2차 스태프 채용공고]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17586</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17586"/>
-        <updated>2022-02-24T17:39:37.847Z</updated>
-        <content type="html"><![CDATA[<b>
-				(사)제천국제음악영화제			</b>]]></content>
     </entry>
 </feed>
