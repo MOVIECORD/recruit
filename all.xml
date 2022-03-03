@@ -2,8 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-03T05:38:15.701Z</updated>
+    <updated>2022-03-03T17:40:18.129Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[왓챠] 콘텐츠 매니저 (비디오 편성) 모집 (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17606</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17606"/>
+        <updated>2022-03-03T17:40:17.526Z</updated>
+        <content type="html"><![CDATA[<b>
+				왓챠			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[인천영상위원회] 제10회 디아스포라영화제 자원활동가 <디아이즈> 모집 (~4.7) (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17605</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17605"/>
+        <updated>2022-03-03T17:40:17.526Z</updated>
+        <content type="html"><![CDATA[<b>
+				인천영상위원회 디아스포라영화제			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[피플스토리 & 오즈픽쳐스 공동제작 드라마 작가 모집 (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17604</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17604"/>
+        <updated>2022-03-03T17:40:17.526Z</updated>
+        <content type="html"><![CDATA[<b>
+				피플스토리 &amp; 오즈픽쳐스			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서울환경영화제 홍보팀장 채용공고 (씨네21 ─ 영화인 리쿠르트)]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17601</id>
@@ -99,29 +123,5 @@
         <updated>2022-02-25T17:39:23.930Z</updated>
         <content type="html"><![CDATA[<b>
 				한국영화성평등센터 든든			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[(주)하이브미디어코프] 기획팀 인턴 채용 공고 (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17589</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17589"/>
-        <updated>2022-02-25T05:37:19.941Z</updated>
-        <content type="html"><![CDATA[<b>
-				(주)하이브미디어코프			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(주)넥서스 영상 편집자를 찾습니다 (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17588</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17588"/>
-        <updated>2022-02-25T05:37:19.942Z</updated>
-        <content type="html"><![CDATA[<b>
-				(주)넥서스			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[재공고] 2022년 평창국제평화영화제 스태프 채용 안내 (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17587</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17587"/>
-        <updated>2022-02-24T17:39:37.845Z</updated>
-        <content type="html"><![CDATA[<b>
-				(사)평창국제평화영화제			</b>]]></content>
     </entry>
 </feed>
