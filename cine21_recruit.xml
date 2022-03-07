@@ -2,9 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2022-03-07T05:37:25.714Z</updated>
+    <updated>2022-03-07T17:40:53.377Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022년 상반기 영화 디지털 마케팅 신입 마케터 모집]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17615</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17615"/>
+        <updated>2022-03-07T17:40:52.746Z</updated>
+        <content type="html"><![CDATA[<b>
+				(주)하이라이트커뮤니케이션즈			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[수입사 '블루라벨픽쳐스'에서 인재를 모집합니다]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17614</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17614"/>
+        <updated>2022-03-07T17:40:52.746Z</updated>
+        <content type="html"><![CDATA[<b>
+				블루라벨픽쳐스			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[공모] 2022년 상반기 <제21회 필름게이트> 공모(~3.20)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17613</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17613"/>
+        <updated>2022-03-07T17:40:52.748Z</updated>
+        <content type="html"><![CDATA[<b>
+				신영균예술문화재단			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영화웹진 무비스트에서 영화 및 엔터 취재기자를 모집합니다]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17612</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17612"/>
+        <updated>2022-03-07T17:40:52.748Z</updated>
+        <content type="html"><![CDATA[<b>
+				무비스트			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제24회 서울국제여성영화제 사무국 스태프 3차 모집]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17611</id>
@@ -92,37 +124,5 @@
         <updated>2022-03-02T05:37:30.340Z</updated>
         <content type="html"><![CDATA[<b>
 				다큐플러스			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘영화홍보마케팅&프로듀서’ 2022 상반기 실무멘토링 과정 모집!]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17598</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17598"/>
-        <updated>2022-02-28T17:40:15.592Z</updated>
-        <content type="html"><![CDATA[<b>
-				MBC아카데미 문화연출학부			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[명필름랩 9기 모집요강 발표]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17597</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17597"/>
-        <updated>2022-02-28T05:37:29.146Z</updated>
-        <content type="html"><![CDATA[<b>
-				명필름랩			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 마케팅&컨텐츠 홍보대행사 [앤드크레딧] (영화 및 넷플릭스 홍보) 신입/경력 모집합니다.]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17596</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17596"/>
-        <updated>2022-02-28T05:37:29.147Z</updated>
-        <content type="html"><![CDATA[<b>
-				앤드크레딧			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[㈜인디스토리 제작운영팀 신입/경력사원 모집 공고]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17595</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17595"/>
-        <updated>2022-02-28T05:37:29.147Z</updated>
-        <content type="html"><![CDATA[<b>
-				(주)인디스토리			</b>]]></content>
     </entry>
 </feed>
