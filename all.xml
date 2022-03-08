@@ -2,8 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-07T17:40:53.382Z</updated>
+    <updated>2022-03-08T05:37:40.290Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[서울특별시 청년공간 무중력지대 양천 제5회 무중력영화제 출품작 모집 (~4/28) (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17617</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17617"/>
+        <updated>2022-03-08T05:37:39.585Z</updated>
+        <content type="html"><![CDATA[<b>
+				무중력지대 양천			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[2022 전주영상위원회 단편영화 제작지원] 작품공모 (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17616</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17616"/>
+        <updated>2022-03-08T05:37:39.585Z</updated>
+        <content type="html"><![CDATA[<b>
+				전주영상위원회			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022년 상반기 영화 디지털 마케팅 신입 마케터 모집 (씨네21 ─ 영화인 리쿠르트)]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17615</id>
@@ -107,21 +123,5 @@
         <updated>2022-03-03T05:38:14.932Z</updated>
         <content type="html"><![CDATA[<b>
 				서울환경영화제			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사단법인 DMZ국제다큐멘터리영화제 2022년 2차 정규직원 채용공고 (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17600</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17600"/>
-        <updated>2022-03-02T17:40:06.953Z</updated>
-        <content type="html"><![CDATA[<b>
-				DMZ국제다큐멘터리영화제			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[시사회 초대]장편 다큐멘터리 <제로웨이스트> 피드벡 시사회 안내 (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17599</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17599"/>
-        <updated>2022-03-02T05:37:30.340Z</updated>
-        <content type="html"><![CDATA[<b>
-				다큐플러스			</b>]]></content>
     </entry>
 </feed>
