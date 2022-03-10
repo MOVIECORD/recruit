@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2022-03-09T17:40:20.863Z</updated>
+    <updated>2022-03-10T05:37:22.637Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강릉국제영화제 제3차 계약직 직원 공개채용 공고]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17621</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17621"/>
+        <updated>2022-03-10T05:37:21.812Z</updated>
+        <content type="html"><![CDATA[<b>
+				강릉국제영화제			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[씨네21 콘텐츠팀 계약직 모집]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17620</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17620"/>
+        <updated>2022-03-10T05:37:21.814Z</updated>
+        <content type="html"><![CDATA[<b>
+				씨네21			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[넷플릭스]예고편 편집자를 채용합니다  Trailer Editor - Product Creative Stud…]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17619</id>
@@ -108,21 +124,5 @@
         <updated>2022-03-04T05:37:40.721Z</updated>
         <content type="html"><![CDATA[<b>
 				W SERVICES (주식회사 왓챠 자회사)			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[왓챠] 콘텐츠 매니저 (비디오 편성) 모집]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17606</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17606"/>
-        <updated>2022-03-03T17:40:17.526Z</updated>
-        <content type="html"><![CDATA[<b>
-				왓챠			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인천영상위원회] 제10회 디아스포라영화제 자원활동가 <디아이즈> 모집 (~4.7)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17605</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17605"/>
-        <updated>2022-03-03T17:40:17.526Z</updated>
-        <content type="html"><![CDATA[<b>
-				인천영상위원회 디아스포라영화제			</b>]]></content>
     </entry>
 </feed>
