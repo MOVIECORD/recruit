@@ -2,8 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-11T05:37:36.505Z</updated>
+    <updated>2022-03-11T17:40:28.023Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[함께 콘텐츠 만드는 "크리어스" 10기 모집 (영화/다큐/웹드/뮤비/예능) (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17630</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17630"/>
+        <updated>2022-03-11T17:40:27.354Z</updated>
+        <content type="html"><![CDATA[<b>
+				크리어스			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[해외컨텐츠 수입, 배급에 경력있는 인력을 구합니다 (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17629</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17629"/>
+        <updated>2022-03-11T17:40:27.356Z</updated>
+        <content type="html"><![CDATA[<b>
+				미디어 마그나			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(주)영화인 홍보마케팅 담당 경력 사원 채용 공고 (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17628</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17628"/>
+        <updated>2022-03-11T17:40:27.356Z</updated>
+        <content type="html"><![CDATA[<b>
+				주식회사 영화인			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제23회 전주국제영화제 스크리닝 매니저, 영사 매니저 모집 공고 (씨네21 ─ 영화인 리쿠르트)]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17627</id>
@@ -99,29 +123,5 @@
         <updated>2022-03-08T05:37:39.585Z</updated>
         <content type="html"><![CDATA[<b>
 				전주영상위원회			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022년 상반기 영화 디지털 마케팅 신입 마케터 모집 (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17615</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17615"/>
-        <updated>2022-03-07T17:40:52.746Z</updated>
-        <content type="html"><![CDATA[<b>
-				(주)하이라이트커뮤니케이션즈			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수입사 '블루라벨픽쳐스'에서 인재를 모집합니다 (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17614</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17614"/>
-        <updated>2022-03-07T17:40:52.746Z</updated>
-        <content type="html"><![CDATA[<b>
-				블루라벨픽쳐스			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[공모] 2022년 상반기 <제21회 필름게이트> 공모(~3.20) (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17613</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17613"/>
-        <updated>2022-03-07T17:40:52.748Z</updated>
-        <content type="html"><![CDATA[<b>
-				신영균예술문화재단			</b>]]></content>
     </entry>
 </feed>
