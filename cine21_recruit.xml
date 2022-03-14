@@ -2,9 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2022-03-14T05:51:30.624Z</updated>
+    <updated>2022-03-14T17:39:45.117Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["영화로부터 도망칠 수 있는 가장 마지막 기회"]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17636</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17636"/>
+        <updated>2022-03-14T17:39:44.377Z</updated>
+        <content type="html"><![CDATA[<b>
+				독립영화워크숍			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3월 29일(화) 개최, 독립영화워크숍 중급과정의 공개설명회에 의한 참여 회원 모집]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17635</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17635"/>
+        <updated>2022-03-14T17:39:44.386Z</updated>
+        <content type="html"><![CDATA[<b>
+				독립영화햡의회			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[류승완, 한준희 감독은 지옥 같은 공동작업을 입문 수료하였습니다.]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17634</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17634"/>
+        <updated>2022-03-14T17:39:44.392Z</updated>
+        <content type="html"><![CDATA[<b>
+				독립영화워크숍			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[DMZ국제다큐멘터리영화제] 2022 DMZ인더스트리 DMZ Docs Pitch 프로젝트 접수 안내]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17632</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17632"/>
+        <updated>2022-03-14T17:39:44.392Z</updated>
+        <content type="html"><![CDATA[<b>
+				DMZ인더스트리			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[디지털 마케팅사 ‘투래빗’ 2022년 상반기 신입/경력 모집 공고]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17631</id>
@@ -92,37 +124,5 @@
         <updated>2022-03-10T05:37:21.812Z</updated>
         <content type="html"><![CDATA[<b>
 				강릉국제영화제			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[씨네21 콘텐츠팀 계약직 모집]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17620</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17620"/>
-        <updated>2022-03-10T05:37:21.814Z</updated>
-        <content type="html"><![CDATA[<b>
-				씨네21			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[넷플릭스]예고편 편집자를 채용합니다  Trailer Editor - Product Creative Stud…]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17619</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17619"/>
-        <updated>2022-03-09T17:40:20.187Z</updated>
-        <content type="html"><![CDATA[<b>
-				넷플릭스 코리아			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공연 전문 플랫폼 (주)메타씨어터 미디어홍보팀 과장 및 사원 모집]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17618</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17618"/>
-        <updated>2022-03-08T17:40:10.247Z</updated>
-        <content type="html"><![CDATA[<b>
-				(주)메타씨어터			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울특별시 청년공간 무중력지대 양천 제5회 무중력영화제 출품작 모집 (~4/28)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17617</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17617"/>
-        <updated>2022-03-08T05:37:39.585Z</updated>
-        <content type="html"><![CDATA[<b>
-				무중력지대 양천			</b>]]></content>
     </entry>
 </feed>
