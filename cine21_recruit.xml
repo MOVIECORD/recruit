@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2022-03-20T05:37:35.885Z</updated>
+    <updated>2022-03-20T17:39:08.254Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[KSI특강] SBS, 영진위 당선자 출신 김진수 작가 180분 특강 - 작가지망생 탈출을 위한 극작(劇作)…]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17656</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17656"/>
+        <updated>2022-03-20T17:39:07.589Z</updated>
+        <content type="html"><![CDATA[<b>
+				한국시나리오연구소			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[왓챠] W SERVICES(왓챠 자회사) 한국 왓챠 검수매니저 모집]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17655</id>
@@ -116,13 +124,5 @@
         <updated>2022-03-15T17:38:47.951Z</updated>
         <content type="html"><![CDATA[<b>
 				(주)환타지엔터테인먼트			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(주)지니스커뮤니케이션 영화/콘텐츠 마케팅 경력직 공고]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17641</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17641"/>
-        <updated>2022-03-15T17:38:47.951Z</updated>
-        <content type="html"><![CDATA[<b>
-				(주)지니스커뮤니케이션			</b>]]></content>
     </entry>
 </feed>
