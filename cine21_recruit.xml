@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2022-03-20T17:39:08.254Z</updated>
+    <updated>2022-03-21T05:37:50.153Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(주)영화인 홍보마케팅 담당 신입/경력 사원 채용 공고]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17658</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17658"/>
+        <updated>2022-03-21T05:37:49.502Z</updated>
+        <content type="html"><![CDATA[<b>
+				주식회사 영화인			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[포디엄과 함께할 영화 온라인 마케팅 신입사원을 모집합니다.]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17657</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17657"/>
+        <updated>2022-03-21T05:37:49.502Z</updated>
+        <content type="html"><![CDATA[<b>
+				포디엄			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[KSI특강] SBS, 영진위 당선자 출신 김진수 작가 180분 특강 - 작가지망생 탈출을 위한 극작(劇作)…]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17656</id>
@@ -108,21 +124,5 @@
         <updated>2022-03-15T17:38:47.945Z</updated>
         <content type="html"><![CDATA[<b>
 				(주)씨에이엔			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엣나인필름에서 경력(신입) 디자이너를 모집합니다.]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17643</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17643"/>
-        <updated>2022-03-15T17:38:47.946Z</updated>
-        <content type="html"><![CDATA[<b>
-				(주)엣나인필름			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신입/경력직 채용 공고]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17642</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17642"/>
-        <updated>2022-03-15T17:38:47.951Z</updated>
-        <content type="html"><![CDATA[<b>
-				(주)환타지엔터테인먼트			</b>]]></content>
     </entry>
 </feed>
