@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-28T05:38:19.447Z</updated>
+    <updated>2022-03-28T17:42:08.476Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[엣나인필름에서 경력(신입) 디자이너를 모집합니다. (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17686</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17686"/>
+        <updated>2022-03-28T17:42:07.832Z</updated>
+        <content type="html"><![CDATA[<b>
+				(주)엣나인필름			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이런 과정을 보낸 기간 자체가 내게 큰 행운이었던 거 같다 (씨네21 ─ 영화인 리쿠르트)]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17685</id>
@@ -115,13 +123,5 @@
         <updated>2022-03-24T05:37:50.895Z</updated>
         <content type="html"><![CDATA[<b>
 				비스포크랩 주식회사 (Bespoke Lab)			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엣나인필름에서 경력(신입) 디자이너를 모집합니다. (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17667</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17667"/>
-        <updated>2022-03-24T05:37:50.903Z</updated>
-        <content type="html"><![CDATA[<b>
-				(주)엣나인필름			</b>]]></content>
     </entry>
 </feed>
