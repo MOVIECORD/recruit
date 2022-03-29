@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2022-03-29T05:38:35.992Z</updated>
+    <updated>2022-03-29T17:41:26.651Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[충무로영상센터 오!재미동] '단편영화 마티네' 4월 상영에 초대합니다!]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17692</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17692"/>
+        <updated>2022-03-29T17:41:25.951Z</updated>
+        <content type="html"><![CDATA[<b>
+				충무로영상센터 오!재미동			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[서울영상위원회] 비대면/온라인 무료 강의 '4월 창작지원프로그램' 안내]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17691</id>
@@ -116,13 +124,5 @@
         <updated>2022-03-25T05:38:05.837Z</updated>
         <content type="html"><![CDATA[<b>
 				제천국제음악영화제			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국내 유일의 영화 비즈니스 전문 아카데미 로카에서 경력직원을 모집합니다.]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17676</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17676"/>
-        <updated>2022-03-25T05:38:05.837Z</updated>
-        <content type="html"><![CDATA[<b>
-				로카			</b>]]></content>
     </entry>
 </feed>
