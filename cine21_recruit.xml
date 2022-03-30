@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2022-03-30T05:38:34.595Z</updated>
+    <updated>2022-03-30T17:40:47.798Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 BMDB 영화영상 프로젝트 매칭지원 사업]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17696</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17696"/>
+        <updated>2022-03-30T17:40:47.106Z</updated>
+        <content type="html"><![CDATA[<b>
+				부산영상위원회			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 전주영화학교 수강생 모집]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17695</id>
@@ -116,13 +124,5 @@
         <updated>2022-03-25T17:41:30.566Z</updated>
         <content type="html"><![CDATA[<b>
 							</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[디지털 콘텐츠 유통 모집]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17678</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17678"/>
-        <updated>2022-03-25T17:41:30.566Z</updated>
-        <content type="html"><![CDATA[<b>
-				(주)제이에이와이이엔터테인먼트			</b>]]></content>
     </entry>
 </feed>
