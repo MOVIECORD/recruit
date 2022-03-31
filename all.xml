@@ -2,8 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-31T05:38:11.245Z</updated>
+    <updated>2022-03-31T17:42:10.596Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[주식회사 미디어캐슬 홍보 마케팅 인력 채용 (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17700</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17700"/>
+        <updated>2022-03-31T17:42:09.965Z</updated>
+        <content type="html"><![CDATA[<b>
+				(주)미디어캐슬			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['지니스커뮤니케이션' 2022년 상반기 영화 디지털 마케팅 신입 채용 공고 (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17699</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17699"/>
+        <updated>2022-03-31T17:42:09.970Z</updated>
+        <content type="html"><![CDATA[<b>
+				(주)지니스커뮤니케이션			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제19회 EBS국제다큐영화제(EIDF2022) 페스티벌 초이스(경쟁부문) 작품 공모 시작 (씨네21 ─ 영화인 리쿠르트)]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17698</id>
@@ -107,21 +123,5 @@
         <updated>2022-03-27T05:37:35.313Z</updated>
         <content type="html"><![CDATA[<b>
 				독립영화워크숍			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[MBC아카데미] ‘영화홍보마케팅&프로듀서’ 2022 상반기 실무멘토링 과정 모집! (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17682</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17682"/>
-        <updated>2022-03-26T05:37:30.682Z</updated>
-        <content type="html"><![CDATA[<b>
-				MBC아카데미			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TVCF, 광고영상 조감독 모집 (정규직) (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17681</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17681"/>
-        <updated>2022-03-26T05:37:30.682Z</updated>
-        <content type="html"><![CDATA[<b>
-				(주)케이필름			</b>]]></content>
     </entry>
 </feed>
