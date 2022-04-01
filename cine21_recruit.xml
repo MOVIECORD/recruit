@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2022-03-31T17:42:10.599Z</updated>
+    <updated>2022-04-01T05:38:39.257Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엠라인디스트리뷰션(주)에서 해외배급 신입 직원을 모집합니다.]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17702</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17702"/>
+        <updated>2022-04-01T05:38:38.549Z</updated>
+        <content type="html"><![CDATA[<b>
+				엠라인디스트리뷰션(주)			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(주)엣나인필름에서 마케팅팀 및 재경팀 신입(경력) 직원을 모집합니다.]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17701</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17701"/>
+        <updated>2022-04-01T05:38:38.549Z</updated>
+        <content type="html"><![CDATA[<b>
+				(주)엣나인필름			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주식회사 미디어캐슬 홍보 마케팅 인력 채용]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17700</id>
@@ -106,22 +122,6 @@
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17685</id>
         <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17685"/>
         <updated>2022-03-27T05:37:35.308Z</updated>
-        <content type="html"><![CDATA[<b>
-				독립영화워크숍			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3월 29일(화) 개최, 독립영화워크숍 중급과정의 공개설명회에 의한 참여 회원 모집]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17684</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17684"/>
-        <updated>2022-03-27T05:37:35.313Z</updated>
-        <content type="html"><![CDATA[<b>
-				독립영화협의회			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘뭐 다 끝난 것처럼 말하네. 아직 많이 남았어요.’]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17683</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17683"/>
-        <updated>2022-03-27T05:37:35.313Z</updated>
         <content type="html"><![CDATA[<b>
 				독립영화워크숍			</b>]]></content>
     </entry>
