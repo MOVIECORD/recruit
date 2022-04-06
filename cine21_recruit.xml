@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2022-04-06T05:38:39.818Z</updated>
+    <updated>2022-04-06T17:41:10.270Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[프로젝트 매니저 채용 (정규직)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17722</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17722"/>
+        <updated>2022-04-06T17:41:09.489Z</updated>
+        <content type="html"><![CDATA[<b>
+				비스포크랩 주식회사			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제1회 KT스튜디오지니 시리즈 공모전 개최(~6/24)]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17721</id>
@@ -116,13 +124,5 @@
         <updated>2022-04-04T05:38:30.737Z</updated>
         <content type="html"><![CDATA[<b>
 				(주)누리픽쳐스			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[촬영/조명 기초부터 실전까지  "크리어스" 10기 촬영워크숍 모집 (~4/17)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17703</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17703"/>
-        <updated>2022-04-02T05:37:50.126Z</updated>
-        <content type="html"><![CDATA[<b>
-				크리어스			</b>]]></content>
     </entry>
 </feed>
