@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2022-04-08T05:38:52.590Z</updated>
+    <updated>2022-04-08T17:44:00.659Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[왓챠] 일본 콘텐츠 메타데이터 아르바이트 모집]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17733</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17733"/>
+        <updated>2022-04-08T17:43:59.997Z</updated>
+        <content type="html"><![CDATA[<b>
+				왓챠			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(사)제천국제음악영화제 2022년 제4차 스태프 채용공고]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17732</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17732"/>
+        <updated>2022-04-08T17:43:59.997Z</updated>
+        <content type="html"><![CDATA[<b>
+				(사)제천국제음악영화제			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아트나인에서 함께 영화관을 만들어 나갈 인재를 모집합니다.]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17731</id>
@@ -108,21 +124,5 @@
         <updated>2022-04-05T05:38:36.562Z</updated>
         <content type="html"><![CDATA[<b>
 				서울국제환경영화제			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「영화인」의 시작]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17714</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17714"/>
-        <updated>2022-04-05T05:38:36.564Z</updated>
-        <content type="html"><![CDATA[<b>
-				독립영화워크숍			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4월 26일(화) 개최, 독립영화워크숍 입문과정의 공개설명회에 의한 참여 회원 모집]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17713</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17713"/>
-        <updated>2022-04-05T05:38:36.565Z</updated>
-        <content type="html"><![CDATA[<b>
-				독립영화협의회			</b>]]></content>
     </entry>
 </feed>
