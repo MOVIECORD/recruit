@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2022-04-10T17:40:36.961Z</updated>
+    <updated>2022-04-11T05:38:50.803Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[풀타임 중국어 PM 채용]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17741</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17741"/>
+        <updated>2022-04-11T05:38:50.165Z</updated>
+        <content type="html"><![CDATA[<b>
+				주식회사 넥서스			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제10회 인천독립영화제(INFF 2022) 기획 자원활동가 모집(~4.24)]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17740</id>
@@ -116,13 +124,5 @@
         <updated>2022-04-06T17:41:09.489Z</updated>
         <content type="html"><![CDATA[<b>
 				비스포크랩 주식회사			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제1회 KT스튜디오지니 시리즈 공모전 개최(~6/24)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17721</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17721"/>
-        <updated>2022-04-06T05:38:39.144Z</updated>
-        <content type="html"><![CDATA[<b>
-				KT 스튜디오 지니			</b>]]></content>
     </entry>
 </feed>
