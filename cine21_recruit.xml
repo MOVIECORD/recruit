@@ -2,9 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2022-04-19T17:46:08.145Z</updated>
+    <updated>2022-04-20T05:55:23.310Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 충무로영화제-감독주간 단편영화 출품작 공모]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17774</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17774"/>
+        <updated>2022-04-20T05:55:22.530Z</updated>
+        <content type="html"><![CDATA[<b>
+				충무로영화제			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[2022 배리어프리단편영화 제작지원] 출품작 공모 안내]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17773</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17773"/>
+        <updated>2022-04-20T05:55:22.547Z</updated>
+        <content type="html"><![CDATA[<b>
+				배리어프리영화위원회			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제14회 DMZ국제다큐멘터리영화제 스태프 모집 (2차)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17772</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17772"/>
+        <updated>2022-04-20T05:55:22.559Z</updated>
+        <content type="html"><![CDATA[<b>
+				DMZ국제다큐멘터리영화제			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쿠팡플레이] Campaign Manager 채용]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17771</id>
@@ -100,29 +124,5 @@
         <updated>2022-04-18T05:39:35.277Z</updated>
         <content type="html"><![CDATA[<b>
 				eyescram			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새로운 인재를 찾습니다. ~4월 24일까지]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17759</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17759"/>
-        <updated>2022-04-18T05:39:35.277Z</updated>
-        <content type="html"><![CDATA[<b>
-				(주)땡스앤러브			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 콘텐츠 창의인재동반사업 (창의교육생)멘티 모집_웹애니/광고/뮤직비디오 제작 (4/29 오전 11시)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17758</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17758"/>
-        <updated>2022-04-18T05:39:35.278Z</updated>
-        <content type="html"><![CDATA[<b>
-				(사)한국독립애니메이션협회			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[넥서스] 영상 편집자를 모집합니다.]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17757</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17757"/>
-        <updated>2022-04-15T05:41:51.360Z</updated>
-        <content type="html"><![CDATA[<b>
-				(주)넥서스			</b>]]></content>
     </entry>
 </feed>
