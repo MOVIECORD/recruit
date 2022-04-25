@@ -2,8 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-25T05:40:21.011Z</updated>
+    <updated>2022-04-25T17:45:11.666Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[제20회 광화문국제단편영화제(GISFF) 출품 공모 (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17793</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17793"/>
+        <updated>2022-04-25T17:45:11.042Z</updated>
+        <content type="html"><![CDATA[<b>
+				광화문국제단편영화제(GISFF)			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[컬처마케팅사 호호호비치 신입 채용 공고 (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17792</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17792"/>
+        <updated>2022-04-25T17:45:11.042Z</updated>
+        <content type="html"><![CDATA[<b>
+				호호호비치			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[해외 업무팀 신입, 경력 인력 구합니다 (씨네21 ─ 영화인 리쿠르트)]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17791</id>
@@ -107,21 +123,5 @@
         <updated>2022-04-20T17:47:47.228Z</updated>
         <content type="html"><![CDATA[<b>
 				올엠커뮤니케이션			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<제10회 무주산골영화제> 자원활동가 '산골친구' 모집 (~4/30) (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17778</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17778"/>
-        <updated>2022-04-20T17:47:47.228Z</updated>
-        <content type="html"><![CDATA[<b>
-				무주산골영화제			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘영화 한다는 것 자체가 공동작업’ (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17777</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17777"/>
-        <updated>2022-04-20T17:47:47.243Z</updated>
-        <content type="html"><![CDATA[<b>
-				독립영화워크숍			</b>]]></content>
     </entry>
 </feed>
