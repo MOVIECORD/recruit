@@ -2,9 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2022-04-27T17:47:43.500Z</updated>
+    <updated>2022-04-28T05:55:56.635Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 마케팅&넷플릭스 콘텐츠 홍보 대행사 [앤드크레딧] 신입/경력 모집합니다]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17809</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17809"/>
+        <updated>2022-04-28T05:55:55.877Z</updated>
+        <content type="html"><![CDATA[<b>
+				앤드크레딧			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지난 독립영화워크숍 중급과정 실습작품(83분)을 공유합니다.]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17808</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17808"/>
+        <updated>2022-04-28T05:55:55.896Z</updated>
+        <content type="html"><![CDATA[<b>
+				독립영화협의회			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5월 24일(화) 개최, 독립영화워크숍 공개설명회에 의한 중급 과정 참여 회원 모집]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17807</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17807"/>
+        <updated>2022-04-28T05:55:55.896Z</updated>
+        <content type="html"><![CDATA[<b>
+				독립영화협의회			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[독립영화 관련 공간 지원 및 무상 제공을 연장 합니다.]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17806</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17806"/>
+        <updated>2022-04-28T05:55:55.896Z</updated>
+        <content type="html"><![CDATA[<b>
+				서울지역영화교육허브센터			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화수입사 해외 마케팅, 해외 비즈니스 업무 인재 채용 ~5월 4일까지]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17805</id>
@@ -92,37 +124,5 @@
         <updated>2022-04-26T05:40:55.821Z</updated>
         <content type="html"><![CDATA[<b>
 				Nexus International Contents			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제20회 광화문국제단편영화제(GISFF) 출품 공모]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17793</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17793"/>
-        <updated>2022-04-25T17:45:11.042Z</updated>
-        <content type="html"><![CDATA[<b>
-				광화문국제단편영화제(GISFF)			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[컬처마케팅사 호호호비치 신입 채용 공고]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17792</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17792"/>
-        <updated>2022-04-25T17:45:11.042Z</updated>
-        <content type="html"><![CDATA[<b>
-				호호호비치			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[해외 업무팀 신입, 경력 인력 구합니다]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17791</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17791"/>
-        <updated>2022-04-25T05:40:20.348Z</updated>
-        <content type="html"><![CDATA[<b>
-				(주)미디어마그나			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단편영화제작 및 영상분석이론 선생님 구인]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17790</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17790"/>
-        <updated>2022-04-23T05:39:42.919Z</updated>
-        <content type="html"><![CDATA[<b>
-				천만스토리연출학원			</b>]]></content>
     </entry>
 </feed>
