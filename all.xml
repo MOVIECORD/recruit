@@ -2,8 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-29T05:41:27.448Z</updated>
+    <updated>2022-04-29T17:44:01.126Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[영화 홍보 마케팅사 플래닛]  신입 및 경력 사원 모집 (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17814</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17814"/>
+        <updated>2022-04-29T17:44:00.418Z</updated>
+        <content type="html"><![CDATA[<b>
+				플래닛			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[2022년 신입 마케터 채용] 영화 디지털 에이전시 하이라이트 마케터 채용 (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17813</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17813"/>
+        <updated>2022-04-29T17:44:00.432Z</updated>
+        <content type="html"><![CDATA[<b>
+				주식회사 하이라이트커뮤니케이션즈			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[키노라이츠 데이터베이스 인턴 채용 공고] 콘텐츠를 탐색하는 유저들을 만족 시킬 분을 찾고 있습니다! (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17812</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17812"/>
+        <updated>2022-04-29T17:44:00.432Z</updated>
+        <content type="html"><![CDATA[<b>
+				키노라이츠			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영화수입사 해외 마케팅, 해외 비즈니스 업무 인재 채용 (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17811</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17811"/>
+        <updated>2022-04-29T17:44:00.439Z</updated>
+        <content type="html"><![CDATA[<b>
+				(주)고맙습니다사랑합니다			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[㈜화인컷에서 영화,드라마 기획 PD를 모집합니다 (씨네21 ─ 영화인 리쿠르트)]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17810</id>
@@ -91,37 +123,5 @@
         <updated>2022-04-26T17:44:37.654Z</updated>
         <content type="html"><![CDATA[<b>
 				인디그라운드			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[왓챠] 일본 콘텐츠 메타데이터 아르바이트 모집 (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17798</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17798"/>
-        <updated>2022-04-26T17:44:37.654Z</updated>
-        <content type="html"><![CDATA[<b>
-				왓챠			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제20회 광화문국제단편영화제 기획/운영 채용 공고 (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17797</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17797"/>
-        <updated>2022-04-26T17:44:37.659Z</updated>
-        <content type="html"><![CDATA[<b>
-				(사) 광화문국제단편영화제			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제20회 광화문국제단편영화제 프로그래머 채용 공고 (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17796</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17796"/>
-        <updated>2022-04-26T17:44:37.664Z</updated>
-        <content type="html"><![CDATA[<b>
-				(사) 광화문국제단편영화제			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 수입/배급 오드(AUD)에서 경력직 직원( or 프로젝트 계약직)을 모집합니다 (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17795</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17795"/>
-        <updated>2022-04-26T05:40:55.805Z</updated>
-        <content type="html"><![CDATA[<b>
-				오드(AUD)			</b>]]></content>
     </entry>
 </feed>
