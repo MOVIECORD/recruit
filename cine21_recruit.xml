@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2022-04-30T05:39:25.675Z</updated>
+    <updated>2022-04-30T17:41:40.058Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[오!재미동] 단편영화 개봉극장 5월 상영에 초대합니다!]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17815</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17815"/>
+        <updated>2022-04-30T17:41:39.374Z</updated>
+        <content type="html"><![CDATA[<b>
+				충무로영상센터 오!재미동			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[영화 홍보 마케팅사 플래닛]  신입 및 경력 사원 모집]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17814</id>
@@ -116,13 +124,5 @@
         <updated>2022-04-26T17:44:37.654Z</updated>
         <content type="html"><![CDATA[<b>
 				한국영화성평등센터 든든			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[독립영화 창작자를 위한 1:1 배급상담소 오픈(5/2~13 신청)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17799</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17799"/>
-        <updated>2022-04-26T17:44:37.654Z</updated>
-        <content type="html"><![CDATA[<b>
-				인디그라운드			</b>]]></content>
     </entry>
 </feed>
