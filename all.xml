@@ -2,8 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-05-02T17:45:15.886Z</updated>
+    <updated>2022-05-03T05:42:01.186Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[오!재미동의 드로잉 강좌, <아방의 그림수업 '영화를 그리는 시간'> 수강생 모집중! (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17821</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17821"/>
+        <updated>2022-05-03T05:42:00.508Z</updated>
+        <content type="html"><![CDATA[<b>
+				충무로영상센터 오!재미동			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[김포국제청소년영화제] 주한벨기에대사관과 함께하는 GIYFF 벨기에 문화의 날 (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17820</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17820"/>
+        <updated>2022-05-03T05:42:00.523Z</updated>
+        <content type="html"><![CDATA[<b>
+				김포국제청소년영화제			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[채용]2022 평창국제평화영화제 상영관 매니저 모집 (씨네21 ─ 영화인 리쿠르트)]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17819</id>
@@ -107,21 +123,5 @@
         <updated>2022-04-28T05:55:55.896Z</updated>
         <content type="html"><![CDATA[<b>
 				독립영화협의회			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[독립영화 관련 공간 지원 및 무상 제공을 연장 합니다. (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17806</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17806"/>
-        <updated>2022-04-28T05:55:55.896Z</updated>
-        <content type="html"><![CDATA[<b>
-				서울지역영화교육허브센터			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화수입사 해외 마케팅, 해외 비즈니스 업무 인재 채용 ~5월 4일까지 (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17805</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17805"/>
-        <updated>2022-04-27T17:47:42.737Z</updated>
-        <content type="html"><![CDATA[<b>
-				(주)땡스앤러브			</b>]]></content>
     </entry>
 </feed>
