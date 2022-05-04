@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2022-05-04T05:42:09.442Z</updated>
+    <updated>2022-05-04T17:48:24.708Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[2022 CaFF] 제9회 가톨릭영화제 "단편경쟁부문" 출품작 공모 (~7/31)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17827</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17827"/>
+        <updated>2022-05-04T17:48:24.056Z</updated>
+        <content type="html"><![CDATA[<b>
+				가톨릭영화제			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[2022 CaFF] 제9회 가톨릭영화제 사전제작지원작 공모 (~9/15)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17826</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17826"/>
+        <updated>2022-05-04T17:48:24.057Z</updated>
+        <content type="html"><![CDATA[<b>
+				가톨릭영화제			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[트리플픽쳐스에서 인턴 사원을 모집합니다.]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17825</id>
@@ -108,21 +124,5 @@
         <updated>2022-04-29T17:44:00.432Z</updated>
         <content type="html"><![CDATA[<b>
 				주식회사 하이라이트커뮤니케이션즈			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[키노라이츠 데이터베이스 인턴 채용 공고] 콘텐츠를 탐색하는 유저들을 만족 시킬 분을 찾고 있습니다!]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17812</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17812"/>
-        <updated>2022-04-29T17:44:00.432Z</updated>
-        <content type="html"><![CDATA[<b>
-				키노라이츠			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화수입사 해외 마케팅, 해외 비즈니스 업무 인재 채용]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17811</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17811"/>
-        <updated>2022-04-29T17:44:00.439Z</updated>
-        <content type="html"><![CDATA[<b>
-				(주)고맙습니다사랑합니다			</b>]]></content>
     </entry>
 </feed>
