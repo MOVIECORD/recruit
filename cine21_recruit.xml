@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2022-05-03T17:49:32.961Z</updated>
+    <updated>2022-05-04T05:42:09.442Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[트리플픽쳐스에서 인턴 사원을 모집합니다.]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17825</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17825"/>
+        <updated>2022-05-04T05:42:08.777Z</updated>
+        <content type="html"><![CDATA[<b>
+				트리플픽쳐스			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제20회 광화문국제단편영화제(GISFF) 관객 심사단 모집]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17824</id>
@@ -116,13 +124,5 @@
         <updated>2022-04-29T17:44:00.439Z</updated>
         <content type="html"><![CDATA[<b>
 				(주)고맙습니다사랑합니다			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[㈜화인컷에서 영화,드라마 기획 PD를 모집합니다]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17810</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17810"/>
-        <updated>2022-04-28T17:43:40.490Z</updated>
-        <content type="html"><![CDATA[<b>
-				(주)화인컷			</b>]]></content>
     </entry>
 </feed>
