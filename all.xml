@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-05-06T05:40:50.049Z</updated>
+    <updated>2022-05-06T17:46:17.538Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[CHANEL X BIFF 아시아영화아카데미, 참가 모집(~5/15) (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17830</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17830"/>
+        <updated>2022-05-06T17:46:16.761Z</updated>
+        <content type="html"><![CDATA[<b>
+				부산국제영화제 비프아시아영화아카데미			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(주)다날엔터테인먼트 콘텐츠 유통 및 홍보마케팅 경력사원 채용 공고 (채용 시 마감) (씨네21 ─ 영화인 리쿠르트)]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17829</id>
@@ -115,13 +123,5 @@
         <updated>2022-05-02T05:51:31.006Z</updated>
         <content type="html"><![CDATA[<b>
 				(주)스마일이엔티			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오!재미동] 단편영화 개봉극장 5월 상영에 초대합니다! (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17815</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17815"/>
-        <updated>2022-04-30T17:41:39.374Z</updated>
-        <content type="html"><![CDATA[<b>
-				충무로영상센터 오!재미동			</b>]]></content>
     </entry>
 </feed>
