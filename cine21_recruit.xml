@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2022-05-26T05:43:32.530Z</updated>
+    <updated>2022-05-26T17:46:49.780Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제18회 제천국제음악영화제 자원활동가 JIMFFree 모집 (~6/12(일))]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17922</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17922"/>
+        <updated>2022-05-26T17:46:49.134Z</updated>
+        <content type="html"><![CDATA[<b>
+				제천국제음악영화제			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘영화 만드는 것 자체가 공동작업’]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17921</id>
@@ -116,13 +124,5 @@
         <updated>2022-05-24T05:44:07.652Z</updated>
         <content type="html"><![CDATA[<b>
 				(주)스토리제이			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 제천 음악영화 제작지원 프로젝트 공모 (~6.15)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17907</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17907"/>
-        <updated>2022-05-24T02:40:58.676Z</updated>
-        <content type="html"><![CDATA[<b>
-				제천국제음악영화제			</b>]]></content>
     </entry>
 </feed>
