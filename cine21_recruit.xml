@@ -2,9 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2022-05-30T05:45:24.818Z</updated>
+    <updated>2022-05-30T17:45:51.703Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[씨네21 콘텐츠팀 계약직 모집]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17933</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17933"/>
+        <updated>2022-05-30T17:45:51.017Z</updated>
+        <content type="html"><![CDATA[<b>
+				씨네21			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[장편영화 시나리오 개발 스터디 팀원 모집 (공모전 준비, 아이템 기획 개발)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17932</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17932"/>
+        <updated>2022-05-30T17:45:51.018Z</updated>
+        <content type="html"><![CDATA[<b>
+				시나리오 개발			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[제작사 크리에이티브 워크룸] 작가 어시스턴트 구합니다.]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17931</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17931"/>
+        <updated>2022-05-30T17:45:51.018Z</updated>
+        <content type="html"><![CDATA[<b>
+				제작사 크리에이티브 워크룸			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KAFA+ 영화인교육 1차 교육생 모집 공고  <제75회 칸영화제 & 필름마켓 리뷰>]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17930</id>
@@ -100,29 +124,5 @@
         <updated>2022-05-25T05:43:15.752Z</updated>
         <content type="html"><![CDATA[<b>
 				서울국제음식영화제			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산국제영화제] 2022년도 2차 계약직 직원 수시 채용 공고]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17914</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17914"/>
-        <updated>2022-05-25T05:43:15.753Z</updated>
-        <content type="html"><![CDATA[<b>
-				부산국제영화제			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화사 (주)디오시네마에서 마케팅/배급 신입 및 경력 사원을 모집합니다]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17913</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17913"/>
-        <updated>2022-05-25T05:43:15.753Z</updated>
-        <content type="html"><![CDATA[<b>
-				(주)디오시네마			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영상 및 이미지 디자인 인력 모집합니다.]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17912</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17912"/>
-        <updated>2022-05-25T05:43:15.754Z</updated>
-        <content type="html"><![CDATA[<b>
-				(주)미디어캐슬			</b>]]></content>
     </entry>
 </feed>
