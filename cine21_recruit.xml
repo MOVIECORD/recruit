@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2022-06-03T05:38:35.397Z</updated>
+    <updated>2022-06-03T17:39:28.819Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
     <entry>
@@ -78,7 +78,7 @@
 				MBC아카데미 문화연출학부			</b>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[씨네21 콘텐츠팀 계약직 모집]]></title>
+        <title type="html"><![CDATA[[서류마감]씨네21 콘텐츠팀 계약직 모집]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17933</id>
         <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17933"/>
         <updated>2022-05-30T17:45:51.017Z</updated>
