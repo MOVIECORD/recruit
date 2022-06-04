@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2022-06-03T17:39:28.819Z</updated>
+    <updated>2022-06-04T05:37:42.106Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[충무로영상센터 오!재미동] 단편영화 마티네 6월 상영!]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17943</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17943"/>
+        <updated>2022-06-04T05:37:41.515Z</updated>
+        <content type="html"><![CDATA[<b>
+				충무로영상센터 오!재미동			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[W SERVICES (왓챠 자회사) 콘텐츠 이미지 운영 아르바이트 모집]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17942</id>
@@ -116,13 +124,5 @@
         <updated>2022-05-27T17:48:17.747Z</updated>
         <content type="html"><![CDATA[<b>
 				무비앤아이			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 <동감> 제작사 고고스튜디오 기획/마케팅팀 인턴사원 모집공고]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17925</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17925"/>
-        <updated>2022-05-27T17:48:17.751Z</updated>
-        <content type="html"><![CDATA[<b>
-				고고스튜디오			</b>]]></content>
     </entry>
 </feed>
