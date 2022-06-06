@@ -2,8 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-06-06T05:40:03.634Z</updated>
+    <updated>2022-06-06T17:41:38.464Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[시소픽쳐스에서 영화의 해외 배급을 함께할 분을 구합니다! (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17945</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17945"/>
+        <updated>2022-06-06T17:41:37.826Z</updated>
+        <content type="html"><![CDATA[<b>
+				시소픽쳐스			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<2022 인천 씨네스쿨> 장편 독립영화 시나리오 워크숍, 촬영·조명 전문인력 양성 과정 수강생 모집(무료) (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17944</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17944"/>
+        <updated>2022-06-06T17:41:37.835Z</updated>
+        <content type="html"><![CDATA[<b>
+				인천독립영화협회			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[충무로영상센터 오!재미동] 단편영화 마티네 6월 상영! (씨네21 ─ 영화인 리쿠르트)]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17943</id>
@@ -107,21 +123,5 @@
         <updated>2022-05-30T17:45:51.018Z</updated>
         <content type="html"><![CDATA[<b>
 				제작사 크리에이티브 워크룸			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KAFA+ 영화인교육 1차 교육생 모집 공고  <제75회 칸영화제 & 필름마켓 리뷰> (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17930</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17930"/>
-        <updated>2022-05-30T05:45:24.134Z</updated>
-        <content type="html"><![CDATA[<b>
-				한국영화아카데미			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화홍보마케팅사 무비앤아이에서 함께 일 할 경력 및 신입  모집합니다 (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17926</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17926"/>
-        <updated>2022-05-27T17:48:17.747Z</updated>
-        <content type="html"><![CDATA[<b>
-				무비앤아이			</b>]]></content>
     </entry>
 </feed>
