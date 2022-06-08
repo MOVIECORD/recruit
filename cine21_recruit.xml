@@ -2,9 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2022-06-07T17:44:59.299Z</updated>
+    <updated>2022-06-08T05:39:28.799Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[부산국제영화제] 리퀘스트시네마 관객프로그래머 모집! (~6/23)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17956</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17956"/>
+        <updated>2022-06-08T05:39:28.037Z</updated>
+        <content type="html"><![CDATA[<b>
+				부산국제영화제 커뮤니티비프			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[24회 서울국제여성영화제] 자원활동가 "시우프렌즈" 모집]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17955</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17955"/>
+        <updated>2022-06-08T05:39:28.038Z</updated>
+        <content type="html"><![CDATA[<b>
+				서울국제여성영화제			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[SESIFF] [SMIFF] 단편영화 제작지원 프로젝트 'E-CUT 감독을 위하여' 공모 (-6.30)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17954</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17954"/>
+        <updated>2022-06-08T05:39:28.043Z</updated>
+        <content type="html"><![CDATA[<b>
+				SESIFF			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6월 28일(화) 공개설명회에 의한 독립영화워크숍 공동작업 입문과정 참여 회원 모집]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17953</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17953"/>
+        <updated>2022-06-08T05:39:28.049Z</updated>
+        <content type="html"><![CDATA[<b>
+				독립영화협의회			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<203기독립영화워크숍참여과정전체평가>]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17952</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17952"/>
+        <updated>2022-06-08T05:39:28.058Z</updated>
+        <content type="html"><![CDATA[<b>
+				독립영화워크숍			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['결국은 사람이구나. 영화는 공동작업이고 공동작업은 사람이구나.']]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17951</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17951"/>
+        <updated>2022-06-08T05:39:28.058Z</updated>
+        <content type="html"><![CDATA[<b>
+				독립영화워크숍			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[제천국제음악영화제] 올여름을 불태울 자원활동가 JIMFFree 모집 (D-5)]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17950</id>
@@ -20,14 +68,6 @@
         <updated>2022-06-07T17:44:58.485Z</updated>
         <content type="html"><![CDATA[<b>
 				크리에이티브리더스그룹에이트			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2022 프라이드 필름 프로젝트] 단편영화 제작지원 공모 (~6/8)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17948</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17948"/>
-        <updated>2022-06-07T17:44:58.491Z</updated>
-        <content type="html"><![CDATA[<b>
-				서울국제프라이드영화제			</b>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[디지털 마케팅사 '(주)포디엄' 2022년 경력 채용 공고]]></title>
@@ -84,45 +124,5 @@
         <updated>2022-06-03T05:38:34.730Z</updated>
         <content type="html"><![CDATA[<b>
 				순이엔티			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 제천 음악영화 제작지원 프로젝트 공모 접수 연장 ~ 6월 20일(월) 17시!]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17940</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17940"/>
-        <updated>2022-06-03T05:38:34.731Z</updated>
-        <content type="html"><![CDATA[<b>
-				제천국제음악영화제			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[절찬상영중 신입, 경력 모집]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17939</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17939"/>
-        <updated>2022-06-03T05:38:34.735Z</updated>
-        <content type="html"><![CDATA[<b>
-				주식회사 절찬상영중			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전주국제영화제조직위원회 계약직 팀장(해외영화팀) 채용 공고]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17938</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17938"/>
-        <updated>2022-06-02T05:51:24.818Z</updated>
-        <content type="html"><![CDATA[<b>
-				전주국제영화제			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[드라마 제작사 크로스픽쳐스에서 기획PD를 모집합니다.]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17937</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17937"/>
-        <updated>2022-05-31T17:50:31.542Z</updated>
-        <content type="html"><![CDATA[<b>
-				크로스픽쳐스(주)			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 투자배급사 ㈜스마일이엔티 경력사원 채용 공고(채용시 마감)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17936</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17936"/>
-        <updated>2022-05-31T17:50:31.544Z</updated>
-        <content type="html"><![CDATA[<b>
-				(주)스마일이엔티			</b>]]></content>
     </entry>
 </feed>
