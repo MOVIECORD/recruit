@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2022-06-08T05:39:28.799Z</updated>
+    <updated>2022-06-08T17:42:28.069Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[순이엔티] 틱톡 MCN 1위 회사 세로영상 신입 촬영PD 구인]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17957</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17957"/>
+        <updated>2022-06-08T17:42:27.286Z</updated>
+        <content type="html"><![CDATA[<b>
+				순이엔티			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[부산국제영화제] 리퀘스트시네마 관객프로그래머 모집! (~6/23)]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17956</id>
@@ -116,13 +124,5 @@
         <updated>2022-06-03T05:38:34.729Z</updated>
         <content type="html"><![CDATA[<b>
 				W SERVICES (왓챠 자회사)			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[순이엔티] 틱톡 MCN 1위 회사 세로영상 신입 촬영PD 구인]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17941</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17941"/>
-        <updated>2022-06-03T05:38:34.730Z</updated>
-        <content type="html"><![CDATA[<b>
-				순이엔티			</b>]]></content>
     </entry>
 </feed>
