@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2022-06-12T17:39:08.851Z</updated>
+    <updated>2022-06-13T05:43:32.458Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[회계/ 경영관리 (경력직 채용)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17965</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17965"/>
+        <updated>2022-06-13T05:43:31.718Z</updated>
+        <content type="html"><![CDATA[<b>
+				&lt;미스터로맨스&gt;			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[공모전] 제2회 8·22 에너지 영상 공모전(~7/19)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17964</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17964"/>
+        <updated>2022-06-13T05:43:31.719Z</updated>
+        <content type="html"><![CDATA[<b>
+				에너지시민연대			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[영화제작사 매그넘나인] 재무/경리 경력직 모집합니다.]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17963</id>
@@ -108,21 +124,5 @@
         <updated>2022-06-08T05:39:28.058Z</updated>
         <content type="html"><![CDATA[<b>
 				독립영화워크숍			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[제천국제음악영화제] 올여름을 불태울 자원활동가 JIMFFree 모집 (D-5)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17950</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17950"/>
-        <updated>2022-06-07T17:44:58.485Z</updated>
-        <content type="html"><![CDATA[<b>
-				제천국제음악영화제			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[(주)그룹에이트] 드라마 기획 서포터즈 모집]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17949</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17949"/>
-        <updated>2022-06-07T17:44:58.485Z</updated>
-        <content type="html"><![CDATA[<b>
-				크리에이티브리더스그룹에이트			</b>]]></content>
     </entry>
 </feed>
