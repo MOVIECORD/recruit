@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2022-06-15T05:41:53.253Z</updated>
+    <updated>2022-06-15T17:41:50.354Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(주)엣나인필름 에서 재경팀 신입(경력) 직원을 모집합니다.]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17991</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17991"/>
+        <updated>2022-06-15T17:41:49.727Z</updated>
+        <content type="html"><![CDATA[<b>
+				(주)엣나인필름			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화사 ㈜누리픽쳐스에서 마케팅 및 해외 신입사원을 모집합니다.]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17990</id>
@@ -116,13 +124,5 @@
         <updated>2022-06-13T17:44:22.914Z</updated>
         <content type="html"><![CDATA[<b>
 				명필름			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[회계/ 경영관리 (경력직 채용)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17965</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17965"/>
-        <updated>2022-06-13T05:43:31.718Z</updated>
-        <content type="html"><![CDATA[<b>
-				&lt;미스터로맨스&gt;			</b>]]></content>
     </entry>
 </feed>
