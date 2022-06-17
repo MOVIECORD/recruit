@@ -2,9 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2022-06-17T05:40:43.581Z</updated>
+    <updated>2022-06-17T17:41:03.401Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[카카오계열사| 파괴적인 세상 만드실 콘텐츠&광고인 모집!]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18005</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18005"/>
+        <updated>2022-06-17T17:41:02.819Z</updated>
+        <content type="html"><![CDATA[<b>
+				주식회사 파괴연구소			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[W SERVICES(왓챠 자회사) 일본 왓챠 검수매니저]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18004</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18004"/>
+        <updated>2022-06-17T17:41:02.821Z</updated>
+        <content type="html"><![CDATA[<b>
+				W SERVICES(왓챠 자회사)			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[더핑크퐁컴퍼니] 트랜스코딩 영상 검수 인력 모집 (06.20~07.01 근무)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18003</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18003"/>
+        <updated>2022-06-17T17:41:02.823Z</updated>
+        <content type="html"><![CDATA[<b>
+				더핑크퐁컴퍼니			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[씨네21 정부지원사업(나라장터 입찰) PM 담당자 채용 공고]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18002</id>
@@ -100,29 +124,5 @@
         <updated>2022-06-15T05:41:52.593Z</updated>
         <content type="html"><![CDATA[<b>
 				(주)누리픽쳐스			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[SMIFF] 신한카드와 함께하는 제13회 서울교통공사 국제지하철영화제 경쟁 부문 작품 공모 (-8.5)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17989</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17989"/>
-        <updated>2022-06-15T05:41:52.593Z</updated>
-        <content type="html"><![CDATA[<b>
-				SMIFF			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[SESIFF] 제14회 서울영등포국제초단편영화제 경쟁 부문 작품 공모 (-7.15)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17988</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17988"/>
-        <updated>2022-06-15T05:41:52.594Z</updated>
-        <content type="html"><![CDATA[<b>
-				sesiff			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전주국제영화제조직위원회 계약직 팀장(해외영화팀) 채용 공고 (모집기간 연장)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17987</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=17987"/>
-        <updated>2022-06-15T05:41:52.596Z</updated>
-        <content type="html"><![CDATA[<b>
-				전주국제영화제			</b>]]></content>
     </entry>
 </feed>
