@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2022-06-21T05:42:02.049Z</updated>
+    <updated>2022-06-21T17:51:45.405Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[든든] 'CINEMA FOR ALL' 7월 영화계 다양성 교육 안내 (7월 6일, 수요일 개최)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18020</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18020"/>
+        <updated>2022-06-21T17:51:44.690Z</updated>
+        <content type="html"><![CDATA[<b>
+				한국영화성평등센터 든든			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화배급사 (주)스튜디오디에이치엘 배급마케팅 경력사원 및 인턴사원 채용 공고(채용시 마감)]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18019</id>
@@ -116,13 +124,5 @@
         <updated>2022-06-17T17:41:02.819Z</updated>
         <content type="html"><![CDATA[<b>
 				주식회사 파괴연구소			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[W SERVICES(왓챠 자회사) 일본 왓챠 검수매니저]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18004</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18004"/>
-        <updated>2022-06-17T17:41:02.821Z</updated>
-        <content type="html"><![CDATA[<b>
-				W SERVICES(왓챠 자회사)			</b>]]></content>
     </entry>
 </feed>
