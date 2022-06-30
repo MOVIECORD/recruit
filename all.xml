@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-06-29T18:01:57.759Z</updated>
+    <updated>2022-06-30T05:43:49.467Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[아카데미 로카 <한 컷이면 충분해 - 1 CUT 영화 만들기> 수강생 모집 (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18052</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18052"/>
+        <updated>2022-06-30T05:43:48.879Z</updated>
+        <content type="html"><![CDATA[<b>
+				아카데미 로카			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[롯데컬처웍스 A Grade 신입사원 채용 (씨네21 ─ 영화인 리쿠르트)]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18050</id>
@@ -115,13 +123,5 @@
         <updated>2022-06-25T17:39:33.927Z</updated>
         <content type="html"><![CDATA[<b>
 				독립영화협의회			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[MBC아카데미] ‘영화홍보마케팅&프로듀서’ 2022 하반기 실무멘토링 과정 모집! (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18032</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18032"/>
-        <updated>2022-06-24T17:42:47.063Z</updated>
-        <content type="html"><![CDATA[<b>
-				MBC아카데미 문화연출학부			</b>]]></content>
     </entry>
 </feed>
