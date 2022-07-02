@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-07-02T05:40:03.471Z</updated>
+    <updated>2022-07-02T17:39:39.079Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[영화과입시 스토리보드 선생님 찾습니다. (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18066</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18066"/>
+        <updated>2022-07-02T17:39:38.516Z</updated>
+        <content type="html"><![CDATA[<b>
+				줌인영화학원			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KAFA+ 영화인교육 4차 교육생 모집 공고 - 마스터 클래스 <헤어질 결심> 김지용 촬영감독 (씨네21 ─ 영화인 리쿠르트)]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18065</id>
@@ -115,13 +123,5 @@
         <updated>2022-06-29T18:01:57.030Z</updated>
         <content type="html"><![CDATA[<b>
 				(주)용필름			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울인디애니페스트2022 자원활동가 서울인디애니페스트의 친구, Ani-Mate를 모집합니다!(7/4~7/24… (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18046</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18046"/>
-        <updated>2022-06-29T05:45:31.361Z</updated>
-        <content type="html"><![CDATA[<b>
-				(사)한국독립애니메이션협회			</b>]]></content>
     </entry>
 </feed>
