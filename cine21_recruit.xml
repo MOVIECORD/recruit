@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2022-07-04T05:47:02.349Z</updated>
+    <updated>2022-07-04T17:43:08.358Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(합정동) 틱톡 MCN 1위 회사 세로영상 신입 촬영PD 구인]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18071</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18071"/>
+        <updated>2022-07-04T17:43:07.759Z</updated>
+        <content type="html"><![CDATA[<b>
+				순이엔티			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[EIDF2022] EBS국제다큐영화제 EIDF2022에서 자원활동가를 모집합니다.]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18070</id>
@@ -116,13 +124,5 @@
         <updated>2022-06-30T17:48:51.309Z</updated>
         <content type="html"><![CDATA[<b>
 				독립영화협의회			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[24회 서울국제여성영화제] 자원활동가 "시우프렌즈" 모집 연장 (~7/4)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18054</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18054"/>
-        <updated>2022-06-30T17:48:51.309Z</updated>
-        <content type="html"><![CDATA[<b>
-				서울국제여성영화제			</b>]]></content>
     </entry>
 </feed>
