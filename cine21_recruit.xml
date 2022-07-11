@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2022-07-11T05:44:02.759Z</updated>
+    <updated>2022-07-11T17:49:49.166Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[용필름] 기획마케팅실 신입/경력 채용 공고 (*공고 내용 수정)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18094</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18094"/>
+        <updated>2022-07-11T17:49:48.486Z</updated>
+        <content type="html"><![CDATA[<b>
+				(주)용필름			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마케팅 에이전시 [프리엠컴퍼니] 신입/경력 팀원을 모집합니다.]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18093</id>
@@ -92,14 +100,6 @@
         <updated>2022-07-07T05:44:35.012Z</updated>
         <content type="html"><![CDATA[<b>
 				로카			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[용필름] 기획마케팅실 정규직 채용 공고]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18082</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18082"/>
-        <updated>2022-07-06T17:44:44.877Z</updated>
-        <content type="html"><![CDATA[<b>
-				(주)용필름			</b>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[예술영화관 아트나인 운영팀 직원 채용 (경력/신입)]]></title>
