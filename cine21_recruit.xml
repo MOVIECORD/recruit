@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2022-07-11T17:49:49.166Z</updated>
+    <updated>2022-07-12T05:52:23.074Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[광화문국제단편영화제 스태프 채용 공고 - 프로그램 매니저]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18095</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18095"/>
+        <updated>2022-07-12T05:52:22.403Z</updated>
+        <content type="html"><![CDATA[<b>
+				(사)광화문국제단편영화제			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[용필름] 기획마케팅실 신입/경력 채용 공고 (*공고 내용 수정)]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18094</id>
@@ -116,13 +124,5 @@
         <updated>2022-07-06T05:46:34.487Z</updated>
         <content type="html"><![CDATA[<b>
 				서울동물영화제			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KAFA+ 영화인교육 6차 교육생 모집 공고 <치밀한 전략과 영화 비즈니스의 중심, 배급>]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18079</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18079"/>
-        <updated>2022-07-06T05:46:34.487Z</updated>
-        <content type="html"><![CDATA[<b>
-				KAFA			</b>]]></content>
     </entry>
 </feed>
