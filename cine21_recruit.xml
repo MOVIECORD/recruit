@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2022-07-20T17:45:24.374Z</updated>
+    <updated>2022-07-21T05:47:29.442Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서울영등포국제초단편영화제 스태프 모집]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18122</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18122"/>
+        <updated>2022-07-21T05:47:28.625Z</updated>
+        <content type="html"><![CDATA[<b>
+				서울영등포국제초단편영화제			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[상업영화를 지향하는 시나리오 스터디 팀원 모집 (공모전 준비, 아이템 개발)]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18121</id>
@@ -116,13 +124,5 @@
         <updated>2022-07-19T17:49:50.875Z</updated>
         <content type="html"><![CDATA[<b>
 				(사)DMZ국제다큐멘터리영화제			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[해외 비즈니스 및 마케팅 업무 인재를 찾습니다!(파트타임도 환영)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18098</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18098"/>
-        <updated>2022-07-19T17:49:50.883Z</updated>
-        <content type="html"><![CDATA[<b>
-				(주)땡스앤러브			</b>]]></content>
     </entry>
 </feed>
