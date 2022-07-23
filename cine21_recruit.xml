@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2022-07-22T17:48:30.413Z</updated>
+    <updated>2022-07-23T05:41:39.204Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[함께 콘텐츠 만드는 "크리어스" 12기 모집 (~8/17마감) (영화/다큐/웹드/뮤비/예능/촬영조명 워크숍)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18136</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18136"/>
+        <updated>2022-07-23T05:41:38.489Z</updated>
+        <content type="html"><![CDATA[<b>
+				크리어스			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[부산국제영화제] 장롱 속 필름을 찾습니다! '8mm 필름에 담긴 부산의 기억']]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18135</id>
@@ -116,13 +124,5 @@
         <updated>2022-07-21T05:47:28.625Z</updated>
         <content type="html"><![CDATA[<b>
 				서울영등포국제초단편영화제			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[상업영화를 지향하는 시나리오 스터디 팀원 모집 (공모전 준비, 아이템 개발)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18121</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18121"/>
-        <updated>2022-07-20T17:45:23.687Z</updated>
-        <content type="html"><![CDATA[<b>
-				스터디모집			</b>]]></content>
     </entry>
 </feed>
