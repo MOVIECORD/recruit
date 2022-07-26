@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2022-07-25T17:46:06.611Z</updated>
+    <updated>2022-07-26T05:55:45.219Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 및 넷플릭스 컨텐츠 홍보 에이전시 [딜라이트]에서 경력/신입 사원을 모집합니다.]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18141</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18141"/>
+        <updated>2022-07-26T05:55:44.439Z</updated>
+        <content type="html"><![CDATA[<b>
+				딜라이트			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[**!추가모집중!**서울인디애니페스트2022  자원활동가 Ani-Mate를 모집합니다!(~7/31)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18140</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18140"/>
+        <updated>2022-07-26T05:55:44.441Z</updated>
+        <content type="html"><![CDATA[<b>
+							</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[㈜케이무비엔터테인먼트 해외팀 경력사원 모집]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18139</id>
@@ -108,21 +124,5 @@
         <updated>2022-07-22T05:46:36.184Z</updated>
         <content type="html"><![CDATA[<b>
 				한국독립애니메이션협회			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미디어 로컬라이제이션 프로젝트 매니저 채용 (정규직)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18126</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18126"/>
-        <updated>2022-07-21T17:44:18.926Z</updated>
-        <content type="html"><![CDATA[<b>
-				비스포크랩 주식회사			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영한/한영 자막 감수자 채용 (정규직)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18125</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18125"/>
-        <updated>2022-07-21T17:44:18.928Z</updated>
-        <content type="html"><![CDATA[<b>
-				비스포크랩 주식회사			</b>]]></content>
     </entry>
 </feed>
