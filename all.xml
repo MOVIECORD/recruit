@@ -2,8 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-07-28T05:45:05.595Z</updated>
+    <updated>2022-07-28T17:47:56.933Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[넥스트 숏-폼 시즌5 작품 공모] (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18153</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18153"/>
+        <updated>2022-07-28T17:47:56.182Z</updated>
+        <content type="html"><![CDATA[<b>
+				무중력지대 서대문			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[든든] 8월 영화계 성폭력 예방교육 안내(8월 11일 / 8월 25일 개최) (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18152</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18152"/>
+        <updated>2022-07-28T17:47:56.183Z</updated>
+        <content type="html"><![CDATA[<b>
+				한국영화성평등센터 든든			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제5회 김포국제청소년영화제 심사단 모집 (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18151</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18151"/>
+        <updated>2022-07-28T17:47:56.184Z</updated>
+        <content type="html"><![CDATA[<b>
+				김포국제청소년영화제			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[충무로영상센터 오!재미동] 단편영화 마티네 8월 상영 (씨네21 ─ 영화인 리쿠르트)]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18150</id>
@@ -99,29 +123,5 @@
         <updated>2022-07-25T17:46:05.993Z</updated>
         <content type="html"><![CDATA[<b>
 				케이무비엔터테인먼트			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(재공고) 2022 서울영등포국제초단편영화제 스태프 모집 (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18138</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18138"/>
-        <updated>2022-07-25T05:47:28.796Z</updated>
-        <content type="html"><![CDATA[<b>
-				서울영등포국제초단편영화제			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 충무로영화제-감독주간 사무국 스태프 모집 공고(프로그램팀원) (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18137</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18137"/>
-        <updated>2022-07-25T05:47:28.796Z</updated>
-        <content type="html"><![CDATA[<b>
-				중구문화재단			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[함께 콘텐츠 만드는 "크리어스" 12기 모집 (~8/17마감) (영화/다큐/웹드/뮤비/예능) (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18136</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18136"/>
-        <updated>2022-07-23T05:41:38.489Z</updated>
-        <content type="html"><![CDATA[<b>
-				크리어스			</b>]]></content>
     </entry>
 </feed>
