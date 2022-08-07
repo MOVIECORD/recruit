@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2022-08-07T05:38:54.968Z</updated>
+    <updated>2022-08-07T17:41:04.697Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단편영화제] 제3회 신촌이미지페스티벌 작품공모 (~9월 18일)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18191</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18191"/>
+        <updated>2022-08-07T17:41:04.125Z</updated>
+        <content type="html"><![CDATA[<b>
+				신촌이미지플랫폼			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KAFA+ 영화인교육 15차 교육생 모집 공고 - <기획 개발 워크숍>]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18190</id>
@@ -116,13 +124,5 @@
         <updated>2022-08-02T05:56:03.797Z</updated>
         <content type="html"><![CDATA[<b>
 				(사)서울국제초단편영상제			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소설 <아몬드> 작가의 「영화인」의 시작]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18175</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18175"/>
-        <updated>2022-08-02T05:56:03.804Z</updated>
-        <content type="html"><![CDATA[<b>
-				독립영화협의회			</b>]]></content>
     </entry>
 </feed>
