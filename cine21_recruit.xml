@@ -2,9 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2022-08-08T05:42:31.647Z</updated>
+    <updated>2022-08-08T17:44:53.755Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[앨리캣] 영화 디지털 마케팅 - 신입/경력 사원 채용 공고]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18196</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18196"/>
+        <updated>2022-08-08T17:44:52.989Z</updated>
+        <content type="html"><![CDATA[<b>
+				주식회사 앨리캣			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[태양미디어그룹] 기획마케팅팀 경력/신입 직원 모집]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18195</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18195"/>
+        <updated>2022-08-08T17:44:52.995Z</updated>
+        <content type="html"><![CDATA[<b>
+				[태양미디어그룹]			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제19회 EBS국제다큐영화제(EIDF2022) 사전예매 희망신청서 안내드립니다.]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18194</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18194"/>
+        <updated>2022-08-08T17:44:52.996Z</updated>
+        <content type="html"><![CDATA[<b>
+				EBS국제다큐영화제			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[모호필름] 기획마케팅팀 경력 직원 모집]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18193</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18193"/>
+        <updated>2022-08-08T17:44:52.998Z</updated>
+        <content type="html"><![CDATA[<b>
+				(주)모호필름			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아카데미 로카 <영화 비즈니스 취업 준비 과정 29기 in 강남> 수강생 모집]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18192</id>
@@ -92,37 +124,5 @@
         <updated>2022-08-04T05:48:11.545Z</updated>
         <content type="html"><![CDATA[<b>
 				(주)땡스앤러브			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제14회 DMZ국제다큐멘터리영화제 자원활동가(다큐즈) 모집 (~8/24)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18181</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18181"/>
-        <updated>2022-08-04T05:48:11.547Z</updated>
-        <content type="html"><![CDATA[<b>
-				사단법인 DMZ국제다큐멘터리영화제			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정규직 공고] DMZ국제다큐멘터리영화제 정규직 채용(경영지원팀 5급)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18180</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18180"/>
-        <updated>2022-08-02T17:47:27.835Z</updated>
-        <content type="html"><![CDATA[<b>
-				사단법인 DMZ국제다큐멘터리영화제			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 OTT 디지털 마케팅사 절찬상영중 하반기 동료 모집]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18178</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18178"/>
-        <updated>2022-08-02T17:47:27.836Z</updated>
-        <content type="html"><![CDATA[<b>
-				절찬상영중			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[웹스프레드 영화 디지털 마케팅 신입/경력 채용 건]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18177</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18177"/>
-        <updated>2022-08-02T17:47:27.836Z</updated>
-        <content type="html"><![CDATA[<b>
-				웹스프레드			</b>]]></content>
     </entry>
 </feed>
