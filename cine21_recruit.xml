@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2022-08-09T05:44:03.841Z</updated>
+    <updated>2022-08-09T17:43:17.136Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[함께 콘텐츠 만드는 "크리어스" 12기 모집 (~8/17마감) (영화/다큐/웹드/뮤비/예능/촬영워크숍)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18200</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18200"/>
+        <updated>2022-08-09T17:43:16.397Z</updated>
+        <content type="html"><![CDATA[<b>
+				크리어스			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(주)영화사벌집에서 해외팀 인원을 모집합니다]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18199</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18199"/>
+        <updated>2022-08-09T17:43:16.400Z</updated>
+        <content type="html"><![CDATA[<b>
+				(주)영화사벌집			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[BIAF2022] 단편애니메이션 제작지원 공모 접수 진행 중]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18198</id>
@@ -108,21 +124,5 @@
         <updated>2022-08-05T05:50:35.953Z</updated>
         <content type="html"><![CDATA[<b>
 				DMZ국제다큐멘터리영화제			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8월 30일(화) 개최, 독립영화워크숍 공개설명회에 의한 참여 회원 모집]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18185</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18185"/>
-        <updated>2022-08-05T05:50:35.957Z</updated>
-        <content type="html"><![CDATA[<b>
-				독립영화협의회			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[류승완, 한준희 감독은 지옥 같은 공동작업을 입문 수료하였습니다.]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18184</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18184"/>
-        <updated>2022-08-05T05:50:35.959Z</updated>
-        <content type="html"><![CDATA[<b>
-				독립영화워크숍			</b>]]></content>
     </entry>
 </feed>
