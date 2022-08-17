@@ -2,9 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2022-08-16T17:44:45.912Z</updated>
+    <updated>2022-08-17T05:54:13.969Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화/드라마/OTT 예고편 팀 미스터 쇼타임 채용]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18223</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18223"/>
+        <updated>2022-08-17T05:54:13.367Z</updated>
+        <content type="html"><![CDATA[<b>
+				미스터 쇼타임			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[MBC아카데미] ‘영화홍보마케팅&프로듀서’ 2022 하반기 실무멘토링 과정 모집!]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18222</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18222"/>
+        <updated>2022-08-17T05:54:13.368Z</updated>
+        <content type="html"><![CDATA[<b>
+				MBC아카데미 문화연출학부			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[2022] 제2회 금천패션영화제 경쟁부문 작품 공모 (~8.31)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18221</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18221"/>
+        <updated>2022-08-17T05:54:13.372Z</updated>
+        <content type="html"><![CDATA[<b>
+				금천패션영화제			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[2022] 서울영등포국제초단편영화제 자원활동가 SESIFFian 모집!]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18220</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18220"/>
+        <updated>2022-08-17T05:54:13.386Z</updated>
+        <content type="html"><![CDATA[<b>
+				(사)서울국제초단편영상제			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 충무로영화제-감독주간 자원활동가 모집]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18219</id>
@@ -92,37 +124,5 @@
         <updated>2022-08-12T05:41:11.437Z</updated>
         <content type="html"><![CDATA[<b>
 				서울국제여성영화제			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[편집특강] 편집의 눈으로 영화를 보다]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18205</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18205"/>
-        <updated>2022-08-11T17:43:00.314Z</updated>
-        <content type="html"><![CDATA[<b>
-				충무로영상센터 오!재미동			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[(주)오드아이픽쳐스] 제작PD/기획PD/ 보조작가 경력/신입 직원 모집]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18204</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18204"/>
-        <updated>2022-08-11T17:43:00.315Z</updated>
-        <content type="html"><![CDATA[<b>
-				(주)오드아이픽쳐스			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(주)지니스커뮤니케이션 영화 마케터(경력) 상시 모집]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18203</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18203"/>
-        <updated>2022-08-11T17:43:00.317Z</updated>
-        <content type="html"><![CDATA[<b>
-				(주)지니스커뮤니케이션			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(재공고) [2022] 서울영등포국제초단편영화제 스태프 2차 모집]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18202</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18202"/>
-        <updated>2022-08-11T05:39:57.731Z</updated>
-        <content type="html"><![CDATA[<b>
-				(사)서울국제초단편영상제			</b>]]></content>
     </entry>
 </feed>
