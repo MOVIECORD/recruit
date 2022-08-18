@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-08-17T17:47:11.173Z</updated>
+    <updated>2022-08-18T05:51:45.480Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[BIAF2022 전시, 홍보, 배지 리더 모집 (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18224</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18224"/>
+        <updated>2022-08-18T05:51:44.925Z</updated>
+        <content type="html"><![CDATA[<b>
+				부천국제애니메이션페스티벌 조직위원회			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화/드라마/OTT 예고편 팀 미스터 쇼타임 채용 (씨네21 ─ 영화인 리쿠르트)]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18223</id>
@@ -115,13 +123,5 @@
         <updated>2022-08-12T05:41:11.436Z</updated>
         <content type="html"><![CDATA[<b>
 				독립영화협의회			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 SIWFF 피치&캐치 프로젝트 피칭 사전신청이 시작됩니다! (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18206</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18206"/>
-        <updated>2022-08-12T05:41:11.437Z</updated>
-        <content type="html"><![CDATA[<b>
-				서울국제여성영화제			</b>]]></content>
     </entry>
 </feed>
