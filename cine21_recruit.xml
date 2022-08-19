@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2022-08-19T05:46:36.995Z</updated>
+    <updated>2022-08-19T17:46:48.864Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[㈜영화사 그램 홍보/마케팅 부문 신입 및 경력 모집 공고]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18230</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18230"/>
+        <updated>2022-08-19T17:46:48.131Z</updated>
+        <content type="html"><![CDATA[<b>
+				㈜영화사 그램			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화&OTT 디지털 마케팅사 [제스타드]에서 신입/경력 사원을 모십니다!(~8/28)]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18227</id>
@@ -116,13 +124,5 @@
         <updated>2022-08-16T05:38:21.774Z</updated>
         <content type="html"><![CDATA[<b>
 				트윈플러스파트너스			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국현대정신분석학회 8월 19일 사례세미나 <자크 라캉 세미나 11: 정신분석의 네 가지 근본개념>]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18212</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18212"/>
-        <updated>2022-08-15T05:51:54.993Z</updated>
-        <content type="html"><![CDATA[<b>
-				한국현대정신분석학회			</b>]]></content>
     </entry>
 </feed>
