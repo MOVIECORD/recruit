@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-08-18T17:55:25.514Z</updated>
+    <updated>2022-08-19T05:46:37.093Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[영화&OTT 디지털 마케팅사 [제스타드]에서 신입/경력 사원을 모십니다!(~8/28) (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18227</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18227"/>
+        <updated>2022-08-19T05:46:36.370Z</updated>
+        <content type="html"><![CDATA[<b>
+				제스타드(주)			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화/드라마/OTT 컨텐츠를 기획/제작하고 있는 클라이맥스 스튜디오 인턴 모집 (씨네21 ─ 영화인 리쿠르트)]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18226</id>
@@ -115,13 +123,5 @@
         <updated>2022-08-15T05:51:54.993Z</updated>
         <content type="html"><![CDATA[<b>
 				한국현대정신분석학회			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 및 OTT 콘텐츠 마케팅사 퍼스트룩에서 신입/경력 사원을 모집합니다! (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18209</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18209"/>
-        <updated>2022-08-12T17:45:41.201Z</updated>
-        <content type="html"><![CDATA[<b>
-				퍼스트룩			</b>]]></content>
     </entry>
 </feed>
