@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2022-08-22T05:56:14.225Z</updated>
+    <updated>2022-08-22T17:42:31.630Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[다양성영화 전문배급사 아이 엠(eye m) 채용공고(3개월 단기스탭)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18232</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18232"/>
+        <updated>2022-08-22T17:42:31.044Z</updated>
+        <content type="html"><![CDATA[<b>
+				아이 엠(eye m)			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[씨네21] 독자관리 담당자 모집(2년이하 경력/신입지원가능)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18231</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18231"/>
+        <updated>2022-08-22T17:42:31.048Z</updated>
+        <content type="html"><![CDATA[<b>
+				씨네21			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[㈜영화사 그램 홍보/마케팅 부문 신입 및 경력 모집 공고]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18230</id>
@@ -108,21 +124,5 @@
         <updated>2022-08-16T05:38:21.772Z</updated>
         <content type="html"><![CDATA[<b>
 				인천독립영화협회			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[컬처마케팅사 호호호비치 경력직 채용]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18215</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18215"/>
-        <updated>2022-08-16T05:38:21.772Z</updated>
-        <content type="html"><![CDATA[<b>
-				컬처마케팅사 호호호비치			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[트윈플러스파트너스] 극장 배급 및 부가판권 경력직 채용]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18214</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18214"/>
-        <updated>2022-08-16T05:38:21.774Z</updated>
-        <content type="html"><![CDATA[<b>
-				트윈플러스파트너스			</b>]]></content>
     </entry>
 </feed>
