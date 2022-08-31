@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2022-08-31T06:42:28.307Z</updated>
+    <updated>2022-08-31T17:43:33.027Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[서울영등포국제초단편영화제] 자원활동가 'SESIFFian' 추가 모집! (~9.4)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18267</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18267"/>
+        <updated>2022-08-31T17:43:32.476Z</updated>
+        <content type="html"><![CDATA[<b>
+				제14회 서울영등포국제초단편영화제			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 OTT 콘텐츠 마케팅사 퍼스트룩 신입/경력 사원 모집]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18266</id>
@@ -116,13 +124,5 @@
         <updated>2022-08-26T17:43:46.667Z</updated>
         <content type="html"><![CDATA[<b>
 				(주)넥서스			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[모집연장] 제14회 DMZ국제다큐멘터리영화제 자원활동가 다큐즈 모집 (~8/29)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18252</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18252"/>
-        <updated>2022-08-25T17:43:18.574Z</updated>
-        <content type="html"><![CDATA[<b>
-				DMZ국제다큐멘터리영화제			</b>]]></content>
     </entry>
 </feed>
