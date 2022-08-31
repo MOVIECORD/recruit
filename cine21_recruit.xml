@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2022-08-30T17:46:13.884Z</updated>
+    <updated>2022-08-31T06:42:28.307Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 OTT 콘텐츠 마케팅사 퍼스트룩 신입/경력 사원 모집]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18266</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18266"/>
+        <updated>2022-08-31T06:42:27.670Z</updated>
+        <content type="html"><![CDATA[<b>
+				퍼스트룩			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 <선데이리그>,<절해고도> 홍보마케팅/ 배급을 함께할 인재를 구합니다.]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18265</id>
@@ -116,13 +124,5 @@
         <updated>2022-08-25T17:43:18.574Z</updated>
         <content type="html"><![CDATA[<b>
 				DMZ국제다큐멘터리영화제			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(주)지니스커뮤니케이션 디지털 영화 마케터(경력) 상시 모집]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18251</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18251"/>
-        <updated>2022-08-25T06:08:13.818Z</updated>
-        <content type="html"><![CDATA[<b>
-				(주)지니스커뮤니케이션			</b>]]></content>
     </entry>
 </feed>
