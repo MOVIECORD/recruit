@@ -2,9 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2022-09-07T17:54:07.524Z</updated>
+    <updated>2022-09-08T06:27:02.843Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[영화제] (~9/18)부천국제애니메이션페스티벌에서 자원활동가 비아띠를 모집합니다.]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18294</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18294"/>
+        <updated>2022-09-08T06:27:02.156Z</updated>
+        <content type="html"><![CDATA[<b>
+				BIAF 조직위원회			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[예술영화관 아트나인에서 경력직(신입) 인재를 모집합니다.]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18293</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18293"/>
+        <updated>2022-09-08T06:27:02.156Z</updated>
+        <content type="html"><![CDATA[<b>
+				아트나인			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영화 홍보마케팅 무비앤아이 남녀 신입 및 경력 추가 모집 합니다]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18291</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18291"/>
+        <updated>2022-09-08T06:27:02.162Z</updated>
+        <content type="html"><![CDATA[<b>
+				무비앤아이			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김상범편집실에서 편집 어시스턴트를 구합니다]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18290</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18290"/>
+        <updated>2022-09-08T06:27:02.162Z</updated>
+        <content type="html"><![CDATA[<b>
+				김상범편집실			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[필름마켓 참여 및 보조할 해외팀 신입직원을 모집합니다.]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18289</id>
@@ -30,7 +62,7 @@
 				서울영상위원회			</b>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[충무로영화제] 2022 충무로영화제-감독주간 자원활동가 모집 (~9/16)]]></title>
+        <title type="html"><![CDATA[[충무로영화제] 2022 충무로영화제-감독주간 자원활동가 모집 (~9/16)									댓글+1개]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18286</id>
         <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18286"/>
         <updated>2022-09-07T06:42:48.193Z</updated>
@@ -92,37 +124,5 @@
         <updated>2022-09-05T06:29:35.178Z</updated>
         <content type="html"><![CDATA[<b>
 				충무로영상센터 오!재미동			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[문화콘텐츠 마케팅사 S•CON 스콘에서 2022년 하반기 경력/신입사원을 모집합니다.]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18277</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18277"/>
-        <updated>2022-09-05T06:29:35.187Z</updated>
-        <content type="html"><![CDATA[<b>
-				스콘			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 홍보마케팅 무비앤아이 남녀 신입 및 경력 추가 모집 합니다]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18276</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18276"/>
-        <updated>2022-09-02T17:44:36.893Z</updated>
-        <content type="html"><![CDATA[<b>
-				무비앤아이			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[해외 비즈니스 및 마케팅 업무 인재를 찾습니다!]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18275</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18275"/>
-        <updated>2022-09-02T06:24:29.476Z</updated>
-        <content type="html"><![CDATA[<b>
-				(주)땡스앤러브			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 제1회 문화역서울284 유튜브 영상공모전]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18274</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18274"/>
-        <updated>2022-09-02T06:24:29.478Z</updated>
-        <content type="html"><![CDATA[<b>
-				문화역서울284			</b>]]></content>
     </entry>
 </feed>
