@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2022-09-13T17:51:31.610Z</updated>
+    <updated>2022-09-14T06:34:55.722Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[제24회 부천국제애니메이션페스티벌] 관객심사단 애니비 모집!!(~10/02)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18302</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18302"/>
+        <updated>2022-09-14T06:34:55.107Z</updated>
+        <content type="html"><![CDATA[<b>
+				부천국제애니메이션페스티벌			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[발간] 영상비평지 《마테리알》 7호 선주문 안내]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18301</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18301"/>
+        <updated>2022-09-14T06:34:55.109Z</updated>
+        <content type="html"><![CDATA[<b>
+				마테리알			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[(주)그룹에이트] 드라마 기획PD 신입/경력 채용 공고]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18299</id>
@@ -108,21 +124,5 @@
         <updated>2022-09-06T17:47:14.520Z</updated>
         <content type="html"><![CDATA[<b>
 				홈초이스			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[모집연장]제4회 모두를위한기독교영화제 자원활동가 모디언즈 모집 (~9/21)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18283</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18283"/>
-        <updated>2022-09-06T17:47:14.521Z</updated>
-        <content type="html"><![CDATA[<b>
-				모두를위한기독교영화제			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[『2022 전주영상위원회 다큐멘터리 제작지원』 작품 모집 공고]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18282</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18282"/>
-        <updated>2022-09-06T06:44:12.774Z</updated>
-        <content type="html"><![CDATA[<b>
-				전주영상위원회			</b>]]></content>
     </entry>
 </feed>
