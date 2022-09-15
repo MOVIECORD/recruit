@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2022-09-15T06:27:09.260Z</updated>
+    <updated>2022-09-15T17:49:50.232Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화디지털마케팅사<아이스크림>에서 경력 및 신입 직원을 채용합니다.]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18310</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18310"/>
+        <updated>2022-09-15T17:49:49.702Z</updated>
+        <content type="html"><![CDATA[<b>
+				아이스크림(eyescream)			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[MBC아카데미] ‘영화홍보마케팅&프로듀서’ 2022 하반기 실무멘토링 과정 모집!]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18309</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18309"/>
+        <updated>2022-09-15T17:49:49.702Z</updated>
+        <content type="html"><![CDATA[<b>
+				MBC아카데미 문화연출학부			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[모호필름] 해외 기획 제작팀 신입 직원 모집]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18308</id>
@@ -108,21 +124,5 @@
         <updated>2022-09-08T06:27:02.156Z</updated>
         <content type="html"><![CDATA[<b>
 				BIAF 조직위원회			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[예술영화관 아트나인에서 경력직(신입) 인재를 모집합니다.]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18293</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18293"/>
-        <updated>2022-09-08T06:27:02.156Z</updated>
-        <content type="html"><![CDATA[<b>
-				아트나인			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 홍보마케팅 무비앤아이 남녀 신입 및 경력 추가 모집 합니다]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18291</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18291"/>
-        <updated>2022-09-08T06:27:02.162Z</updated>
-        <content type="html"><![CDATA[<b>
-				무비앤아이			</b>]]></content>
     </entry>
 </feed>
