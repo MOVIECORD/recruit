@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2022-09-15T17:49:50.232Z</updated>
+    <updated>2022-09-16T06:30:35.811Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아카데미 로카 <영화 비즈니스 취업 준비 과정 29기 in 강남> 수강생 모집]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18312</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18312"/>
+        <updated>2022-09-16T06:30:35.270Z</updated>
+        <content type="html"><![CDATA[<b>
+				로카			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[소품회사 (주) 더프롭에서 영화<대가족>의 소품팀원을 모집합니다.]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18311</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18311"/>
+        <updated>2022-09-16T06:30:35.274Z</updated>
+        <content type="html"><![CDATA[<b>
+				(주) 더프롭			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화디지털마케팅사<아이스크림>에서 경력 및 신입 직원을 채용합니다.]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18310</id>
@@ -108,21 +124,5 @@
         <updated>2022-09-12T06:42:09.990Z</updated>
         <content type="html"><![CDATA[<b>
 				모비			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[서울영등포국제포단편영화제] 자원활동가 'SESIFFian' 기술팀, 홍보팀 추가 모집! (~9.14)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18296</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18296"/>
-        <updated>2022-09-08T17:52:59.786Z</updated>
-        <content type="html"><![CDATA[<b>
-				제14회 서울영등포국제초단편영화제			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[영화제] (~9/18)부천국제애니메이션페스티벌에서 자원활동가 비아띠를 모집합니다.]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18294</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18294"/>
-        <updated>2022-09-08T06:27:02.156Z</updated>
-        <content type="html"><![CDATA[<b>
-				BIAF 조직위원회			</b>]]></content>
     </entry>
 </feed>
