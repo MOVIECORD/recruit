@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-09-16T17:56:28.248Z</updated>
+    <updated>2022-09-17T05:55:19.035Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[영화이론] 영화구경꾼들 <영화, 영화를 말하다> (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18320</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18320"/>
+        <updated>2022-09-17T05:55:18.316Z</updated>
+        <content type="html"><![CDATA[<b>
+				충무로영상센터 오!재미동			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[공개모집] B tv OCEAN에 영화를 추천해주세요! (씨네21 ─ 영화인 리쿠르트)]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18318</id>
@@ -115,13 +123,5 @@
         <updated>2022-09-13T17:51:31.076Z</updated>
         <content type="html"><![CDATA[<b>
 				크리에이티브리더스그룹에이트			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[-영화 <작은새와 돼지씨> 무료관람- (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18298</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18298"/>
-        <updated>2022-09-13T17:51:31.077Z</updated>
-        <content type="html"><![CDATA[<b>
-				김포국제청소년영화제			</b>]]></content>
     </entry>
 </feed>
