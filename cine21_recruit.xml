@@ -2,65 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2022-10-08T05:53:24.087Z</updated>
+    <updated>2022-10-08T17:50:43.896Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[[네이버웹툰] 시리즈온 영화 제휴 담당(경력)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18384</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18384"/>
-        <updated>2022-10-08T05:53:23.545Z</updated>
-        <content type="html"><![CDATA[<b>
-				네이버웹툰			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제43회 청룡영화상 '청정원 단편영화상' 출품 공모 안내]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18383</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18383"/>
-        <updated>2022-10-08T05:53:23.546Z</updated>
-        <content type="html"><![CDATA[<b>
-				청룡영화상			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 제1회 문화역서울284 유튜브 영상공모전]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18382</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18382"/>
-        <updated>2022-10-08T05:53:23.547Z</updated>
-        <content type="html"><![CDATA[<b>
-				한국공예·디자인문화진흥원			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KAFA+ 영화인교육 24차 교육생 모집 공고 - 질문하는 비평, 응답하는 비평]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18381</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18381"/>
-        <updated>2022-10-08T05:53:23.548Z</updated>
-        <content type="html"><![CDATA[<b>
-				KAFA			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18380</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18380"/>
-        <updated>2022-10-08T05:53:23.531Z</updated>
-        <content type="html"><![CDATA[<td class="text-center font-11">
-			<span class="en">3952</span>		</td>
-		<td class="text-center font-11" style="white-space:normal">
-			<b>
-				앤드크레딧			</b>
-		</td>
-
-							<td class="text-center hl0">
-				<a href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;sca=%EC%B1%84%EC%9A%A9">
-					<span class="text-muted font-11">
-						채용					</span>
-				</a>
-			</td>
-				<td class="list-subject">
-			<a href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18380">
-								<span class="wr-icon wr-hot"></span>				영화 마케팅&amp;넷플릭스 콘텐츠 홍보 대행사 [앤드크레딧] 신입/경력 모집합니다							</a>
-		</td>
-<!--		<td class="text-center en font-11"><b><span class="sv_member">&credit</span></b></td>-->
-		<td class="text-center en font-11">10.05</td>
-		<td class="text-center en font-11">265</td>]]></content>
-    </entry>
 </feed>
