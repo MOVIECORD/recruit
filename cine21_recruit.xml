@@ -2,7 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2022-10-18T06:43:13.227Z</updated>
+    <updated>2022-10-18T18:03:09.891Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[미디액트 강좌] 사운드 기초 과정 : 실전!! 동시녹음 완성!! - 11월 5일 토요일 개강!]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18412</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18412"/>
+        <updated>2022-10-18T18:03:09.075Z</updated>
+        <content type="html"><![CDATA[<b>
+				미디액트			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 MWFF 목동워커스영화제 작품공모]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18411</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18411"/>
+        <updated>2022-10-18T18:03:09.076Z</updated>
+        <content type="html"><![CDATA[<b>
+				목동워커스영화제			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[탐 TOMM ] 영화 예고편 제작 정규직 모집 공고(신입 및 경력)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18410</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18410"/>
+        <updated>2022-10-18T18:03:09.077Z</updated>
+        <content type="html"><![CDATA[<b>
+				탐 TOMM			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「아몬드」 작가의 「영화인」의 시작]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18409</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18409"/>
+        <updated>2022-10-18T18:03:09.078Z</updated>
+        <content type="html"><![CDATA[<b>
+				독립영화워크숍			</b>]]></content>
+    </entry>
 </feed>
