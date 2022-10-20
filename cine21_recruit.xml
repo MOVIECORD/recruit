@@ -2,7 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2022-10-19T18:07:24.943Z</updated>
+    <updated>2022-10-20T06:01:27.666Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[(주)고일] 영화제작사업부(장비영업) 정규직 채용 공고 (신입 및 경력)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18416</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18416"/>
+        <updated>2022-10-20T06:01:27.026Z</updated>
+        <content type="html"><![CDATA[<b>
+				(주)고일			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[잘 팔리는 장편영화 시나리오 개발을 위한 스터디 팀원 모집 (공모전 준비, 아이템 개발 등)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18415</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18415"/>
+        <updated>2022-10-20T06:01:27.028Z</updated>
+        <content type="html"><![CDATA[<b>
+				시나리오 스터디			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10월 25일(화) 개최, 독립영화워크숍 입문과정 공개설명회에 의한 참여 회원 모집]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18414</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18414"/>
+        <updated>2022-10-20T06:01:27.030Z</updated>
+        <content type="html"><![CDATA[<b>
+				독립영화협의회			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[독립영화워크숍은 한국영화아카데미 포토폴리오 과정이 아닙니다]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18413</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18413"/>
+        <updated>2022-10-20T06:01:27.032Z</updated>
+        <content type="html"><![CDATA[<b>
+				독립영화협의회			</b>]]></content>
+    </entry>
 </feed>
