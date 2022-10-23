@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2022-10-23T06:03:34.009Z</updated>
+    <updated>2022-10-23T17:53:38.861Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
     <entry>
@@ -38,11 +38,9 @@
 				(주)고일			</b>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[잘 팔리는 장편영화 시나리오 개발을 위한 스터디 팀원 모집 (공모전 준비, 아이템 개발 등)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18415</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18415"/>
-        <updated>2022-10-22T17:53:26.288Z</updated>
-        <content type="html"><![CDATA[<b>
-				시나리오 스터디			</b>]]></content>
+        <title type="html"><![CDATA[4]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit"/>
+        <updated>2022-10-23T17:53:38.255Z</updated>
     </entry>
 </feed>
