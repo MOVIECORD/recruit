@@ -2,39 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2022-10-28T05:49:43.129Z</updated>
+    <updated>2022-10-28T17:46:23.352Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[[미디액트] 훅 있는 OTT 드라마 시나리오 쓰기 4기 - 11월 28일 월요일 개강!!]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18449</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18449"/>
-        <updated>2022-10-28T05:49:42.556Z</updated>
-        <content type="html"><![CDATA[<b>
-				미디액트			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[11월 2일(화) 개최, 독립영화워크숍 입문과정 공개설명회에 의한 참여 회원 모집]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18448</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18448"/>
-        <updated>2022-10-28T05:49:42.557Z</updated>
-        <content type="html"><![CDATA[<b>
-				독립영화협의회			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[독립영화워크숍에서 공동작업의 의미]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18447</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18447"/>
-        <updated>2022-10-28T05:49:42.563Z</updated>
-        <content type="html"><![CDATA[<b>
-				독립영화협의회			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[영화/OTT] 웹스프레드, 컨텐츠 마케팅 경력 /신입 채용공고입니다.]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18446</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18446"/>
-        <updated>2022-10-28T05:49:42.565Z</updated>
-        <content type="html"><![CDATA[<b>
-				웹스프레드			</b>]]></content>
-    </entry>
 </feed>
