@@ -2,65 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2022-10-29T05:44:42.875Z</updated>
+    <updated>2022-10-29T17:43:37.734Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[제작사 크로스픽쳐스에서 기획팀 PD 및 인턴사원을 모집합니다.]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18454</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18454"/>
-        <updated>2022-10-29T05:44:42.290Z</updated>
-        <content type="html"><![CDATA[<b>
-				크로스픽쳐스㈜			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[씨네21 콘텐츠팀 계약직 모집]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18452</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18452"/>
-        <updated>2022-10-29T05:44:42.291Z</updated>
-        <content type="html"><![CDATA[<b>
-				씨네21			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[미디액트] 훅 있는 OTT 드라마 시나리오 쓰기 4기 - 11월 28일 월요일 개강!!]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18449</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18449"/>
-        <updated>2022-10-29T05:44:42.298Z</updated>
-        <content type="html"><![CDATA[<b>
-				미디액트			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[11월 2일(화) 개최, 독립영화워크숍 입문과정 공개설명회에 의한 참여 회원 모집]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18448</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18448"/>
-        <updated>2022-10-29T05:44:42.299Z</updated>
-        <content type="html"><![CDATA[<b>
-				독립영화협의회			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18447</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18447"/>
-        <updated>2022-10-29T05:44:42.276Z</updated>
-        <content type="html"><![CDATA[<td class="text-center font-11">
-			<span class="en">4004</span>		</td>
-		<td class="text-center font-11" style="white-space:normal">
-			<b>
-				독립영화협의회			</b>
-		</td>
-
-							<td class="text-center hl2">
-				<a href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;sca=%EA%B8%B0%ED%83%80">
-					<span class="text-muted font-11">
-						기타					</span>
-				</a>
-			</td>
-				<td class="list-subject">
-			<a href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18447">
-												독립영화워크숍에서 공동작업의 의미							</a>
-		</td>
-<!--		<td class="text-center en font-11"><b><span class="sv_member">ind</span></b></td>-->
-		<td class="text-center en font-11">10.28</td>
-		<td class="text-center en font-11">13</td>]]></content>
-    </entry>
 </feed>
