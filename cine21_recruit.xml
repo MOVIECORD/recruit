@@ -2,39 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2022-11-04T05:44:00.378Z</updated>
+    <updated>2022-11-04T17:43:47.348Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[[비스포크랩] 프로젝트 매니저 채용 (정규직)									댓글+1개]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18470</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18470"/>
-        <updated>2022-11-04T05:43:59.765Z</updated>
-        <content type="html"><![CDATA[<b>
-				비스포크랩 주식회사			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[비스포크랩] 시니어 자막 감수자 채용 (정규직)									댓글+1개]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18468</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18468"/>
-        <updated>2022-11-04T05:43:59.769Z</updated>
-        <content type="html"><![CDATA[<b>
-				비스포크랩 주식회사			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[더틱톡] 드라마/예능 홍보대행 2023년 상반기 신입 공고 (~11/18)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18466</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18466"/>
-        <updated>2022-11-04T05:43:59.770Z</updated>
-        <content type="html"><![CDATA[<b>
-				더 틱톡(외주홍보대행사)			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18465</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18465"/>
-        <updated>2022-11-04T05:43:59.771Z</updated>
-        <content type="html"><![CDATA[<b>
-				시민미디어센터			</b>]]></content>
-    </entry>
 </feed>
