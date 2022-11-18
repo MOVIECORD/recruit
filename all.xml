@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-11-17T17:41:35.542Z</updated>
+    <updated>2022-11-18T05:40:00.449Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[문화콘텐츠 마케팅사 S•CON 스콘에서 경력/신입사원을 모집합니다. (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18504</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18504"/>
+        <updated>2022-11-18T05:39:59.777Z</updated>
+        <content type="html"><![CDATA[<b>
+				스콘			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[예술영화전용관 [에무시네마] 팀원 모집합니다 (지원 기간 연장) (씨네21 ─ 영화인 리쿠르트)]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18502</id>
@@ -115,13 +123,5 @@
         <updated>2022-11-16T17:51:24.134Z</updated>
         <content type="html"><![CDATA[<b>
 				엠라인 디스트리뷰션(주)			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[무료 프로그램] <영화굿즈작가의 시선으로 영화 그리기> (with. <블랙 펜서> 관람) 참여자 모집 (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18482</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18482"/>
-        <updated>2022-11-16T17:51:24.135Z</updated>
-        <content type="html"><![CDATA[<b>
-				서울청년센터서초오랑			</b>]]></content>
     </entry>
 </feed>
