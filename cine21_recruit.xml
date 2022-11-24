@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2022-11-23T17:37:45.856Z</updated>
+    <updated>2022-11-24T05:38:14.440Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[씨네21] 문화 사업 기획 팀장(경력) 공고 모집]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18520</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18520"/>
+        <updated>2022-11-24T05:38:13.733Z</updated>
+        <content type="html"><![CDATA[<b>
+				씨네21			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[MBC아카데미] 영화홍보마케팅, 기획, 제작, 투자, 배급, 수입 교육생 모집!! :)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18519</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18519"/>
+        <updated>2022-11-24T05:38:13.733Z</updated>
+        <content type="html"><![CDATA[<b>
+				MBC아카데미 문화연출학부			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[초대] 별별씨네마 12월 기획상영회 초대]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18518</id>
@@ -108,21 +124,5 @@
         <updated>2022-11-18T17:42:24.174Z</updated>
         <content type="html"><![CDATA[<b>
 				부천시민미디어센터			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KAFA+ 영화인교육 30차 교육생 모집 공고 - <영화 미술, 프로덕션 디자인의 이해>]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18505</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18505"/>
-        <updated>2022-11-18T17:42:24.186Z</updated>
-        <content type="html"><![CDATA[<b>
-				KAFA			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[문화콘텐츠 마케팅사 S•CON 스콘에서 경력/신입사원을 모집합니다.]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18504</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18504"/>
-        <updated>2022-11-18T05:39:59.777Z</updated>
-        <content type="html"><![CDATA[<b>
-				스콘			</b>]]></content>
     </entry>
 </feed>
