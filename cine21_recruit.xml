@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2022-11-24T17:38:32.699Z</updated>
+    <updated>2022-11-25T05:38:14.184Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[12/1(목) <판타스틱 씨네클래스 - '잇다'> 인문학적 영화읽기Ⅲ '영끌부터 아파트 공화국까지,‘부동산’…]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18523</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18523"/>
+        <updated>2022-11-25T05:38:13.554Z</updated>
+        <content type="html"><![CDATA[<b>
+				부천시민미디어센터			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[문화콘텐츠 마케팅사 S•CON 스콘에서 경력/신입사원을 모집합니다.]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18522</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18522"/>
+        <updated>2022-11-25T05:38:13.555Z</updated>
+        <content type="html"><![CDATA[<b>
+				스콘			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[글로벌 콘텐츠 비즈니스를 함께 할 인재를 찾습니다. 2차 모집]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18521</id>
@@ -108,21 +124,5 @@
         <updated>2022-11-20T17:39:56.819Z</updated>
         <content type="html"><![CDATA[<b>
 				(주)엣나인필름			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[이벤트] 독립영화 플랫폼 무비블록에 영화 업로드하고 최대 $100 상당의 MBL 받자!]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18508</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18508"/>
-        <updated>2022-11-18T17:42:24.165Z</updated>
-        <content type="html"><![CDATA[<b>
-				무비블록			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 홍보 마케팅 무비앤아이 신입 & 경력 모집합니다]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18507</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18507"/>
-        <updated>2022-11-18T17:42:24.172Z</updated>
-        <content type="html"><![CDATA[<b>
-				무비앤아이			</b>]]></content>
     </entry>
 </feed>
