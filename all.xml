@@ -2,8 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-11-28T17:39:42.278Z</updated>
+    <updated>2022-11-29T05:38:03.828Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[KSI] 한국시나리오연구소 2023년 1월 개강 정규과정 17기 수강생 모집 (12/29 접수 마감) *친… (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18529</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18529"/>
+        <updated>2022-11-29T05:38:03.230Z</updated>
+        <content type="html"><![CDATA[<b>
+				한국시나리오연구소			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[12/6(화) <판타스틱 씨네클래스 - '잇다'> 인문학적 영화읽기Ⅲ '영끌부터 아파트 공화국까지,‘부동산’… (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18528</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18528"/>
+        <updated>2022-11-29T05:38:03.232Z</updated>
+        <content type="html"><![CDATA[<b>
+				부천시민미디어센터			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[윌앤비전] CJ ENM 영화)해외배급팀 세일즈 or 마케팅 부문 인턴 채용 ( ~12/06) / 중복지원가… (씨네21 ─ 영화인 리쿠르트)]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18527</id>
@@ -107,21 +123,5 @@
         <updated>2022-11-22T05:40:16.996Z</updated>
         <content type="html"><![CDATA[<b>
 				Btv OCEAN			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[미디액트] 이틀만에 조명 기초 다지기(11월) - 강사 안겸서 촬영감독 / 11월 26일 토요일 개강!! (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18514</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18514"/>
-        <updated>2022-11-21T17:41:55.485Z</updated>
-        <content type="html"><![CDATA[<b>
-				미디액트			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[미디액트] 영화 비평 쓰기 -고레에다 히로카즈의 영화 - 강사 김소희 평론가 / 11월 25일 개강!! (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18513</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18513"/>
-        <updated>2022-11-21T17:41:55.490Z</updated>
-        <content type="html"><![CDATA[<b>
-				미디액트			</b>]]></content>
     </entry>
 </feed>
