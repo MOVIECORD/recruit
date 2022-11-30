@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-11-29T17:38:20.495Z</updated>
+    <updated>2022-11-30T05:38:28.496Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[영화 마케팅&넷플릭스 콘텐츠 홍보 대행사 [앤드크레딧] 신입/경력 모집합니다 (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18530</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18530"/>
+        <updated>2022-11-30T05:38:27.923Z</updated>
+        <content type="html"><![CDATA[<b>
+				앤드크레딧			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[KSI] 한국시나리오연구소 2023년 1월 개강 정규과정 17기 수강생 모집 (12/29 접수 마감) *친… (씨네21 ─ 영화인 리쿠르트)]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18529</id>
@@ -115,13 +123,5 @@
         <updated>2022-11-22T05:40:16.992Z</updated>
         <content type="html"><![CDATA[<b>
 				CJ ENM			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[공개모집] Btv OCEAN - 당신의 최애 배우/감독 영화를 영업해주세요. (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18515</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18515"/>
-        <updated>2022-11-22T05:40:16.996Z</updated>
-        <content type="html"><![CDATA[<b>
-				Btv OCEAN			</b>]]></content>
     </entry>
 </feed>
