@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2022-12-05T17:37:59.318Z</updated>
+    <updated>2022-12-06T05:37:34.442Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[구인] 한국독립애니메이션협회 사무국원 모집(~12/18)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18542</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18542"/>
+        <updated>2022-12-06T05:37:33.819Z</updated>
+        <content type="html"><![CDATA[<b>
+				(사)한국독립애니메이션협회			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[2023 BIKY] 계약직 모집 공고]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18539</id>
@@ -94,7 +102,7 @@
 				부천시민미디어센터			</b>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[윌앤비전] CJ ENM 영화)해외배급팀 세일즈 or 마케팅 부문 인턴 채용 ( ~12/06) / 중복지원가…]]></title>
+        <title type="html"><![CDATA[[윌앤비전] CJ ENM 영화)해외배급팀 세일즈 or 마케팅 부문 인턴 채용 ( ~12/06) / 중복지원가…									댓글+1개]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18527</id>
         <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18527"/>
         <updated>2022-11-28T17:39:41.737Z</updated>
@@ -116,13 +124,5 @@
         <updated>2022-11-27T17:38:05.614Z</updated>
         <content type="html"><![CDATA[<b>
 				크리어스			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제 2회 하나뿐인 지구영상제 프로그래머 및 사무보조 모집]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18524</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18524"/>
-        <updated>2022-11-25T17:38:21.465Z</updated>
-        <content type="html"><![CDATA[<b>
-				사단법인 자연의 권리찾기			</b>]]></content>
     </entry>
 </feed>
