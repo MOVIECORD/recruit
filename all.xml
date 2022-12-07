@@ -2,8 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-07T05:37:44.833Z</updated>
+    <updated>2022-12-07T17:38:05.942Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[키노라이츠와 함께 할 마케팅 디자이너(2년차+)를 모집합니다. (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18546</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18546"/>
+        <updated>2022-12-07T17:38:05.240Z</updated>
+        <content type="html"><![CDATA[<b>
+				키노라이츠			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[키노라이츠와 함께 할 마케팅 디자이너(인턴)를 모집합니다. (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18545</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18545"/>
+        <updated>2022-12-07T17:38:05.244Z</updated>
+        <content type="html"><![CDATA[<b>
+				키노라이츠			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[서울영상위원회]영화창작공간 12월 창작지원프로그램 신청안내 (무료대면강의) (씨네21 ─ 영화인 리쿠르트)]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18544</id>
@@ -107,21 +123,5 @@
         <updated>2022-11-29T05:38:03.232Z</updated>
         <content type="html"><![CDATA[<b>
 				부천시민미디어센터			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[윌앤비전] CJ ENM 영화)해외배급팀 세일즈 or 마케팅 부문 인턴 채용 ( ~12/06) / 중복지원가…									댓글+1개 (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18527</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18527"/>
-        <updated>2022-11-28T17:39:41.737Z</updated>
-        <content type="html"><![CDATA[<b>
-				CJ ENM			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[영화이론강좌] 영화와 함께 자란다 : 영화가 자전적 이야기를 사랑하는 이유 (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18526</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18526"/>
-        <updated>2022-11-28T05:38:35.218Z</updated>
-        <content type="html"><![CDATA[<b>
-				충무로영상센터 오!재미동			</b>]]></content>
     </entry>
 </feed>
