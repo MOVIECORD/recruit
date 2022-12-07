@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-06T17:37:42.330Z</updated>
+    <updated>2022-12-07T05:37:44.833Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[서울영상위원회]영화창작공간 12월 창작지원프로그램 신청안내 (무료대면강의) (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18544</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18544"/>
+        <updated>2022-12-07T05:37:44.265Z</updated>
+        <content type="html"><![CDATA[<b>
+				서울영상위원회			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[구인] 한국독립애니메이션협회 사무국원 모집(~12/18) (씨네21 ─ 영화인 리쿠르트)]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18542</id>
@@ -115,13 +123,5 @@
         <updated>2022-11-28T05:38:35.218Z</updated>
         <content type="html"><![CDATA[<b>
 				충무로영상센터 오!재미동			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[함께 촬영공부하고, 콘텐츠만드는 "크리어스" 13기 촬영워크숍 모집 (~12/16마감) (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18525</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18525"/>
-        <updated>2022-11-27T17:38:05.614Z</updated>
-        <content type="html"><![CDATA[<b>
-				크리어스			</b>]]></content>
     </entry>
 </feed>
