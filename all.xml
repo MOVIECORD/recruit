@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-11T05:37:49.788Z</updated>
+    <updated>2022-12-11T17:37:29.095Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[영화 에세이 플랫폼, 노애드 레지던시 작가 모집(~12/31일) (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18557</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18557"/>
+        <updated>2022-12-11T17:37:28.537Z</updated>
+        <content type="html"><![CDATA[<b>
+				영화 에세이 플랫폼, 노애드			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[OCON] 극장판 뽀로로 제작사 오콘에서 청년 서포터즈 1기를 모집합니다 (씨네21 ─ 영화인 리쿠르트)]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18556</id>
@@ -115,13 +123,5 @@
         <updated>2022-12-04T17:37:12.761Z</updated>
         <content type="html"><![CDATA[<b>
 				시나리오 스터디			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(재)전주국제영화제조직위원회 2차 스태프 모집 (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18537</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18537"/>
-        <updated>2022-12-02T05:37:30.035Z</updated>
-        <content type="html"><![CDATA[<b>
-				전주국제영화제조직위원회			</b>]]></content>
     </entry>
 </feed>
