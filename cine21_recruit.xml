@@ -2,9 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2022-12-11T17:37:29.092Z</updated>
+    <updated>2022-12-12T05:37:51.210Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 ACC시네마테크 12월 정기상영회<﻿부산국제영화제 올해의 대표작>]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18561</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18561"/>
+        <updated>2022-12-12T05:37:50.546Z</updated>
+        <content type="html"><![CDATA[<b>
+				ACC시네마테크			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[답십리영화미디어아트센터]배리어프리 영화상영회 & 영화제작 특강 안내]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18560</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18560"/>
+        <updated>2022-12-12T05:37:50.546Z</updated>
+        <content type="html"><![CDATA[<b>
+				동대문문화재단			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['지니스커뮤니케이션' 2023년 상반기 영화 디지털 마케팅 신입 채용 공고(마감 12/14(수))]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18559</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18559"/>
+        <updated>2022-12-12T05:37:50.546Z</updated>
+        <content type="html"><![CDATA[<b>
+				(주)지니스커뮤니케이션			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(주)이놀미디어에서 함께할 온라인 마케터를 모집합니다.]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18558</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18558"/>
+        <updated>2022-12-12T05:37:50.548Z</updated>
+        <content type="html"><![CDATA[<b>
+				(주)이놀미디어			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 에세이 플랫폼, 노애드 레지던시 작가 모집(~12/31일)]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18557</id>
@@ -92,37 +124,5 @@
         <updated>2022-12-07T17:38:05.244Z</updated>
         <content type="html"><![CDATA[<b>
 				키노라이츠			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[서울영상위원회]영화창작공간 12월 창작지원프로그램 신청안내 (무료대면강의)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18544</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18544"/>
-        <updated>2022-12-07T05:37:44.265Z</updated>
-        <content type="html"><![CDATA[<b>
-				서울영상위원회			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[구인] 한국독립애니메이션협회 사무국원 모집(~12/18)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18542</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18542"/>
-        <updated>2022-12-06T05:37:33.819Z</updated>
-        <content type="html"><![CDATA[<b>
-				(사)한국독립애니메이션협회			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2023 BIKY] 계약직 모집 공고]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18539</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18539"/>
-        <updated>2022-12-05T05:37:20.483Z</updated>
-        <content type="html"><![CDATA[<b>
-				(사)부산국제어린이청소년영화제			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[상업적인 장편영화 시나리오 개발 스터디 팀원 모집 (공모전 준비, 아이템 개발)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18538</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18538"/>
-        <updated>2022-12-04T17:37:12.761Z</updated>
-        <content type="html"><![CDATA[<b>
-				시나리오 스터디			</b>]]></content>
     </entry>
 </feed>
