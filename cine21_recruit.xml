@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2022-12-12T17:37:58.092Z</updated>
+    <updated>2022-12-13T05:37:45.499Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미디어 현지화 회사에서 영상물 번역 및 감수자를 구합니다!]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18564</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18564"/>
+        <updated>2022-12-13T05:37:44.885Z</updated>
+        <content type="html"><![CDATA[<b>
+				(주)넥서스			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화/OTT 전문 디지털 마케팅 대행사 지앤이(주)제스타드에서 신입/경력 채용합니다.]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18563</id>
@@ -114,14 +122,6 @@
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18548</id>
         <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18548"/>
         <updated>2022-12-08T05:37:33.903Z</updated>
-        <content type="html"><![CDATA[<b>
-				독립영화협의회			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[12월 27일(화) 개최, 208회 독립영화워크숍 입문과정의 공개설명회에 의한 참여 회원 모집]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18547</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18547"/>
-        <updated>2022-12-08T05:37:33.905Z</updated>
         <content type="html"><![CDATA[<b>
 				독립영화협의회			</b>]]></content>
     </entry>
