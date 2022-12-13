@@ -2,8 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-13T05:37:45.506Z</updated>
+    <updated>2022-12-13T17:37:31.794Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[(주)영화인 홍보마케팅 담당 경력 사원 채용 공고 (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18566</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18566"/>
+        <updated>2022-12-13T17:37:31.145Z</updated>
+        <content type="html"><![CDATA[<b>
+				주식회사 영화인			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[키노라이츠] 상상마당 시네마 운영을 함께 하실 매니저를 모집합니다. (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18565</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18565"/>
+        <updated>2022-12-13T17:37:31.148Z</updated>
+        <content type="html"><![CDATA[<b>
+				키노라이츠			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미디어 현지화 회사에서 영상물 번역 및 감수자를 구합니다! (씨네21 ─ 영화인 리쿠르트)]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18564</id>
@@ -107,21 +123,5 @@
         <updated>2022-12-08T17:37:44.914Z</updated>
         <content type="html"><![CDATA[<b>
 				MBC아카데미 문화연출학부			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제24회 전주국제영화제 계약직 팀장(씨네투어팀) 모집 (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18549</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18549"/>
-        <updated>2022-12-08T17:37:44.915Z</updated>
-        <content type="html"><![CDATA[<b>
-				전주국제영화제조직위원회			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<모가디슈>의 류승완 감독과 <DP>의 한준희 감독은 독립영화워크숍의 입문과정을 공동작업으로 수료하였습니다. (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18548</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18548"/>
-        <updated>2022-12-08T05:37:33.903Z</updated>
-        <content type="html"><![CDATA[<b>
-				독립영화협의회			</b>]]></content>
     </entry>
 </feed>
