@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2022-12-15T05:37:31.719Z</updated>
+    <updated>2022-12-15T17:37:41.864Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[MBC아카데미 2023년 상반기 ‘제83기 영화홍보마케팅&프로듀서 3개월 정규과정’ 모집중!]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18576</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18576"/>
+        <updated>2022-12-15T17:37:41.310Z</updated>
+        <content type="html"><![CDATA[<b>
+				MBC아카데미 문화연출학부			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[고양이스튜디오] 기획작가를 모집합니다 : )]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18575</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18575"/>
+        <updated>2022-12-15T17:37:41.315Z</updated>
+        <content type="html"><![CDATA[<b>
+				고양이스튜디오			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[콘텐츠 마케팅사 (주)퍼스트룩에서 인턴/신입/경력 사원을 모집합니다]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18574</id>
@@ -108,21 +124,5 @@
         <updated>2022-12-12T05:37:50.546Z</updated>
         <content type="html"><![CDATA[<b>
 				ACC시네마테크			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[답십리영화미디어아트센터]배리어프리 영화상영회 & 영화제작 특강 안내]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18560</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18560"/>
-        <updated>2022-12-12T05:37:50.546Z</updated>
-        <content type="html"><![CDATA[<b>
-				동대문문화재단			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['지니스커뮤니케이션' 2023년 상반기 영화 디지털 마케팅 신입 채용 공고(마감 12/14(수))]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18559</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18559"/>
-        <updated>2022-12-12T05:37:50.546Z</updated>
-        <content type="html"><![CDATA[<b>
-				(주)지니스커뮤니케이션			</b>]]></content>
     </entry>
 </feed>
