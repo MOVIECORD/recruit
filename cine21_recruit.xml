@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2022-12-17T05:37:29.998Z</updated>
+    <updated>2022-12-17T17:37:08.167Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[장편영화 & OTT  시나리오 아이템 개발 스터디 팀원 모집 (공모전 준비, 상업적 아이템 개발)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18579</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18579"/>
+        <updated>2022-12-17T17:37:07.634Z</updated>
+        <content type="html"><![CDATA[<b>
+				아이템 기획 개발			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[울주세계산악영화제 제작지원 프로그램 2022 울주서밋(Ulju Summit) 작품 공모]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18578</id>
@@ -116,13 +124,5 @@
         <updated>2022-12-13T05:37:44.885Z</updated>
         <content type="html"><![CDATA[<b>
 				(주)넥서스			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화/OTT 전문 디지털 마케팅 대행사 지앤이(주)제스타드에서 신입/경력 채용합니다.]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18563</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18563"/>
-        <updated>2022-12-12T17:37:57.558Z</updated>
-        <content type="html"><![CDATA[<b>
-				지앤이(주)제스타드			</b>]]></content>
     </entry>
 </feed>
