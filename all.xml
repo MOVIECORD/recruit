@@ -2,8 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-18T17:37:22.556Z</updated>
+    <updated>2022-12-19T05:38:11.273Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[전주국제영화제] 제15회 전주프로젝트 <전주시네마프로젝트: 넥스트 에디션> 공모 (~1/9, 17시) (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18584</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18584"/>
+        <updated>2022-12-19T05:38:10.539Z</updated>
+        <content type="html"><![CDATA[<b>
+				전주국제영화제			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[전주국제영화제] 제15회 전주프로젝트 <전주랩 2023> 프로젝트 공모 (~1/5, 17시) (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18583</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18583"/>
+        <updated>2022-12-19T05:38:10.541Z</updated>
+        <content type="html"><![CDATA[<b>
+				전주국제영화제			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[포항문화재단] 독립예술영화관 <인디플러스포항> 영사기사, 프로그래머 채용 (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18580</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18580"/>
+        <updated>2022-12-19T05:38:10.541Z</updated>
+        <content type="html"><![CDATA[<b>
+				포항문화재단(인디플러스 포항)			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[장편영화 & OTT  시나리오 아이템 개발 스터디 팀원 모집 (공모전 준비, 상업적 아이템 개발) (씨네21 ─ 영화인 리쿠르트)]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18579</id>
@@ -99,29 +123,5 @@
         <updated>2022-12-14T17:37:45.068Z</updated>
         <content type="html"><![CDATA[<b>
 				태원엔터테인먼트			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(주)영화인 홍보마케팅 담당 경력 사원 채용 공고 (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18566</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18566"/>
-        <updated>2022-12-13T17:37:31.145Z</updated>
-        <content type="html"><![CDATA[<b>
-				주식회사 영화인			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[키노라이츠] 상상마당 시네마 운영을 함께 하실 매니저를 모집합니다. (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18565</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18565"/>
-        <updated>2022-12-13T17:37:31.148Z</updated>
-        <content type="html"><![CDATA[<b>
-				키노라이츠			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미디어 현지화 회사에서 영상물 번역 및 감수자를 구합니다! (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18564</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18564"/>
-        <updated>2022-12-13T05:37:44.885Z</updated>
-        <content type="html"><![CDATA[<b>
-				(주)넥서스			</b>]]></content>
     </entry>
 </feed>
