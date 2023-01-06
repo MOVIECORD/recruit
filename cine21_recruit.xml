@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2023-01-06T05:37:29.044Z</updated>
+    <updated>2023-01-06T17:37:20.748Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[콘텐츠 마케팅홍보사 머리꽃) 경력직 모집]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18638</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18638"/>
+        <updated>2023-01-06T17:37:20.106Z</updated>
+        <content type="html"><![CDATA[<b>
+				(주)머리꽃			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[미디액트 강좌] 영화 책 읽기 : 『시나리오 가이드』 - 2월 8일 개강!!]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18637</id>
@@ -116,13 +124,5 @@
         <updated>2023-01-02T05:37:20.805Z</updated>
         <content type="html"><![CDATA[<b>
 				기대작			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[kt alpha] 콘텐츠 해외세일즈 경력직(정규) 채용(채용 시 마감)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18622</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18622"/>
-        <updated>2023-01-02T05:37:20.806Z</updated>
-        <content type="html"><![CDATA[<b>
-				kt alpha			</b>]]></content>
     </entry>
 </feed>
