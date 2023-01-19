@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2023-01-18T17:40:01.344Z</updated>
+    <updated>2023-01-19T05:37:40.427Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[든든] 1월 영화계 성폭력 예방교육 안내(1월 31일 개최)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18673</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18673"/>
+        <updated>2023-01-19T05:37:39.810Z</updated>
+        <content type="html"><![CDATA[<b>
+				한국영화성평등센터 든든			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[더블유서비시즈(W SERVICES) 콘텐츠 이미지 운영 아르바이트를 모십니다.]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18672</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18672"/>
+        <updated>2023-01-19T05:37:39.810Z</updated>
+        <content type="html"><![CDATA[<b>
+				W Services			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 수입/배급사 (주)더쿱디스트리뷰션 배급 및 마케터 경력직 모집]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18671</id>
@@ -108,21 +124,5 @@
         <updated>2023-01-12T05:37:19.159Z</updated>
         <content type="html"><![CDATA[<b>
 				전주국제영화제			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더블유서비시즈(W SERVICES) 검수 아르바이트를 모십니다.]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18656</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18656"/>
-        <updated>2023-01-12T05:37:19.159Z</updated>
-        <content type="html"><![CDATA[<b>
-				W SERVICES			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[영화/드라마 마케팅 기획] 웹스크리에이티브 경력 /신입 채용공고입니다.]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18655</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18655"/>
-        <updated>2023-01-11T17:41:09.492Z</updated>
-        <content type="html"><![CDATA[<b>
-				웹스크리에이티브			</b>]]></content>
     </entry>
 </feed>
