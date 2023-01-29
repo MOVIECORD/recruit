@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2023-01-28T17:37:35.480Z</updated>
+    <updated>2023-01-29T05:37:34.053Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<이상한 변호사 '우영우'> 작가의 "독립영화워크숍에서 배우기"]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18699</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18699"/>
+        <updated>2023-01-29T05:37:33.419Z</updated>
+        <content type="html"><![CDATA[<b>
+				독립영화협의회			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2월 28일(화) 개최, 독립영화워크숍 입문과정의 공개설명회에 의한 참여 회원 모집]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18698</id>
@@ -116,13 +124,5 @@
         <updated>2023-01-20T05:37:49.909Z</updated>
         <content type="html"><![CDATA[<b>
 				서울국제환경영화제			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[투자배급사 ㈜스튜디오 디에이치엘 영화 마케팅 신입/경력사원 채용 공고]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18684</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18684"/>
-        <updated>2023-01-20T05:37:49.938Z</updated>
-        <content type="html"><![CDATA[<b>
-				(주)스튜디오 디에이치엘			</b>]]></content>
     </entry>
 </feed>
