@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2023-02-01T17:38:41.925Z</updated>
+    <updated>2023-02-02T05:37:52.325Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[미디액트 강좌] 영화 책 읽기 : 『시나리오 가이드』 - 2월8일 수요일 개강!!]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18717</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18717"/>
+        <updated>2023-02-02T05:37:51.692Z</updated>
+        <content type="html"><![CDATA[<b>
+				미디액트			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[공모] 2023년 상반기 <제23회 필름게이트> 공모(~3.19)]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18716</id>
@@ -116,13 +124,5 @@
         <updated>2023-01-28T17:37:34.816Z</updated>
         <content type="html"><![CDATA[<b>
 				독립영화협의회			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홍보 마케팅사 [모비] 2023년 상반기 신입/경력 채용 공고]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18697</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18697"/>
-        <updated>2023-01-27T17:37:45.422Z</updated>
-        <content type="html"><![CDATA[<b>
-				모비			</b>]]></content>
     </entry>
 </feed>
