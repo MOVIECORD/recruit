@@ -2,9 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2023-02-08T05:37:22.239Z</updated>
+    <updated>2023-02-08T17:37:37.999Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[키노라이츠 대학생 OTT 얼리버드를 모집합니다!]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18741</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18741"/>
+        <updated>2023-02-08T17:37:37.364Z</updated>
+        <content type="html"><![CDATA[<b>
+				키노라이츠			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제8회 울주세계산악영화제 경쟁부문 출품안내]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18739</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18739"/>
+        <updated>2023-02-08T17:37:37.365Z</updated>
+        <content type="html"><![CDATA[<b>
+				울주세계산악영화제			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[씨네21 사업기획/수주/운영 실무담당자 채용 공고(계약직)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18738</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18738"/>
+        <updated>2023-02-08T17:37:37.367Z</updated>
+        <content type="html"><![CDATA[<b>
+				씨네21			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 수입/배급사 ㈜태양미디어그룹에서 2023년을 함께할 경력직 팀원을 구합니다.]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18737</id>
@@ -100,29 +124,5 @@
         <updated>2023-02-03T05:37:39.473Z</updated>
         <content type="html"><![CDATA[<b>
 				( 재)전주국제영화제조직위원회			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 마케팅&넷플릭스 콘텐츠 홍보 대행사 [앤드크레딧] 신입/경력 모집합니다]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18719</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18719"/>
-        <updated>2023-02-03T05:37:39.473Z</updated>
-        <content type="html"><![CDATA[<b>
-				앤드크레딧			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(모집연장) 제20회 서울국제환경영화제 채용공고 (~2.10)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18718</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18718"/>
-        <updated>2023-02-03T05:37:39.474Z</updated>
-        <content type="html"><![CDATA[<b>
-				서울국제환경영화제			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[공모] 2023년 상반기 <제23회 필름게이트> 공모(~3.19)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18716</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18716"/>
-        <updated>2023-02-01T05:37:31.415Z</updated>
-        <content type="html"><![CDATA[<b>
-				신영균예술문화재단			</b>]]></content>
     </entry>
 </feed>
