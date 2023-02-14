@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2023-02-13T17:37:50.142Z</updated>
+    <updated>2023-02-14T05:37:51.360Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[CJ ENM] 해외기획제작팀 미국파트 아르바이트 모집]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18750</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18750"/>
+        <updated>2023-02-14T05:37:50.789Z</updated>
+        <content type="html"><![CDATA[<b>
+				윌앤비전			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[미디액트 강좌] 영상제작과정 :[개별면담] 독립 다큐멘터리 제작 32기 모집중!]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18749</id>
@@ -116,13 +124,5 @@
         <updated>2023-02-07T17:38:37.069Z</updated>
         <content type="html"><![CDATA[<b>
 				미디액트			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오드아이픽쳐스 영화/드라마 기획팀 기획PD 모집 (신입/경력)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18727</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18727"/>
-        <updated>2023-02-07T17:38:37.076Z</updated>
-        <content type="html"><![CDATA[<b>
-				㈜오드아이픽쳐스			</b>]]></content>
     </entry>
 </feed>
