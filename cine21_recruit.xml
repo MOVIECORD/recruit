@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2023-02-21T17:38:10.048Z</updated>
+    <updated>2023-02-22T05:37:30.281Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제40회 부산국제단편영화제 자원활동가 모집]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18791</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18791"/>
+        <updated>2023-02-22T05:37:29.661Z</updated>
+        <content type="html"><![CDATA[<b>
+				(사)부산국제단편영화제			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[비스포크랩] Subtitling Linguist 채용 (영>한, 정규직)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18790</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18790"/>
+        <updated>2023-02-22T05:37:29.673Z</updated>
+        <content type="html"><![CDATA[<b>
+				비스포크랩 주식회사			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[미디액트 강좌] 영화 음악 어떻게 할 것인가 - 4월 13일 개강!!]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18789</id>
@@ -14,12 +30,12 @@
 				미디액트			</b>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[KPDLAB_2023_3월말개강] 영화, 드라마, OTT 기획 제작 프로듀서 실무과정 모집]]></title>
+        <title type="html"><![CDATA[[프로듀서스쿨_2023_3월말개강] 영화, 드라마, OTT 기획 제작 프로듀서 실무과정 모집]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18788</id>
         <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18788"/>
         <updated>2023-02-21T17:38:09.193Z</updated>
         <content type="html"><![CDATA[<b>
-				KPDLAB			</b>]]></content>
+				프로듀서스쿨			</b>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[충무로영상센터 오!재미동] 2023년 독립영화촬영지원사업 '시작이오']]></title>
@@ -108,21 +124,5 @@
         <updated>2023-02-16T17:38:06.400Z</updated>
         <content type="html"><![CDATA[<b>
 				트윈플러스파트너			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[MBC아카데미] 영화홍보마케팅, 기획, 제작, 투자, 배급, 수입 교육생 모집!! :)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18764</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18764"/>
-        <updated>2023-02-16T05:37:49.507Z</updated>
-        <content type="html"><![CDATA[<b>
-				MBC아카데미 문화연출학부			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[류승완, 한준희 감독은 지옥같은 공동작업을 입문 수료하였습니다.									댓글+1개]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18761</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18761"/>
-        <updated>2023-02-15T17:39:21.060Z</updated>
-        <content type="html"><![CDATA[<b>
-				독립영화워크숍			</b>]]></content>
     </entry>
 </feed>
