@@ -2,8 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-22T17:38:26.870Z</updated>
+    <updated>2023-02-23T05:37:36.143Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[독립영화 제작/배급사 [시네마 달] 국내배급팀 신입 및 경력사원 모집 (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18800</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18800"/>
+        <updated>2023-02-23T05:37:35.201Z</updated>
+        <content type="html"><![CDATA[<b>
+				시네마 달			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[엔케이컨텐츠] 컨텐츠 유통팀 직원을 모집합니다 ( ~ 3/12 ) (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18799</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18799"/>
+        <updated>2023-02-23T05:37:35.202Z</updated>
+        <content type="html"><![CDATA[<b>
+				(주)엔케이컨텐츠			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023년 부산영상위원회 부산신진작가 기획개발 멘토링 지원 (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18798</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18798"/>
+        <updated>2023-02-23T05:37:35.206Z</updated>
+        <content type="html"><![CDATA[<b>
+				부산영상위원회			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[미디액트 강좌] 장편 시나리오 워크숍 - 3월 4일 토요일 개강!! (씨네21 ─ 영화인 리쿠르트)]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18796</id>
@@ -99,29 +123,5 @@
         <updated>2023-02-20T17:37:44.290Z</updated>
         <content type="html"><![CDATA[<b>
 				(주)넥서스			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[든든] 2월 영화계 성폭력 예방교육 2회차 안내(2월 23일 개최) (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18770</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18770"/>
-        <updated>2023-02-20T17:37:44.290Z</updated>
-        <content type="html"><![CDATA[<b>
-				한국영화성평등센터 든든			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[키노라이츠] 데이터베이스 오퍼레이터 모집 (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18769</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18769"/>
-        <updated>2023-02-20T17:37:44.290Z</updated>
-        <content type="html"><![CDATA[<b>
-				키노라이츠			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[이놀미디어] 영화 해외 세일즈를 함께하실 분을 모집합니다 (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18768</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18768"/>
-        <updated>2023-02-17T17:37:24.862Z</updated>
-        <content type="html"><![CDATA[<b>
-				이놀미디어			</b>]]></content>
     </entry>
 </feed>
