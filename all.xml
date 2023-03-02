@@ -2,8 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-01T17:39:38.923Z</updated>
+    <updated>2023-03-02T05:38:20.983Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[영화 마케팅&넷플릭스 콘텐츠 홍보 대행사 [앤드크레딧] 신입/경력 모집합니다 (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18822</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18822"/>
+        <updated>2023-03-02T05:38:20.367Z</updated>
+        <content type="html"><![CDATA[<b>
+				앤드크레딧			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[JWK프로덕션] High-end animated film 시나리오&스토리보드 작가 모집 (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18821</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18821"/>
+        <updated>2023-03-02T05:38:20.375Z</updated>
+        <content type="html"><![CDATA[<b>
+				JWK프로덕션			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[JWK프로덕션] High- end animated film PD 모집 (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18820</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18820"/>
+        <updated>2023-03-02T05:38:20.377Z</updated>
+        <content type="html"><![CDATA[<b>
+				JWK프로덕션			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[미디액트 강좌] 장편 시나리오 워크숍 - 3월 4일 토요일 개강!! (씨네21 ─ 영화인 리쿠르트)]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18819</id>
@@ -13,7 +37,7 @@
 				미디액트			</b>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[더램프] 시나리오 모니터링 요원 모집 (~3/10) (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <title type="html"><![CDATA[[더램프] 시나리오 모니터링 요원 모집 (~3/6 마감일 변경) (씨네21 ─ 영화인 리쿠르트)]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18818</id>
         <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18818"/>
         <updated>2023-02-28T05:40:09.057Z</updated>
@@ -99,29 +123,5 @@
         <updated>2023-02-23T17:39:05.917Z</updated>
         <content type="html"><![CDATA[<b>
 				미디액트			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(주)포디엄에서 영화 온라인 마케팅 신입/경력 직원을 모집합니다. (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18802</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18802"/>
-        <updated>2023-02-23T17:39:05.917Z</updated>
-        <content type="html"><![CDATA[<b>
-				포디엄			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[독립영화 제작/배급사 [시네마 달] 국내배급팀 신입 및 경력사원 모집 (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18800</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18800"/>
-        <updated>2023-02-23T05:37:35.201Z</updated>
-        <content type="html"><![CDATA[<b>
-				시네마 달			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[엔케이컨텐츠] 컨텐츠 유통팀 직원을 모집합니다 ( ~ 3/12 ) (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18799</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18799"/>
-        <updated>2023-02-23T05:37:35.202Z</updated>
-        <content type="html"><![CDATA[<b>
-				(주)엔케이컨텐츠			</b>]]></content>
     </entry>
 </feed>
