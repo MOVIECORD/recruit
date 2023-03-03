@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2023-03-03T05:39:55.924Z</updated>
+    <updated>2023-03-03T17:38:33.638Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[미디액트 강좌] 사운드 기초 과정 : 실전!! 동시녹음 완성!! - 4월 7일 금요일 개강!!]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18827</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18827"/>
+        <updated>2023-03-03T17:38:32.964Z</updated>
+        <content type="html"><![CDATA[<b>
+				미디액트			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[MBC아카데미] 영화홍보마케팅, 기획, 제작, 투자, 배급, 수입 교육생 모집!! :)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18826</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18826"/>
+        <updated>2023-03-03T17:38:32.966Z</updated>
+        <content type="html"><![CDATA[<b>
+				MBC아카데미 문화연출학부			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[미디액트 강좌] 이야기의 심장을 향하는 카메라 촬영감독 분석 - 콘라드 홀 편 - 3월 15일 개강!!]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18825</id>
@@ -108,21 +124,5 @@
         <updated>2023-02-24T17:38:45.833Z</updated>
         <content type="html"><![CDATA[<b>
 				MBC아카데미 문화연출학부			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[무비앤아이]에서 함께 할 영화 홍보 마케팅 신입 & 경력  모집 합니다]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18811</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18811"/>
-        <updated>2023-02-24T17:38:45.834Z</updated>
-        <content type="html"><![CDATA[<b>
-				무비앤아이			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부산국제어린이청소년영화제 계약직 스태프 모집 공고(3차)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18810</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18810"/>
-        <updated>2023-02-24T17:38:45.834Z</updated>
-        <content type="html"><![CDATA[<b>
-				부산국제어린이청소년영화제			</b>]]></content>
     </entry>
 </feed>
