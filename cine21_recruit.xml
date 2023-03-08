@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2023-03-08T05:38:18.451Z</updated>
+    <updated>2023-03-08T17:39:12.957Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아카데미 로카, [영화비즈니스 취업 준비 과정 31기] 수강생 모집!]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18845</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18845"/>
+        <updated>2023-03-08T17:39:12.097Z</updated>
+        <content type="html"><![CDATA[<b>
+				LOCA			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023년 DMZ국제다큐멘터리영화제 직원(육아휴직 대체인력) 채용공고]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18841</id>
@@ -116,13 +124,5 @@
         <updated>2023-03-02T17:39:10.495Z</updated>
         <content type="html"><![CDATA[<b>
 				(주)넥서스			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[25회 서울국제여성영화제 사무국 스태프 1차 모집]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18823</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18823"/>
-        <updated>2023-03-02T17:39:10.498Z</updated>
-        <content type="html"><![CDATA[<b>
-				서울국제여성영화제			</b>]]></content>
     </entry>
 </feed>
