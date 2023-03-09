@@ -2,9 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2023-03-08T17:39:12.957Z</updated>
+    <updated>2023-03-09T05:38:17.230Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[무료강의]서울영상위원회 3월 창작지원프로그램 신청 안내]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18849</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18849"/>
+        <updated>2023-03-09T05:38:16.627Z</updated>
+        <content type="html"><![CDATA[<b>
+				서울영상위원회			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[웹스크리에이티브㈜ 미디어 전략본부 신입/경력 채용공고.]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18847</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18847"/>
+        <updated>2023-03-09T05:38:16.628Z</updated>
+        <content type="html"><![CDATA[<b>
+				웹스크리에이티브㈜			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제24회 전주국제영화제 스크리닝 매니저, 영사 매니저 모집 공고]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18846</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18846"/>
+        <updated>2023-03-09T05:38:16.631Z</updated>
+        <content type="html"><![CDATA[<b>
+				전주국제영화제			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아카데미 로카, [영화비즈니스 취업 준비 과정 31기] 수강생 모집!]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18845</id>
@@ -100,29 +124,5 @@
         <updated>2023-03-03T17:38:32.964Z</updated>
         <content type="html"><![CDATA[<b>
 				미디액트			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[MBC아카데미] 영화홍보마케팅, 기획, 제작, 투자, 배급, 수입 교육생 모집!! :)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18826</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18826"/>
-        <updated>2023-03-03T17:38:32.966Z</updated>
-        <content type="html"><![CDATA[<b>
-				MBC아카데미 문화연출학부			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[미디액트 강좌] 이야기의 심장을 향하는 카메라 촬영감독 분석 - 콘라드 홀 편 - 3월 15일 개강!!]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18825</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18825"/>
-        <updated>2023-03-02T17:39:10.495Z</updated>
-        <content type="html"><![CDATA[<b>
-				미디액트			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[(주)넥서스] 풀타임 해외 마케팅 담당자 채용]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18824</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18824"/>
-        <updated>2023-03-02T17:39:10.495Z</updated>
-        <content type="html"><![CDATA[<b>
-				(주)넥서스			</b>]]></content>
     </entry>
 </feed>
