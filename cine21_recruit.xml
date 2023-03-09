@@ -2,9 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2023-03-09T05:38:17.230Z</updated>
+    <updated>2023-03-09T17:39:33.774Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[미디액트 강좌] 이야기의 심장을 향하는 카메라 촬영감독 분석 - 콘라드 홀 편 - 3월 15일 개강!!]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18852</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18852"/>
+        <updated>2023-03-09T17:39:32.979Z</updated>
+        <content type="html"><![CDATA[<b>
+				미디액트			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[슈퍼픽션] 기획마케팅실 채용 공고]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18851</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18851"/>
+        <updated>2023-03-09T17:39:32.982Z</updated>
+        <content type="html"><![CDATA[<b>
+				슈퍼픽션			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영화 마케팅사 [콘텐츠 다봄]에서 신입/경력 사원을 모집합니다]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18850</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18850"/>
+        <updated>2023-03-09T17:39:32.991Z</updated>
+        <content type="html"><![CDATA[<b>
+				콘텐츠다봄			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[무료강의]서울영상위원회 3월 창작지원프로그램 신청 안내]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18849</id>
@@ -100,29 +124,5 @@
         <updated>2023-03-06T17:39:12.368Z</updated>
         <content type="html"><![CDATA[<b>
 				일렉트로닉아츠코리			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[생활 드로잉 강좌] "영화를 그리는 시간" 수강신청 중!]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18831</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18831"/>
-        <updated>2023-03-06T05:38:15.999Z</updated>
-        <content type="html"><![CDATA[<b>
-				충무로영상센터 오!재미동			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<2023년 인천영화아카데미 지역 영화인 전문교육 – 씨네스쿨>  참여자 수요조사]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18828</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18828"/>
-        <updated>2023-03-06T05:38:16.006Z</updated>
-        <content type="html"><![CDATA[<b>
-				모씨네사회적협동조합			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[미디액트 강좌] 사운드 기초 과정 : 실전!! 동시녹음 완성!! - 4월 7일 금요일 개강!!]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18827</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18827"/>
-        <updated>2023-03-03T17:38:32.964Z</updated>
-        <content type="html"><![CDATA[<b>
-				미디액트			</b>]]></content>
     </entry>
 </feed>
