@@ -2,8 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-14T05:37:44.016Z</updated>
+    <updated>2023-03-14T17:45:10.264Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[미디액트 강좌] 반짝다큐페스티발과 함께하는 2023년 독립 중단편 다큐멘터리 미리보기 - 3월 17일 개강… (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18867</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18867"/>
+        <updated>2023-03-14T17:45:09.572Z</updated>
+        <content type="html"><![CDATA[<b>
+				미디액트			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(주)엣나인필름 에서 재경팀 신입(경력) 직원을 모집합니다. (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18866</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18866"/>
+        <updated>2023-03-14T17:45:09.573Z</updated>
+        <content type="html"><![CDATA[<b>
+							</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[부천국제판타스틱영화제] 2023 괴담 단편 제작지원 공모 (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18865</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18865"/>
+        <updated>2023-03-14T17:45:09.574Z</updated>
+        <content type="html"><![CDATA[<b>
+				BIFAN			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(주)영화사진진 마케팅  경력사원 모집 (23.03.14~ 채용시까지) (씨네21 ─ 영화인 리쿠르트)]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18864</id>
@@ -99,29 +123,5 @@
         <updated>2023-03-10T05:38:39.882Z</updated>
         <content type="html"><![CDATA[<b>
 				B tv			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[미디액트 강좌] 이야기의 심장을 향하는 카메라 촬영감독 분석 - 콘라드 홀 편 - 3월 15일 개강!! (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18852</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18852"/>
-        <updated>2023-03-09T17:39:32.979Z</updated>
-        <content type="html"><![CDATA[<b>
-				미디액트			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[슈퍼픽션] 기획마케팅실 채용 공고 (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18851</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18851"/>
-        <updated>2023-03-09T17:39:32.982Z</updated>
-        <content type="html"><![CDATA[<b>
-				슈퍼픽션			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 마케팅사 [콘텐츠 다봄]에서 신입/경력 사원을 모집합니다 (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18850</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18850"/>
-        <updated>2023-03-09T17:39:32.991Z</updated>
-        <content type="html"><![CDATA[<b>
-				콘텐츠다봄			</b>]]></content>
     </entry>
 </feed>
