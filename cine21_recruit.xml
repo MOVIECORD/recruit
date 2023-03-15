@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2023-03-14T17:45:10.259Z</updated>
+    <updated>2023-03-15T05:37:39.682Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[EIDF2023] 제20회 EBS국제다큐영화제 스태프 채용 공고(프로그램/디자인마케팅/인더스트리)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18887</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18887"/>
+        <updated>2023-03-15T05:37:38.960Z</updated>
+        <content type="html"><![CDATA[<b>
+				EBS국제다큐영화제(EIDF)			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[T Factory X B tv - 콘썰트 <십개월의 미래> 신청]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18880</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18880"/>
+        <updated>2023-03-15T05:37:38.962Z</updated>
+        <content type="html"><![CDATA[<b>
+							</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[미디액트 강좌] 반짝다큐페스티발과 함께하는 2023년 독립 중단편 다큐멘터리 미리보기 - 3월 17일 개강…]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18867</id>
@@ -108,21 +124,5 @@
         <updated>2023-03-12T17:38:13.182Z</updated>
         <content type="html"><![CDATA[<b>
 				시나리오 스터디			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화사비단길 경리 사무보조 사원 모집합니다]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18854</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18854"/>
-        <updated>2023-03-10T17:38:40.641Z</updated>
-        <content type="html"><![CDATA[<b>
-				(주)영화사비단길			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[B tv X T Factory - 콘썰트 <성적표의 김민영> 참여 신청]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18853</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18853"/>
-        <updated>2023-03-10T05:38:39.882Z</updated>
-        <content type="html"><![CDATA[<b>
-				B tv			</b>]]></content>
     </entry>
 </feed>
