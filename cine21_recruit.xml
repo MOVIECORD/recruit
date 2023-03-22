@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2023-03-21T17:38:22.688Z</updated>
+    <updated>2023-03-22T05:37:53.454Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[갤리온] 해외 제작 신입/경력직 채용]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18916</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18916"/>
+        <updated>2023-03-22T05:37:52.756Z</updated>
+        <content type="html"><![CDATA[<b>
+				갤리온 엔터테인먼트			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[수입배급사 박수엔터테인먼트에서 수입/정산 업무를 함께할 역량있는 인재를 구합니다]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18915</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18915"/>
+        <updated>2023-03-22T05:37:52.756Z</updated>
+        <content type="html"><![CDATA[<b>
+				(주)박수엔터테인먼트			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[미디액트 강좌] 훅 있는 OTT 드라마 시나리오 쓰기 5기 - 4월 5일 개강!!]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18914</id>
@@ -108,21 +124,5 @@
         <updated>2023-03-17T05:37:21.395Z</updated>
         <content type="html"><![CDATA[<b>
 				한국영화성평등센터 든든			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[든든] 영화계 성희롱/성폭력 사례 각색집 인터뷰이 모집]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18893</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18893"/>
-        <updated>2023-03-16T17:38:07.574Z</updated>
-        <content type="html"><![CDATA[<b>
-				한국영화성평등센터 든든			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[영화/OTT 디지털 마케팅] 제스타드(주)지앤이에서 신입/경력 직원분을 모십니다.]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18891</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18891"/>
-        <updated>2023-03-15T17:38:23.646Z</updated>
-        <content type="html"><![CDATA[<b>
-				제스타드(주)지앤이			</b>]]></content>
     </entry>
 </feed>
