@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2023-03-28T05:37:30.854Z</updated>
+    <updated>2023-03-28T17:37:24.211Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[미디액트 강좌] 연출가를 위한 배우연출법 - 4월 7일 개강!!]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18930</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18930"/>
+        <updated>2023-03-28T17:37:23.552Z</updated>
+        <content type="html"><![CDATA[<b>
+				미디액트			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제 2회 KT스튜디오지니 시리즈 공모전 개최! 돌아온 상금 1억의 기회!]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18929</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18929"/>
+        <updated>2023-03-28T17:37:23.552Z</updated>
+        <content type="html"><![CDATA[<b>
+				KT스튜디오지니			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[상업장편영화 & OTT 시나리오 개발 스터디 팀원 모집 (공모전 준비 및 아이템 개발)]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18928</id>
@@ -108,21 +124,5 @@
         <updated>2023-03-22T05:37:52.756Z</updated>
         <content type="html"><![CDATA[<b>
 				갤리온 엔터테인먼트			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수입배급사 박수엔터테인먼트에서 수입/정산 업무를 함께할 역량있는 인재를 구합니다]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18915</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18915"/>
-        <updated>2023-03-22T05:37:52.756Z</updated>
-        <content type="html"><![CDATA[<b>
-				(주)박수엔터테인먼트			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[미디액트 강좌] 훅 있는 OTT 드라마 시나리오 쓰기 5기 - 4월 5일 개강!!]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18914</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18914"/>
-        <updated>2023-03-21T17:38:22.078Z</updated>
-        <content type="html"><![CDATA[<b>
-				미디액트			</b>]]></content>
     </entry>
 </feed>
