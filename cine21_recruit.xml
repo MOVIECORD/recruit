@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2023-03-30T05:37:45.143Z</updated>
+    <updated>2023-03-30T17:37:40.666Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[인디그라운드] 배급아카데미 4기 수강생 모집]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18936</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18936"/>
+        <updated>2023-03-30T17:37:39.912Z</updated>
+        <content type="html"><![CDATA[<b>
+				인디그라운드			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[든든] 4월 영화계 성폭력 예방교육 1회차 안내(4월 6일 개최)]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18933</id>
@@ -116,13 +124,5 @@
         <updated>2023-03-24T05:37:42.191Z</updated>
         <content type="html"><![CDATA[<b>
 				모씨네사회적협동조합			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[미디액트 강좌] 공포 스릴러 단편 시나리오 쓰기, 내 안의 어둠과 만나기 - 5월 2일 개강!!]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18919</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18919"/>
-        <updated>2023-03-23T17:38:36.162Z</updated>
-        <content type="html"><![CDATA[<b>
-				미디액트			</b>]]></content>
     </entry>
 </feed>
