@@ -2,8 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-04-03T05:37:59.596Z</updated>
+    <updated>2023-04-03T17:38:08.400Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA['제11회 무주산골영화제' 자원활동가 <산골친구> 모집! (3/30~4/23) (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18950</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18950"/>
+        <updated>2023-04-03T17:38:07.630Z</updated>
+        <content type="html"><![CDATA[<b>
+				무주산골영화제			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[영화사 스토리제이] 영화 영상 편집/관리 모집 (신입/경력) (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18948</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18948"/>
+        <updated>2023-04-03T17:38:07.631Z</updated>
+        <content type="html"><![CDATA[<b>
+				(주)스토리제이			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제20회 서울국제환경영화제 자원활동가 그린티어 모집! (~4/30) (씨네21 ─ 영화인 리쿠르트)]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18947</id>
@@ -107,21 +123,5 @@
         <updated>2023-03-28T05:37:30.217Z</updated>
         <content type="html"><![CDATA[<b>
 				시나리오 스터디			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[미디액트 강좌] 사운드 기초 과정 : 실전!! 동시녹음 완성!! - 4월 7일 금요일 개강!! (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18927</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18927"/>
-        <updated>2023-03-27T17:37:55.003Z</updated>
-        <content type="html"><![CDATA[<b>
-				미디액트			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[지니스커뮤니케이션] 영화 디지털마케팅 2023년 신입사원 채용 공고 (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18926</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18926"/>
-        <updated>2023-03-27T17:37:55.008Z</updated>
-        <content type="html"><![CDATA[<b>
-				(주)지니스커뮤니케이션			</b>]]></content>
     </entry>
 </feed>
