@@ -2,8 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-04-03T17:38:08.400Z</updated>
+    <updated>2023-04-04T05:37:32.590Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[팔리는 시나리오 개발을 위한 스터디 팀원 모집 (공모전 & 아이템 개발) (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18952</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18952"/>
+        <updated>2023-04-04T05:37:31.948Z</updated>
+        <content type="html"><![CDATA[<b>
+				시나리오 개발팀			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[모집] 제20회 서울국제환경영화제 관객심사단 모집 (~4/9) (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18951</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18951"/>
+        <updated>2023-04-04T05:37:31.949Z</updated>
+        <content type="html"><![CDATA[<b>
+				서울국제환경영화제			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['제11회 무주산골영화제' 자원활동가 <산골친구> 모집! (3/30~4/23) (씨네21 ─ 영화인 리쿠르트)]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18950</id>
@@ -107,21 +123,5 @@
         <updated>2023-03-28T17:37:23.552Z</updated>
         <content type="html"><![CDATA[<b>
 				미디액트			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제 2회 KT스튜디오지니 시리즈 공모전 개최! 돌아온 상금 1억의 기회! (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18929</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18929"/>
-        <updated>2023-03-28T17:37:23.552Z</updated>
-        <content type="html"><![CDATA[<b>
-				KT스튜디오지니			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[상업장편영화 & OTT 시나리오 개발 스터디 팀원 모집 (공모전 준비 및 아이템 개발) (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18928</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18928"/>
-        <updated>2023-03-28T05:37:30.217Z</updated>
-        <content type="html"><![CDATA[<b>
-				시나리오 스터디			</b>]]></content>
     </entry>
 </feed>
