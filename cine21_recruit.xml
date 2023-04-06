@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2023-04-05T17:38:05.638Z</updated>
+    <updated>2023-04-06T05:37:51.829Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[전주영상위원회] 2023 전주영화학교 4기 수강생 모집! (~4/25)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18961</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18961"/>
+        <updated>2023-04-06T05:37:51.146Z</updated>
+        <content type="html"><![CDATA[<b>
+				전주영상위원회			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[미디액트 강좌] 영화미술, 디자인하다 - 4월 13일 개강!!]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18959</id>
@@ -116,13 +124,5 @@
         <updated>2023-04-02T17:38:08.728Z</updated>
         <content type="html"><![CDATA[<b>
 				오드(AUD)			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["영화로부터 도망칠 수 있는 가장 마지막 기회"									댓글+1개]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18943</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18943"/>
-        <updated>2023-04-02T05:37:57.136Z</updated>
-        <content type="html"><![CDATA[<b>
-				독립영화워크숍			</b>]]></content>
     </entry>
 </feed>
