@@ -2,8 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-04-17T05:37:42.428Z</updated>
+    <updated>2023-04-17T17:37:35.114Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[전주영상위원회] 2023 <전주영화마케팅지원> 모집! (~5/8) (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19003</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19003"/>
+        <updated>2023-04-17T17:37:34.510Z</updated>
+        <content type="html"><![CDATA[<b>
+				전주영상위원회			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[디렉터스 토크] 요즘 감독들은 영화 어떻게 만들어요? (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19002</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19002"/>
+        <updated>2023-04-17T17:37:34.517Z</updated>
+        <content type="html"><![CDATA[<b>
+				에무시네마			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['제11회 무주산골영화제' 자원활동가 <산골친구> 모집!(~4/23) (씨네21 ─ 영화인 리쿠르트)]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19001</id>
@@ -107,21 +123,5 @@
         <updated>2023-04-12T17:37:30.264Z</updated>
         <content type="html"><![CDATA[<b>
 				[윌앤비전]			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국독립애니메이션협회 사무국 단기 스태프 모집 (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18983</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18983"/>
-        <updated>2023-04-12T17:37:30.264Z</updated>
-        <content type="html"><![CDATA[<b>
-				(사)한국독립애니메이션협회			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[시네마서비스 / 시네마서비스 글로벌] 영화 & 드라마 기획 작가 모집 (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18982</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18982"/>
-        <updated>2023-04-12T05:37:45.538Z</updated>
-        <content type="html"><![CDATA[<b>
-				(주) 시네마서비스 / (주) 시네마서비스 글로벌			</b>]]></content>
     </entry>
 </feed>
