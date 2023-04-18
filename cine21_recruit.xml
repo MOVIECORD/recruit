@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2023-04-18T05:37:39.293Z</updated>
+    <updated>2023-04-18T17:38:13.511Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[류승완, 한준희 감독은 지옥 같은 공동작업을 입문 수료하였습니다.									댓글+1개]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19007</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19007"/>
+        <updated>2023-04-18T17:38:12.688Z</updated>
+        <content type="html"><![CDATA[<b>
+				독립영화워크숍			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[독립영화워크숍은 한국영화아카데미의 포토폴리오 과정이 아닙니다.									댓글+1개]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19006</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19006"/>
+        <updated>2023-04-18T17:38:12.700Z</updated>
+        <content type="html"><![CDATA[<b>
+				독립영화협의회			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[배리어프리영화위원회] 2023 배리어프리단편영화 제작지원 공모(~5/22 18시 마감)]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19005</id>
@@ -108,21 +124,5 @@
         <updated>2023-04-14T05:37:58.197Z</updated>
         <content type="html"><![CDATA[<b>
 				부산영상위원회			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[무비앤아이]에서 함께 할 영화 홍보 마케팅 신입 & 경력 모집 합니다]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18989</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18989"/>
-        <updated>2023-04-13T05:37:38.310Z</updated>
-        <content type="html"><![CDATA[<b>
-				무비앤아이			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「아몬드」 작가의 「영화인」의 시작									댓글+1개]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18986</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18986"/>
-        <updated>2023-04-12T17:37:30.246Z</updated>
-        <content type="html"><![CDATA[<b>
-				독립영화워크숍			</b>]]></content>
     </entry>
 </feed>
