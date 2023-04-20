@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-04-20T05:37:49.544Z</updated>
+    <updated>2023-04-20T17:37:34.038Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[제9회 서울국제음식영화제] ‘오감만족 단편경선’ 공모 안내 (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19012</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19012"/>
+        <updated>2023-04-20T17:37:33.439Z</updated>
+        <content type="html"><![CDATA[<b>
+				서울국제음식영화제			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[한국독립애니메이션협회] 2023 콘텐츠 창의인재동반사업 웹애니/숏폼/광고/뮤직비디오 제작 멘티 모집(~5/… (씨네21 ─ 영화인 리쿠르트)]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19011</id>
@@ -115,13 +123,5 @@
         <updated>2023-04-14T17:37:18.230Z</updated>
         <content type="html"><![CDATA[<b>
 				(사)필레마 서울국제사랑영화제			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[하나뿐인 지구영상제]출품공모전 '하나뿐인 지구(Blue Planet Awards)' (~6/7) (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18992</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=18992"/>
-        <updated>2023-04-14T05:37:58.181Z</updated>
-        <content type="html"><![CDATA[<b>
-				하나뿐인 지구영상제			</b>]]></content>
     </entry>
 </feed>
