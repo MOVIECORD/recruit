@@ -2,8 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-04-24T05:37:24.099Z</updated>
+    <updated>2023-04-24T17:37:25.279Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[영화/OTT 디지털 마케팅] 제스타드(주)지앤이에서 신입/경력 직원분을 모십니다. (~5/7) (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19022</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19022"/>
+        <updated>2023-04-24T17:37:24.656Z</updated>
+        <content type="html"><![CDATA[<b>
+				제스타드(주)			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영화배급사 디스테이션에서 마케팅 및 배급 직원을 모집합니다 ( ~ 5/7 ) (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19021</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19021"/>
+        <updated>2023-04-24T17:37:24.663Z</updated>
+        <content type="html"><![CDATA[<b>
+				(주)디스테이션			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아카데미 로카, [영화 비즈니스 입문 53기 in Zoom] 수강생 모집! (씨네21 ─ 영화인 리쿠르트)]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19019</id>
@@ -107,21 +123,5 @@
         <updated>2023-04-18T05:37:38.625Z</updated>
         <content type="html"><![CDATA[<b>
 				인디그라운드			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[전주영상위원회] 2023 <전주영화마케팅지원> 모집! (~5/8) (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19003</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19003"/>
-        <updated>2023-04-17T17:37:34.510Z</updated>
-        <content type="html"><![CDATA[<b>
-				전주영상위원회			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[디렉터스 토크] 요즘 감독들은 영화 어떻게 만들어요? (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19002</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19002"/>
-        <updated>2023-04-17T17:37:34.517Z</updated>
-        <content type="html"><![CDATA[<b>
-				에무시네마			</b>]]></content>
     </entry>
 </feed>
