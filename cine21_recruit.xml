@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2023-04-26T05:37:51.986Z</updated>
+    <updated>2023-04-26T17:38:35.861Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[한국영화성평등센터 든든] 사무국원 채용 공고]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19028</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19028"/>
+        <updated>2023-04-26T17:38:35.169Z</updated>
+        <content type="html"><![CDATA[<b>
+				한국영화성평등센터 든든			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[인디서울 2023] 답십리영화미디어아트센터 4월/5월 영화 상영&GV 행사 안내]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19027</id>
@@ -116,13 +124,5 @@
         <updated>2023-04-20T17:37:33.439Z</updated>
         <content type="html"><![CDATA[<b>
 				서울국제음식영화제			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[한국독립애니메이션협회] 2023 콘텐츠 창의인재동반사업 웹애니/숏폼/광고/뮤직비디오 제작 멘티 모집(~5/…]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19011</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19011"/>
-        <updated>2023-04-19T05:51:01.995Z</updated>
-        <content type="html"><![CDATA[<b>
-				(사)한국독립애니메이션협회			</b>]]></content>
     </entry>
 </feed>
