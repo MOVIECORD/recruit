@@ -2,9 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2023-04-27T05:37:42.677Z</updated>
+    <updated>2023-04-27T17:37:47.308Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[부산국제영화제] 2023년 부산국제영화제 정규직 직원 채용 공고문]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19031</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19031"/>
+        <updated>2023-04-27T17:37:46.611Z</updated>
+        <content type="html"><![CDATA[<b>
+				(사)부산국제영화제			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[부산국제영화제] 2023년도 1차 계약직 직원 채용 공고문]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19030</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19030"/>
+        <updated>2023-04-27T17:37:46.624Z</updated>
+        <content type="html"><![CDATA[<b>
+				(사)부산국제영화제			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[든든] 5월 영화·영상산업 내 성폭력 예방교육 1회차 안내(5월 11일 개최)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19029</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19029"/>
+        <updated>2023-04-27T17:37:46.629Z</updated>
+        <content type="html"><![CDATA[<b>
+				한국영화성평등센터 든든			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[한국영화성평등센터 든든] 사무국원 채용 공고]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19028</id>
@@ -100,29 +124,5 @@
         <updated>2023-04-21T17:37:30.209Z</updated>
         <content type="html"><![CDATA[<b>
 				전주영상위원회			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[(주)넥서스] 콘텐츠 프로젝트 매니저(PM, 영한 번역 감수) 채용]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19014</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19014"/>
-        <updated>2023-04-21T17:37:30.210Z</updated>
-        <content type="html"><![CDATA[<b>
-				(주)넥서스			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[프로듀서스쿨_2023_5.11 개강] 영화, 드라마, OTT 기획 제작 프로듀서 실무과정 모집]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19013</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19013"/>
-        <updated>2023-04-21T17:37:30.221Z</updated>
-        <content type="html"><![CDATA[<b>
-				프로듀서스쿨			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[제9회 서울국제음식영화제] ‘오감만족 단편경선’ 공모 안내]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19012</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19012"/>
-        <updated>2023-04-20T17:37:33.439Z</updated>
-        <content type="html"><![CDATA[<b>
-				서울국제음식영화제			</b>]]></content>
     </entry>
 </feed>
