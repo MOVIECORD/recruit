@@ -2,9 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2023-05-09T05:37:21.257Z</updated>
+    <updated>2023-05-09T17:37:21.084Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[비스포크랩] 프로젝트 매니저 채용 (정규직)									댓글+1개]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19055</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19055"/>
+        <updated>2023-05-09T17:37:20.470Z</updated>
+        <content type="html"><![CDATA[<b>
+				비스포크랩 주식회사			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[비스포크랩] Subtitling Linguist 채용 (영>한, 정규직)									댓글+1개]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19054</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19054"/>
+        <updated>2023-05-09T17:37:20.470Z</updated>
+        <content type="html"><![CDATA[<b>
+				비스포크랩 주식회사			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[비스포크랩] Subtitling Linguist 채용 (한>영, 정규직)									댓글+1개]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19053</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19053"/>
+        <updated>2023-05-09T17:37:20.470Z</updated>
+        <content type="html"><![CDATA[<b>
+				비스포크랩 주식회사			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[비스포크랩] 자막 오역 Linguist 채용 (영>한, 정규직)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19052</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19052"/>
+        <updated>2023-05-09T17:37:20.470Z</updated>
+        <content type="html"><![CDATA[<b>
+				비스포크랩 주식회사			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[KAFA+영화인교육] 감독, 촬영감독, 프로듀서, 편집기사 그리고 미래의 컬러리스트를 위한 색보정 시작하기]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19051</id>
@@ -92,37 +124,5 @@
         <updated>2023-05-02T05:37:31.123Z</updated>
         <content type="html"><![CDATA[<b>
 				서울국제환경영화제			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[커넥트비글로벌에서 OTT/뮤지컬 디지털 마케터를 모집합니다.]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19039</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19039"/>
-        <updated>2023-05-02T05:37:31.125Z</updated>
-        <content type="html"><![CDATA[<b>
-				커넥트비글로벌			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[미디액트 강좌] 영화가 처음이신가요? 온라인 강의 <처음 배우는 영화> 시리즈 OPEN]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19038</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19038"/>
-        <updated>2023-05-02T05:37:31.126Z</updated>
-        <content type="html"><![CDATA[<b>
-				영상미디어센터 미디액트			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넥서스에서 현지화 프로젝트 매니저(PM)를 구합니다!]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19037</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19037"/>
-        <updated>2023-05-02T05:37:31.144Z</updated>
-        <content type="html"><![CDATA[<b>
-				(주)넥서스			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[채용] 2023년 제19회 제천국제음악영화제 2차 스태프 채용 공고]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19035</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19035"/>
-        <updated>2023-04-28T05:37:21.626Z</updated>
-        <content type="html"><![CDATA[<b>
-				(사)제천국제음악영화제			</b>]]></content>
     </entry>
 </feed>
