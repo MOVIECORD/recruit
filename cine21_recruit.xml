@@ -2,9 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2023-05-09T17:37:21.084Z</updated>
+    <updated>2023-05-10T05:37:21.555Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[EIDF2023] 제20회 EBS국제다큐영화제 스태프 채용 공고(인더스트리팀장/국내초청/자원활동가담당)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19061</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19061"/>
+        <updated>2023-05-10T05:37:20.935Z</updated>
+        <content type="html"><![CDATA[<b>
+				한국교육방송공사			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아카데미 로카, [영화 비즈니스 입문 53기 in Zoom] 수강생 모집!]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19060</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19060"/>
+        <updated>2023-05-10T05:37:20.937Z</updated>
+        <content type="html"><![CDATA[<b>
+				LOCA			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[씨네21 콘텐츠 DB 운영 담당자 모집]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19059</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19059"/>
+        <updated>2023-05-10T05:37:20.938Z</updated>
+        <content type="html"><![CDATA[<b>
+				씨네21			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[비스포크랩] 프로젝트 매니저 채용 (정규직)									댓글+1개]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19055</id>
@@ -100,29 +124,5 @@
         <updated>2023-05-03T17:39:44.917Z</updated>
         <content type="html"><![CDATA[<b>
 				(사)전주영상위원회			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아시아 최대의 다큐멘터리 축제 제15회 DMZ국제다큐멘터리영화제 스태프 모집(2차)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19043</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19043"/>
-        <updated>2023-05-03T05:37:44.984Z</updated>
-        <content type="html"><![CDATA[<b>
-				사단법인디엠지국제다큐멘터리영화제			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[총 상금 1억 6천의 기회! 드디어 열렸다! [KT 스튜디오지니 시리즈 공모전 2회] ~6/15일!!]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19041</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19041"/>
-        <updated>2023-05-02T17:37:40.977Z</updated>
-        <content type="html"><![CDATA[<b>
-				KT스튜디오지니			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[모집 연장] 제20회 서울국제환경영화제 자원활동가 그린티어 모집! (~5/7)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19040</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19040"/>
-        <updated>2023-05-02T05:37:31.123Z</updated>
-        <content type="html"><![CDATA[<b>
-				서울국제환경영화제			</b>]]></content>
     </entry>
 </feed>
