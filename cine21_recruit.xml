@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2023-05-11T05:37:28.595Z</updated>
+    <updated>2023-05-11T17:37:34.346Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[클래스UP] 창작자 특강 '배급계약서 살펴보기' 모집안내]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19065</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19065"/>
+        <updated>2023-05-11T17:37:33.623Z</updated>
+        <content type="html"><![CDATA[<b>
+				인디그라운드			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[씨네21 콘텐츠팀 계약직 모집]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19064</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19064"/>
+        <updated>2023-05-11T17:37:33.624Z</updated>
+        <content type="html"><![CDATA[<b>
+				씨네21			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[상업영화 시나리오 & OTT  개발 스터디 팀원 모집 (공모전 & 아이템 개발)]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19063</id>
@@ -108,21 +124,5 @@
         <updated>2023-05-04T17:37:46.880Z</updated>
         <content type="html"><![CDATA[<b>
 				WATCHA			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[왓챠] 콘텐츠메타데이터 아르바이트를 모집합니다.]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19047</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19047"/>
-        <updated>2023-05-04T17:37:46.890Z</updated>
-        <content type="html"><![CDATA[<b>
-				WATCHA			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[KAFA+영화인교육] 창덕궁, 영화인의 마음을 훔치다]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19046</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19046"/>
-        <updated>2023-05-04T05:37:18.315Z</updated>
-        <content type="html"><![CDATA[<b>
-				KAFA+영화인교육			</b>]]></content>
     </entry>
 </feed>
