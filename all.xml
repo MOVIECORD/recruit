@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-20T05:37:34.823Z</updated>
+    <updated>2023-05-20T17:37:45.067Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[함께 촬영공부하며 콘텐츠 만드는 "크리어스 촬영워크숍" 14기 모집 (~6/6) (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19094</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19094"/>
+        <updated>2023-05-20T17:37:44.191Z</updated>
+        <content type="html"><![CDATA[<b>
+				크리어스			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[상업영화 & OTT 시나리오 개발 스터디 추가 팀원 모집 (공모전&아이템 개발) (씨네21 ─ 영화인 리쿠르트)]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19093</id>
@@ -115,13 +123,5 @@
         <updated>2023-05-15T05:37:52.016Z</updated>
         <content type="html"><![CDATA[<b>
 				(주)넥서스			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CJENM[메조미디어/중구] 모바일 광고팀 사무보조 지원자 모집 (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19077</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19077"/>
-        <updated>2023-05-15T05:37:52.017Z</updated>
-        <content type="html"><![CDATA[<b>
-				윌앤비전			</b>]]></content>
     </entry>
 </feed>
