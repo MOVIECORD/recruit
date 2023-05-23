@@ -2,8 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-22T17:37:27.113Z</updated>
+    <updated>2023-05-23T05:37:39.371Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[KT&G 상상마당 시네마] 극장 파트타이머 모집 (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19099</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19099"/>
+        <updated>2023-05-23T05:37:38.791Z</updated>
+        <content type="html"><![CDATA[<b>
+				KT&amp;G 상상마당 시네마			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[중랑아트센터] 6월 미술관 속 작은 영화관 상영 안내 (무료 관람) (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19098</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19098"/>
+        <updated>2023-05-23T05:37:38.791Z</updated>
+        <content type="html"><![CDATA[<b>
+				중랑아트센터			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[판타지오] 드라마 기획 PD(경력) 모집 (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19097</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19097"/>
+        <updated>2023-05-23T05:37:38.796Z</updated>
+        <content type="html"><![CDATA[<b>
+				판타지오			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[MBC아카데미] 영화기획, 제작,홍보마케팅 투자, 배급, 수입 교육생 모집!! (씨네21 ─ 영화인 리쿠르트)]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19096</id>
@@ -99,29 +123,5 @@
         <updated>2023-05-15T17:37:51.170Z</updated>
         <content type="html"><![CDATA[<b>
 				더램프(주)			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[함께 촬영공부하며 콘텐츠 만드는 "크리어스 촬영워크숍" 14기 모집 (~6/6) (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19083</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19083"/>
-        <updated>2023-05-15T05:37:52.002Z</updated>
-        <content type="html"><![CDATA[<b>
-				크리어스			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아카데미 로카, [영화비즈니스 취업 준비 과정 32기] 수강생 모집! (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19082</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19082"/>
-        <updated>2023-05-15T05:37:52.012Z</updated>
-        <content type="html"><![CDATA[<b>
-				LOCA			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아카데미 로카, <영화사 취업설명회 by LOCA> 수강생 모집! (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19081</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19081"/>
-        <updated>2023-05-15T05:37:52.012Z</updated>
-        <content type="html"><![CDATA[<b>
-				LOCA			</b>]]></content>
     </entry>
 </feed>
