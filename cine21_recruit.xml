@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2023-05-28T17:37:18.280Z</updated>
+    <updated>2023-05-29T05:37:33.558Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[KSI 한국시나리오연구소 정규과정 19기 개강]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19135</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19135"/>
+        <updated>2023-05-29T05:37:32.916Z</updated>
+        <content type="html"><![CDATA[<b>
+				KSI한국시나리오연구소			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[무비앤아이 청년일도약  관련 우대 모집] 함께 할 영화 홍보 마케팅 신입 모집 합니다]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19134</id>
@@ -116,13 +124,5 @@
         <updated>2023-05-24T17:38:22.604Z</updated>
         <content type="html"><![CDATA[<b>
 				서울국제여성영화제			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[계약직] 배리어프리 자막 제작/운영 매니저]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19116</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19116"/>
-        <updated>2023-05-24T17:38:22.608Z</updated>
-        <content type="html"><![CDATA[<b>
-				WATCHA			</b>]]></content>
     </entry>
 </feed>
