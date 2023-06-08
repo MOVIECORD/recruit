@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2023-06-07T17:37:46.102Z</updated>
+    <updated>2023-06-08T05:37:32.683Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[커넥트비글로벌에서 OTT/뮤지컬 디지털 마케터를 모집합니다.]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19181</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19181"/>
+        <updated>2023-06-08T05:37:32.017Z</updated>
+        <content type="html"><![CDATA[<b>
+				(주)커넥트비글로벌			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023년 전주영화제작소 후반제작시설 교육프로그램 후반제작전문강좌 편집 클래스 교육생 모집공고]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19180</id>
@@ -116,13 +124,5 @@
         <updated>2023-06-05T17:37:49.362Z</updated>
         <content type="html"><![CDATA[<b>
 				비스포크랩			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[상업적인 장편영화 시나리오 개발 스터디 팀원 모집 (공모전 준비, 아이템 개발)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19162</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19162"/>
-        <updated>2023-06-05T05:37:52.220Z</updated>
-        <content type="html"><![CDATA[<b>
-				시나리오 개발팀			</b>]]></content>
     </entry>
 </feed>
