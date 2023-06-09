@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2023-06-09T05:37:31.495Z</updated>
+    <updated>2023-06-09T17:37:31.158Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[KAFA+영화인교육] 연출부 양성과정: 인물담당]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19191</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19191"/>
+        <updated>2023-06-09T17:37:30.518Z</updated>
+        <content type="html"><![CDATA[<b>
+				KAFA+ 영화인교육			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[넥서스] 국내 프로젝트 매니저(PM)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19190</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19190"/>
+        <updated>2023-06-09T17:37:30.519Z</updated>
+        <content type="html"><![CDATA[<b>
+				넥서스			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[씨네21 콘텐츠팀 계약직 모집]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19189</id>
@@ -108,21 +124,5 @@
         <updated>2023-06-07T05:37:57.095Z</updated>
         <content type="html"><![CDATA[<b>
 				(주)스튜디오산타클로스엔터테인먼트			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제19회 제천국제음악영화제에서 자원활동가를 모집합니다]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19176</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19176"/>
-        <updated>2023-06-07T05:37:57.095Z</updated>
-        <content type="html"><![CDATA[<b>
-				제천국제음악영화제			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(재)전주국제영화제조직위원회 육아휴직 대체인력 모집]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19175</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19175"/>
-        <updated>2023-06-07T05:37:57.098Z</updated>
-        <content type="html"><![CDATA[<b>
-				전주국제영화제			</b>]]></content>
     </entry>
 </feed>
