@@ -2,9 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2023-06-13T17:38:03.571Z</updated>
+    <updated>2023-06-14T05:37:44.857Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아카데미 로카, [영화 비즈니스 입문 53기 in Zoom] 수강생 모집!]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19208</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19208"/>
+        <updated>2023-06-14T05:37:44.094Z</updated>
+        <content type="html"><![CDATA[<b>
+				LOCA			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아카데미 로카, <영화사 취업설명회 by LOCA> 수강생 모집!]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19207</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19207"/>
+        <updated>2023-06-14T05:37:44.104Z</updated>
+        <content type="html"><![CDATA[<b>
+				LOCA			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아카데미 로카, [영화비즈니스 취업 준비 과정 32기] 수강생 모집!]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19206</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19206"/>
+        <updated>2023-06-14T05:37:44.104Z</updated>
+        <content type="html"><![CDATA[<b>
+				LOCA			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[인디서울 2023]<나는 마을 방과후 교사입니다 > GV 박홍열,황다은 감독 참석]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19205</id>
@@ -100,29 +124,5 @@
         <updated>2023-06-12T05:37:48.513Z</updated>
         <content type="html"><![CDATA[<b>
 				넥서스			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[KAFA+영화인교육] 연출부 양성과정: 인물담당]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19191</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19191"/>
-        <updated>2023-06-09T17:37:30.518Z</updated>
-        <content type="html"><![CDATA[<b>
-				KAFA+ 영화인교육			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[넥서스] 국내 프로젝트 매니저(PM)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19190</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19190"/>
-        <updated>2023-06-09T17:37:30.519Z</updated>
-        <content type="html"><![CDATA[<b>
-				넥서스			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[씨네21 콘텐츠팀 계약직 모집]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19189</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19189"/>
-        <updated>2023-06-09T05:37:30.876Z</updated>
-        <content type="html"><![CDATA[<b>
-				씨네21			</b>]]></content>
     </entry>
 </feed>
