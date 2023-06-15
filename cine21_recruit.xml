@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2023-06-15T05:37:42.762Z</updated>
+    <updated>2023-06-15T17:37:30.784Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[모집] 2023년 인천영화아카데미 지역 영화인 전문교육 <인천 씨네스쿨> 교육 수강생 모집 (~6/25)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19215</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19215"/>
+        <updated>2023-06-15T17:37:30.155Z</updated>
+        <content type="html"><![CDATA[<b>
+				모씨네사회적협동조합			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(주)포디엄에서 영화 온라인 마케팅 신입/경력 직원을 모집합니다.]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19214</id>
@@ -116,13 +124,5 @@
         <updated>2023-06-12T17:38:15.052Z</updated>
         <content type="html"><![CDATA[<b>
 				KAFA+ 영화인교육			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[EIDF2023] 제20회 EBS국제다큐영화제 <인더스트리_아카데미&피치> 작품 공모]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19197</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19197"/>
-        <updated>2023-06-12T17:38:15.055Z</updated>
-        <content type="html"><![CDATA[<b>
-				한국교육방송공사			</b>]]></content>
     </entry>
 </feed>
