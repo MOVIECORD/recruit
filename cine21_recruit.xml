@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2023-06-19T17:37:58.781Z</updated>
+    <updated>2023-06-20T05:37:39.145Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아카데미 로카, <영화사 취업설명회 by LOCA> 수강생 모집! (~6/23)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19219</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19219"/>
+        <updated>2023-06-20T05:37:38.470Z</updated>
+        <content type="html"><![CDATA[<b>
+				LOCA			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 커뮤니티 MMZ - SNS 콘텐츠 기획 및 커뮤니티 운영/관리 프리랜서 구인 공고]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19218</id>
@@ -82,14 +90,6 @@
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19208</id>
         <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19208"/>
         <updated>2023-06-14T05:37:44.094Z</updated>
-        <content type="html"><![CDATA[<b>
-				LOCA			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아카데미 로카, <영화사 취업설명회 by LOCA> 수강생 모집!]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19207</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19207"/>
-        <updated>2023-06-14T05:37:44.104Z</updated>
         <content type="html"><![CDATA[<b>
 				LOCA			</b>]]></content>
     </entry>
