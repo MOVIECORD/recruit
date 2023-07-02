@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-02T05:37:38.793Z</updated>
+    <updated>2023-07-02T17:37:34.501Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[(~7/5)함께 콘텐츠 만들고 CGV상영까지 "크리어스 15기" 모집 (영화/뮤비/웹드/다큐) (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19260</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19260"/>
+        <updated>2023-07-02T17:37:33.766Z</updated>
+        <content type="html"><![CDATA[<b>
+				크리어스			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[KAFA+ 영화인교육] 예고편 워크숍 (씨네21 ─ 영화인 리쿠르트)]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19259</id>
@@ -115,13 +123,5 @@
         <updated>2023-06-26T17:38:19.756Z</updated>
         <content type="html"><![CDATA[<b>
 				앤드크레딧			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[교육] 다큐멘터리 기획개발 워크숍 / 7월 8일 개강!! (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19240</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19240"/>
-        <updated>2023-06-26T17:38:19.764Z</updated>
-        <content type="html"><![CDATA[<b>
-				미디액트			</b>]]></content>
     </entry>
 </feed>
