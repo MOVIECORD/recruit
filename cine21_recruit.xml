@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2023-07-04T17:38:53.419Z</updated>
+    <updated>2023-07-05T05:40:25.511Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[~07.17 까지]전주영화제작소 하반기 후반제작 기초 워크샵 교육생 모집]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19270</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19270"/>
+        <updated>2023-07-05T05:40:24.732Z</updated>
+        <content type="html"><![CDATA[<b>
+				전주영화제작소			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[25회 서울국제여성영화제 사무국 스태프(기획사업팀 팀장) 모집]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19269</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19269"/>
+        <updated>2023-07-05T05:40:24.733Z</updated>
+        <content type="html"><![CDATA[<b>
+				서울국제여성영화제			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[명필름과 함께 할 인재를 모집합니다.]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19268</id>
@@ -14,7 +30,7 @@
 				명필름			</b>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2023년 영상작가전문교육원 62기 모집 공고]]></title>
+        <title type="html"><![CDATA[시나리오작가 지망생을 위한 [영상작가전문교육원] 62기 수강생 모집 (접수마감 : 7/31)]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19267</id>
         <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19267"/>
         <updated>2023-07-04T17:38:52.638Z</updated>
@@ -108,21 +124,5 @@
         <updated>2023-06-28T17:38:03.935Z</updated>
         <content type="html"><![CDATA[<b>
 				오드(AUD)			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[미디액트 7월 강좌] 영화 교육 안내 - 시나리오, 조명, 촬영, 로그라인, 다큐멘터리 기획개발, 인터뷰]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19251</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19251"/>
-        <updated>2023-06-28T17:38:03.935Z</updated>
-        <content type="html"><![CDATA[<b>
-				미디액트			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023년 '지니스 커뮤니케이션' 영화 마케터 경력직 상시 모집 공고]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19250</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19250"/>
-        <updated>2023-06-28T17:38:03.936Z</updated>
-        <content type="html"><![CDATA[<b>
-				(주)지니스커뮤니케이션			</b>]]></content>
     </entry>
 </feed>
