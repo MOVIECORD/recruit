@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-15T17:37:38.781Z</updated>
+    <updated>2023-07-16T05:37:33.677Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[잘 팔리는 상업장편영화 시나리오 개발 스터디 팀원 모집 (아이템 개발, 공모전 준비) (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19301</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19301"/>
+        <updated>2023-07-16T05:37:32.859Z</updated>
+        <content type="html"><![CDATA[<b>
+				시나리오 개발팀			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 배재대학교 공연예술학과 영화영상트랙 수시모집 (씨네21 ─ 영화인 리쿠르트)]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19300</id>
@@ -107,14 +115,6 @@
         <updated>2023-07-10T05:39:22.214Z</updated>
         <content type="html"><![CDATA[<b>
 				오콘			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(온라인 회의) 상업장편영화 & OTT 시나리오 개발 스터디 팀원 추가 모집 (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19279</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19279"/>
-        <updated>2023-07-10T05:39:22.220Z</updated>
-        <content type="html"><![CDATA[<b>
-				시나리오 개발팀			</b>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[BIAF2023] 마약류 이용 범죄 근절을 위한 'NO! DRUGS ANYMORE' 애니메이션 공모전 안내… (씨네21 ─ 영화인 리쿠르트)]]></title>
