@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2023-07-18T17:37:47.198Z</updated>
+    <updated>2023-07-19T05:37:46.881Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[미디액트 8월 강좌] 프로듀서의 모든 것, 프리부터 포스트프로덕션까지 - 8/3 개강!!]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19313</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19313"/>
+        <updated>2023-07-19T05:37:46.003Z</updated>
+        <content type="html"><![CDATA[<b>
+				미디액트			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[KAFA+ 영화인교육] 마케터 양성과정: 보도자료 작성 워크숍]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19312</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19312"/>
+        <updated>2023-07-19T05:37:46.003Z</updated>
+        <content type="html"><![CDATA[<b>
+				KAFA+ 영화인교육			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[기획개발 PD] 해외 제작 업무를 담당할 글로벌 프로젝트 팀 인재를 모집하고 있습니다.]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19310</id>
@@ -108,21 +124,5 @@
         <updated>2023-07-14T17:38:30.694Z</updated>
         <content type="html"><![CDATA[<b>
 				서울인디애니페스트			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Wservices(왓챠 자회사)] 콘텐츠 이미지 운영 단기아르바이트를 모집합니다.]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19288</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19288"/>
-        <updated>2023-07-13T17:38:23.560Z</updated>
-        <content type="html"><![CDATA[<b>
-				Wservices			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[영화/OTT 디지털 마케팅] 제스타드(주)지앤이에서 신입/경력 직원분을 모십니다. (~7/31)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19287</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19287"/>
-        <updated>2023-07-13T17:38:23.561Z</updated>
-        <content type="html"><![CDATA[<b>
-				지앤이(주)제스타드			</b>]]></content>
     </entry>
 </feed>
