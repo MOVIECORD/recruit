@@ -2,9 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2023-07-28T05:37:55.628Z</updated>
+    <updated>2023-07-28T17:37:21.420Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[14회 광주여성영화제 스태프 공개 모집]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19355</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19355"/>
+        <updated>2023-07-28T17:37:20.698Z</updated>
+        <content type="html"><![CDATA[<b>
+				(사)광주여성영화제			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영화 및 OTT 콘텐츠 마케팅/홍보를 진행하고 있는 [올라운드 컴퍼니]에서 신입/경력 사원을 모집합니다.]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19354</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19354"/>
+        <updated>2023-07-28T17:37:20.701Z</updated>
+        <content type="html"><![CDATA[<b>
+				올라운드 컴퍼니			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[미디액트 강좌] 장편 시나리오 워크숍 (8/5 개강!)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19353</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19353"/>
+        <updated>2023-07-28T17:37:20.702Z</updated>
+        <content type="html"><![CDATA[<b>
+				미디액트			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[마이팀플][프로젝트러닝] 사회적 프로젝트 기록 다큐멘터리 제작 참여자 모집 (~07/31)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19352</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19352"/>
+        <updated>2023-07-28T17:37:20.703Z</updated>
+        <content type="html"><![CDATA[<b>
+				마이팀플			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[WATCHA]에피소드DB 제작 파트타이머를 모집합니다]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19351</id>
@@ -92,37 +124,5 @@
         <updated>2023-07-21T17:37:28.873Z</updated>
         <content type="html"><![CDATA[<b>
 				주식회사 스콘			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023년 생활문화시설 인문프로그램 안내 (무료 프로그램)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19334</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19334"/>
-        <updated>2023-07-21T17:37:28.873Z</updated>
-        <content type="html"><![CDATA[<b>
-							</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[채용] 2023년 신영균예술문화재단 인턴직원 채용(~7.30)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19332</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19332"/>
-        <updated>2023-07-21T17:37:28.874Z</updated>
-        <content type="html"><![CDATA[<b>
-				신영균예술문화재단			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[명필름 경영지원실 계약직 채용 공고]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19331</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19331"/>
-        <updated>2023-07-21T17:37:28.875Z</updated>
-        <content type="html"><![CDATA[<b>
-				명필름			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[서울영등포국제초단편영화제] 제7기 초단편영화 아카데미 수강생 모집]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19330</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19330"/>
-        <updated>2023-07-21T17:37:28.876Z</updated>
-        <content type="html"><![CDATA[<b>
-				서울영등포국제초단편영화제			</b>]]></content>
     </entry>
 </feed>
