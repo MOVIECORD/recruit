@@ -2,9 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2023-07-30T17:37:46.422Z</updated>
+    <updated>2023-07-31T05:37:57.969Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서울독립영화제2023 단기스태프_프로젝트팀(프로그램이벤트) 채용공고_(8/1~8/15)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19358</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19358"/>
+        <updated>2023-07-31T05:37:57.009Z</updated>
+        <content type="html"><![CDATA[<b>
+				서울독립영화제2023			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아카데미 로카, <영화사 취업설명회 by LOCA> 수강생 모집! (~8/4)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19357</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19357"/>
+        <updated>2023-07-31T05:37:57.009Z</updated>
+        <content type="html"><![CDATA[<b>
+				LOCA			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[든든] 8월 영상산업 내 성폭력 예방교육 안내(8.14 월요일/8.31 목요일 개최)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19356</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19356"/>
+        <updated>2023-07-31T05:37:57.009Z</updated>
+        <content type="html"><![CDATA[<b>
+				한국영화성평등센터 든든			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[14회 광주여성영화제 스태프 공개 모집]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19355</id>
@@ -100,29 +124,5 @@
         <updated>2023-07-24T17:37:26.711Z</updated>
         <content type="html"><![CDATA[<b>
 				전주국제영화제			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[KAFA+ 영화인교육] Pre-viz 실무 교육]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19338</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19338"/>
-        <updated>2023-07-24T05:38:00.147Z</updated>
-        <content type="html"><![CDATA[<b>
-				KAFA+ 영화인교육			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Wservices(왓챠 자회사)] 콘텐츠 이미지 운영 단기아르바이트를 모집합니다.]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19337</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19337"/>
-        <updated>2023-07-24T05:38:00.147Z</updated>
-        <content type="html"><![CDATA[<b>
-				Wservices			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(업데이트)[스콘] 문화콘텐츠 마케팅사 S∙CON 스콘에서 2023년 하반기 경력/신입사원을 모집합니다.]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19335</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19335"/>
-        <updated>2023-07-21T17:37:28.873Z</updated>
-        <content type="html"><![CDATA[<b>
-				주식회사 스콘			</b>]]></content>
     </entry>
 </feed>
