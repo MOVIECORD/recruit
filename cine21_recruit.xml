@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2023-08-08T05:37:24.188Z</updated>
+    <updated>2023-08-08T17:37:33.269Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제15회 서울영등포국제초단편영화제 관객 심사단 모집(~8.23)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19395</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19395"/>
+        <updated>2023-08-08T17:37:32.502Z</updated>
+        <content type="html"><![CDATA[<b>
+				서울영등포국제초단편영화제			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[인디그라운드] 2023 독립영화 라이브러리 작품 공모]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19394</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19394"/>
+        <updated>2023-08-08T17:37:32.503Z</updated>
+        <content type="html"><![CDATA[<b>
+				인디그라운드			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[넥서스] 경력무관 번역 및 사무직 직원 채용]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19391</id>
@@ -108,21 +124,5 @@
         <updated>2023-08-03T17:37:41.041Z</updated>
         <content type="html"><![CDATA[<b>
 				㈜인디스토리			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[무료특강] 인디그라운드 CLASS UP - 인디음악의 세계 (8/19)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19378</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19378"/>
-        <updated>2023-08-02T17:37:40.964Z</updated>
-        <content type="html"><![CDATA[<b>
-				인디그라운드			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마케팅 에이전시 [프리엠컴퍼니] 신입/경력 팀원을 모집합니다.]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19377</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19377"/>
-        <updated>2023-08-02T17:37:40.964Z</updated>
-        <content type="html"><![CDATA[<b>
-				프리엠컴퍼			</b>]]></content>
     </entry>
 </feed>
