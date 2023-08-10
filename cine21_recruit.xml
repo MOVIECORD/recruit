@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2023-08-10T05:37:59.729Z</updated>
+    <updated>2023-08-10T17:37:30.874Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[시나리오작가 지망생을 위한 [영상작가전문교육원] 62기 수강생 추가 모집 (접수마감 : 8/15)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19404</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19404"/>
+        <updated>2023-08-10T17:37:30.132Z</updated>
+        <content type="html"><![CDATA[<b>
+				(사)한국시나리오작가협회			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제15회 서울영등포국제초단편영화제 자원활동가 SESIFFian 추가 모집(~8.16)]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19403</id>
@@ -116,13 +124,5 @@
         <updated>2023-08-07T17:37:25.428Z</updated>
         <content type="html"><![CDATA[<b>
 				와이콘엔터테인먼트			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[CJ ENM/휴학생가능/마포] TVN 디지털콘텐츠팀 운영에디터 모집]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19387</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19387"/>
-        <updated>2023-08-07T17:37:25.430Z</updated>
-        <content type="html"><![CDATA[<b>
-				윌앤비전			</b>]]></content>
     </entry>
 </feed>
