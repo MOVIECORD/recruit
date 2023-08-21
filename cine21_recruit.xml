@@ -2,9 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2023-08-20T17:37:30.344Z</updated>
+    <updated>2023-08-21T05:37:55.497Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[필앤플랜(영화/공연 마케팅사) 2023 신입/경력사원 모집]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19440</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19440"/>
+        <updated>2023-08-21T05:37:54.470Z</updated>
+        <content type="html"><![CDATA[<b>
+				필앤플랜(영화/공연 마케팅사)			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[제15회 서울영등포국제초단편영화제] 어린이 심사단, 시민 심사단 모집(~8.23)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19439</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19439"/>
+        <updated>2023-08-21T05:37:54.496Z</updated>
+        <content type="html"><![CDATA[<b>
+				서울영등포국제초단편영화제			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[프로젝트 매니저 (PM) 채용합니다!]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19438</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19438"/>
+        <updated>2023-08-21T05:37:54.501Z</updated>
+        <content type="html"><![CDATA[<b>
+				청담미디어			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국영화아카데미의 입학을 위한 포토폴리오 과정이 아닙니다]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19437</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19437"/>
+        <updated>2023-08-21T05:37:54.505Z</updated>
+        <content type="html"><![CDATA[<b>
+				독립영화워크숍			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[류승완, 한준희 감독은 지옥 같은 공동작업으로 입문하였습니다.									댓글+1개]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19435</id>
@@ -92,37 +124,5 @@
         <updated>2023-08-16T05:37:25.934Z</updated>
         <content type="html"><![CDATA[<b>
 				㈜질리언뷰			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(재)전주국제영화제조직위원회 계약직 스태프 모집 (해외영화팀장)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19420</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19420"/>
-        <updated>2023-08-16T05:37:25.936Z</updated>
-        <content type="html"><![CDATA[<b>
-				전주국제영화제			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[미디액트 강좌] 영화 미술, 어떻게 할 것인가]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19419</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19419"/>
-        <updated>2023-08-14T17:37:31.119Z</updated>
-        <content type="html"><![CDATA[<b>
-				미디액트			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 제작/해외배급사 (주) 화인컷에서 영상 콘텐츠 해외배급을 위한 신입/경력 사원을 모집합니다.]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19418</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19418"/>
-        <updated>2023-08-14T05:37:41.026Z</updated>
-        <content type="html"><![CDATA[<b>
-				(주)화인컷			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[한국콘텐츠진흥원] 2023 이야기창작발전소 1기 중견 창작자 특화과정 참가자 모집 안내]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19417</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19417"/>
-        <updated>2023-08-14T05:37:41.027Z</updated>
-        <content type="html"><![CDATA[<b>
-				한국콘텐츠진흥원			</b>]]></content>
     </entry>
 </feed>
