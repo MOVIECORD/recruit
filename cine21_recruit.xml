@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2023-08-30T05:37:32.468Z</updated>
+    <updated>2023-08-30T17:37:23.827Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 마케팅&넷플릭스 콘텐츠 홍보 대행사 [앤드크레딧] 신입/경력 모집합니다]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19477</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19477"/>
+        <updated>2023-08-30T17:37:23.115Z</updated>
+        <content type="html"><![CDATA[<b>
+				앤드크레딧			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유튜브 진용진 채널 웹드라마 <없는영화>팀에서 제작팀을 구인합니다.]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19475</id>
@@ -116,13 +124,5 @@
         <updated>2023-08-24T05:37:22.903Z</updated>
         <content type="html"><![CDATA[<b>
 				서울국제사랑영화제			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[신입/경력] 투자배급사 ㈜스튜디오 디에이치엘 배급팀 채용]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19459</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19459"/>
-        <updated>2023-08-24T05:37:22.912Z</updated>
-        <content type="html"><![CDATA[<b>
-				㈜스튜디오 디에이치엘			</b>]]></content>
     </entry>
 </feed>
