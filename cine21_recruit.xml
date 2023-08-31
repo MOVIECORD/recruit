@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2023-08-31T05:37:35.267Z</updated>
+    <updated>2023-08-31T17:37:17.507Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제25회 부천국제애니메이션페스티벌(BIAF2023) 자원활동가 비아띠 모집(~9/10)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19484</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19484"/>
+        <updated>2023-08-31T17:37:16.795Z</updated>
+        <content type="html"><![CDATA[<b>
+				BIAF조직위원회			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[영화진흥위원회] 극장과 OTT 경계 희미‥ 영화 제작인력은 어떻게 키우나? 토론회 개최 - 9/7(목) 1…]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19483</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19483"/>
+        <updated>2023-08-31T17:37:16.796Z</updated>
+        <content type="html"><![CDATA[<b>
+				영화진흥위원회			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[상업영화감독진 구성 - 배우데뷔프로젝트 모집]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19479</id>
@@ -108,21 +124,5 @@
         <updated>2023-08-25T05:37:36.879Z</updated>
         <content type="html"><![CDATA[<b>
 				중랑아트센터			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[레몬사운드] 영화음악감독 김준성 마스터클래스 개최 안내]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19463</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19463"/>
-        <updated>2023-08-24T17:37:37.757Z</updated>
-        <content type="html"><![CDATA[<b>
-				레몬사운드			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[미디액트 강좌] [입문] 훅 있는 OTT 드라마 시나리오 쓰기 7기 (9/13 개강!)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19462</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19462"/>
-        <updated>2023-08-24T05:37:22.901Z</updated>
-        <content type="html"><![CDATA[<b>
-							</b>]]></content>
     </entry>
 </feed>
