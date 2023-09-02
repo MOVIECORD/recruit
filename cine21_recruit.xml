@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2023-09-02T05:37:36.710Z</updated>
+    <updated>2023-09-02T17:37:23.470Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[아카데미 누벨] 영상번역계의 현실과 밥벌이에 대한 수다 <무료 공개 강의>]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19495</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19495"/>
+        <updated>2023-09-02T17:37:22.743Z</updated>
+        <content type="html"><![CDATA[<b>
+				아카데미 누벨			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[아카데미 누벨] 영상번역과 영화 수입·배급 관련 강좌를 오픈합니다]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19494</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19494"/>
+        <updated>2023-09-02T17:37:22.743Z</updated>
+        <content type="html"><![CDATA[<b>
+				아카데미 누벨			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[MBC아카데미] 영화홍보마케팅&프로듀서 교육생 15명 모집! [기획, 제작, 홍보마케팅, 투자, 배급, 수…]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19493</id>
@@ -108,21 +124,5 @@
         <updated>2023-08-29T17:37:18.170Z</updated>
         <content type="html"><![CDATA[<b>
 				3Y Corporation			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나와 세상을 연결하는 다큐멘터리 제작워크숍 '나의 첫 다큐멘터리']]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19474</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19474"/>
-        <updated>2023-08-29T17:37:18.170Z</updated>
-        <content type="html"><![CDATA[<b>
-				충무로영상센터 오!재미동			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[KAFA+ 영화인교육] 영화사 및 영화제작 세무회계의 기본]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19473</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19473"/>
-        <updated>2023-08-29T17:37:18.175Z</updated>
-        <content type="html"><![CDATA[<b>
-				KAFA+ 영화인교육			</b>]]></content>
     </entry>
 </feed>
