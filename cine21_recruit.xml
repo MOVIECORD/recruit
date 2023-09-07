@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2023-09-06T17:37:43.357Z</updated>
+    <updated>2023-09-07T05:37:13.990Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[여성영화인모임] 영화홍보마케팅 워크숍 수강생 모집 공고]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19515</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19515"/>
+        <updated>2023-09-07T05:37:13.210Z</updated>
+        <content type="html"><![CDATA[<b>
+				(사)여성영화인모임			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[모집기간 연장] 무비앤아이 신입 & 경력 모집합니다.]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19514</id>
@@ -114,14 +122,6 @@
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19498</id>
         <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19498"/>
         <updated>2023-09-03T05:37:19.015Z</updated>
-        <content type="html"><![CDATA[<b>
-				독립영화워크숍			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국영화아카데미의 입학을 위한 포토폴리오 과정이 아닙니다]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19497</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19497"/>
-        <updated>2023-09-03T05:37:19.016Z</updated>
         <content type="html"><![CDATA[<b>
 				독립영화워크숍			</b>]]></content>
     </entry>
