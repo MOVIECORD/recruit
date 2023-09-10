@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2023-09-10T05:37:49.825Z</updated>
+    <updated>2023-09-10T17:37:22.357Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<기획, 제작, 마케팅>   영화 모니터 시사 모집합니다.]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19530</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19530"/>
+        <updated>2023-09-10T17:37:21.473Z</updated>
+        <content type="html"><![CDATA[<b>
+							</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[명필름랩 10기 모집]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19528</id>
@@ -116,13 +124,5 @@
         <updated>2023-09-04T05:37:38.632Z</updated>
         <content type="html"><![CDATA[<b>
 				(주)영화사비단길			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화온라인마케팅사 [절찬상영중] 2023년 하반기 신입,경력 채용]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19503</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19503"/>
-        <updated>2023-09-04T05:37:38.632Z</updated>
-        <content type="html"><![CDATA[<b>
-				절찬상영중			</b>]]></content>
     </entry>
 </feed>
