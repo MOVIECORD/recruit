@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2023-09-12T17:38:10.667Z</updated>
+    <updated>2023-09-13T05:37:53.389Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[키노라이츠] 경영지원/CEO Staff(인턴)를 모집합니다.]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19546</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19546"/>
+        <updated>2023-09-13T05:37:52.371Z</updated>
+        <content type="html"><![CDATA[<b>
+				키노라이츠			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[비스포크랩] 한영 자막 감수자 (Linguist) 정규직 채용]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19544</id>
@@ -116,13 +124,5 @@
         <updated>2023-09-08T17:37:42.494Z</updated>
         <content type="html"><![CDATA[<b>
 				명필름랩			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배우 데뷔 프로젝트 !! 100%  상업 드라마]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19523</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19523"/>
-        <updated>2023-09-07T17:38:36.705Z</updated>
-        <content type="html"><![CDATA[<b>
-				페르소나 시스템즈			</b>]]></content>
     </entry>
 </feed>
