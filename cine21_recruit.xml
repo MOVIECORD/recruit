@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2023-09-15T05:37:21.179Z</updated>
+    <updated>2023-09-15T17:37:48.703Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(연장) 해외배급/세일즈 신입사원 모집 공고 [영화사벌집]]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19557</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19557"/>
+        <updated>2023-09-15T17:37:47.783Z</updated>
+        <content type="html"><![CDATA[<b>
+				(주)영화사벌집			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제14회 부산평화영화제 BPFF자원활동가, 온라인 서포터즈 모집]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19556</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19556"/>
+        <updated>2023-09-15T17:37:47.783Z</updated>
+        <content type="html"><![CDATA[<b>
+				부산평화영화제			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[KAFA+ 영화인교육] 고고학자에게 듣는 경복궁과 광화문 월대 복원 이야기]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19554</id>
@@ -108,21 +124,5 @@
         <updated>2023-09-12T05:37:46.693Z</updated>
         <content type="html"><![CDATA[<b>
 				KAFA+ 영화인교			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<영화사 취업 설명회 by LOCA> 수강생 모집!]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19538</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19538"/>
-        <updated>2023-09-11T05:37:10.229Z</updated>
-        <content type="html"><![CDATA[<b>
-				LOCA			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[판씨네마㈜] 배급팀 신입/경력사원 모집 공고]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19537</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19537"/>
-        <updated>2023-09-11T05:37:10.229Z</updated>
-        <content type="html"><![CDATA[<b>
-				판씨네마(주)			</b>]]></content>
     </entry>
 </feed>
