@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2023-09-16T05:38:08.086Z</updated>
+    <updated>2023-09-16T17:37:22.766Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(주)올랄라스토리 - 극장 배급 신입/경력 사원 모집]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19558</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19558"/>
+        <updated>2023-09-16T17:37:21.891Z</updated>
+        <content type="html"><![CDATA[<b>
+				(주)올랄라스토리			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(연장) 해외배급/세일즈 신입사원 모집 공고 [영화사벌집]]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19557</id>
@@ -116,13 +124,5 @@
         <updated>2023-09-12T05:37:46.693Z</updated>
         <content type="html"><![CDATA[<b>
 				(사)여성영화인모임			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[KAFA+영화인교육] 제작부 양성과정: 로케이션의 모든 것]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19539</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19539"/>
-        <updated>2023-09-12T05:37:46.693Z</updated>
-        <content type="html"><![CDATA[<b>
-				KAFA+ 영화인교			</b>]]></content>
     </entry>
 </feed>
