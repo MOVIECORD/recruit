@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2023-09-19T05:37:34.313Z</updated>
+    <updated>2023-09-19T17:37:50.002Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[『영화 시나리오 & 시리즈드라마 대본 모니터링 단』 1기 모집]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19566</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19566"/>
+        <updated>2023-09-19T17:37:49.146Z</updated>
+        <content type="html"><![CDATA[<b>
+				송대찬 PD			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[아카데미 로카] <영화 비즈니스 취업 준비 과정 33기 in 성수> 수강생 모집!]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19565</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19565"/>
+        <updated>2023-09-19T17:37:49.149Z</updated>
+        <content type="html"><![CDATA[<b>
+				LOCA			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국내외 배급 신입, 경력 모집 - [스튜디오 글로빅]]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19564</id>
@@ -108,21 +124,5 @@
         <updated>2023-09-14T17:37:29.678Z</updated>
         <content type="html"><![CDATA[<b>
 				미디액트			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[왓챠 재팬 콘텐츠 매니저 채용]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19549</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19549"/>
-        <updated>2023-09-14T17:37:29.678Z</updated>
-        <content type="html"><![CDATA[<b>
-				WATCHA			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[영화/OTT 디지털 마케팅] 제스타드(주)지앤이에서 신입/경력 직원분을 모십니다. (~10/3)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19548</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19548"/>
-        <updated>2023-09-13T17:37:38.922Z</updated>
-        <content type="html"><![CDATA[<b>
-				제스타드(주)			</b>]]></content>
     </entry>
 </feed>
