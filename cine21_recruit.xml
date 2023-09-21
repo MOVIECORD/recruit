@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2023-09-20T17:37:29.346Z</updated>
+    <updated>2023-09-21T05:37:37.076Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[든든] 10월 영상산업 내 성폭력 예방교육 안내(10월 17일/10월 31일 화요일 진행)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19572</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19572"/>
+        <updated>2023-09-21T05:37:36.224Z</updated>
+        <content type="html"><![CDATA[<b>
+				한국영화성평등센터 든든			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[KAFA+ 영화인교육] VFX 장면 및 촬영 개념의 이해]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19571</id>
@@ -116,13 +124,5 @@
         <updated>2023-09-15T05:37:20.427Z</updated>
         <content type="html"><![CDATA[<b>
 				KAFA+ 영화인교육			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023년 전주 단편영화 촬영 장비 지원사업 하반기 1차 모집공고]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19553</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19553"/>
-        <updated>2023-09-15T05:37:20.428Z</updated>
-        <content type="html"><![CDATA[<b>
-				전주영화제작소			</b>]]></content>
     </entry>
 </feed>
