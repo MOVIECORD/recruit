@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2023-10-03T17:37:39.507Z</updated>
+    <updated>2023-10-04T05:37:45.612Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제13회 서울배리어프리영화제 자원활동가 모집(10/4~10/22)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19590</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19590"/>
+        <updated>2023-10-04T05:37:44.854Z</updated>
+        <content type="html"><![CDATA[<b>
+				(사)배리어프리영화위원회			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(*강의 오픈 확정) [아카데미 로카] <영화 비즈니스 취업 준비 과정 33기 in 성수> 수강생 모집!]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19589</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19589"/>
+        <updated>2023-10-04T05:37:44.856Z</updated>
+        <content type="html"><![CDATA[<b>
+				LOCA			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['고전 영화 읽고 글쓰기 클럽' 회원을 모집합니다.^^ (10월 영화: 아녜스 바르다 <방랑자>)]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19588</id>
@@ -108,21 +124,5 @@
         <updated>2023-09-22T05:37:39.658Z</updated>
         <content type="html"><![CDATA[<b>
 				씨네21			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(재)전주국제영화제조직위원회 계약직 스태프 모집 (홍보미디어팀장)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19573</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19573"/>
-        <updated>2023-09-22T05:37:39.663Z</updated>
-        <content type="html"><![CDATA[<b>
-				전주국제영화제			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[든든] 10월 영상산업 내 성폭력 예방교육 안내(10월 17일/10월 31일 화요일 진행)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19572</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19572"/>
-        <updated>2023-09-21T05:37:36.224Z</updated>
-        <content type="html"><![CDATA[<b>
-				한국영화성평등센터 든든			</b>]]></content>
     </entry>
 </feed>
