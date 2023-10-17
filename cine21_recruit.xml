@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2023-10-17T05:38:08.697Z</updated>
+    <updated>2023-10-17T17:37:59.890Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(*오픈 확정) [아카데미 로카] 영화 비즈니스 입문 53기 ONLINE]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19621</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19621"/>
+        <updated>2023-10-17T17:37:58.970Z</updated>
+        <content type="html"><![CDATA[<b>
+				LOCA			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[제3회 금천패션영화제] 영화를 그려요 참가자 모집 (-10.29)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19620</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19620"/>
+        <updated>2023-10-17T17:37:58.970Z</updated>
+        <content type="html"><![CDATA[<b>
+				금천패션영화제			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Wservices(왓챠 자회사)] 검수 아르바이트를 모집합니다]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19619</id>
@@ -108,21 +124,5 @@
         <updated>2023-10-11T05:37:26.142Z</updated>
         <content type="html"><![CDATA[<b>
 				흥미진진			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[무비앤아이 청년일도약 관련 우대 모집] 함께 할 영화 홍보 마케팅 신입 모집 합니다]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19605</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19605"/>
-        <updated>2023-10-10T17:37:36.467Z</updated>
-        <content type="html"><![CDATA[<b>
-				[무비앤아이]			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[공모] 2023년 통일의 빛 프로젝트 단편영화 사전제작지원 공모전 안내(기간 연장)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19604</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19604"/>
-        <updated>2023-10-10T17:37:36.470Z</updated>
-        <content type="html"><![CDATA[<b>
-				서울국제사랑영화제			</b>]]></content>
     </entry>
 </feed>
