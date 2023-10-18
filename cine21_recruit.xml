@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2023-10-17T17:37:59.890Z</updated>
+    <updated>2023-10-18T05:37:27.916Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(*올해 마지막 강의) [아카데미 로카] <영화 비즈니스 취업 준비 과정 33기 in 성수> 수강생 모집!]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19622</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19622"/>
+        <updated>2023-10-18T05:37:27.128Z</updated>
+        <content type="html"><![CDATA[<b>
+				LOCA			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(*오픈 확정) [아카데미 로카] 영화 비즈니스 입문 53기 ONLINE]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19621</id>
@@ -108,14 +116,6 @@
         <updated>2023-10-11T17:37:56.595Z</updated>
         <content type="html"><![CDATA[<b>
 				아이스크림(eyescream)			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[아카데미 로카] <영화 비즈니스 취업 준비 과정 33기 in 성수> 수강생 모집! (~ 11/6)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19607</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19607"/>
-        <updated>2023-10-11T05:37:26.142Z</updated>
-        <content type="html"><![CDATA[<b>
-				LOCA			</b>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[영화/방송 마케팅홍보사 "흥미진진" 신입/경력사원 채용 공고]]></title>
