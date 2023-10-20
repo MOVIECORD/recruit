@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-10-19T17:37:38.308Z</updated>
+    <updated>2023-10-20T05:37:32.883Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[제41회 부산국제단편영화제] 단편영화 제작지원 공모(한국 1편, 부산 1편) (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19636</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19636"/>
+        <updated>2023-10-20T05:37:32.081Z</updated>
+        <content type="html"><![CDATA[<b>
+				(사)부산국제단편영화제			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[웹스크리에이티브㈜ 미디어 전략본부 신입/경력 채용공고 (씨네21 ─ 영화인 리쿠르트)]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19635</id>
@@ -115,13 +123,5 @@
         <updated>2023-10-12T05:37:31.062Z</updated>
         <content type="html"><![CDATA[<b>
 				청룡영화상사무국			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[절찬상영중] 영화/OTT 온라인 마케팅 신입 채용(~10/19) (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19610</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19610"/>
-        <updated>2023-10-12T05:37:31.064Z</updated>
-        <content type="html"><![CDATA[<b>
-				절찬상영중			</b>]]></content>
     </entry>
 </feed>
