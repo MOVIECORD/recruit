@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2023-10-21T17:37:49.012Z</updated>
+    <updated>2023-10-22T05:37:31.709Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[더틱톡] 드라마/예능 홍보대행 2024년 상반기 신입 공고 (~11/12)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19637</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19637"/>
+        <updated>2023-10-22T05:37:30.890Z</updated>
+        <content type="html"><![CDATA[<b>
+				더 틱톡			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[제41회 부산국제단편영화제] 단편영화 제작지원 공모(한국 1편, 부산 1편)]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19636</id>
@@ -116,13 +124,5 @@
         <updated>2023-10-12T17:37:46.875Z</updated>
         <content type="html"><![CDATA[<b>
 				NCH			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제44회 청룡영화상 '청정원 단편영화상' 공모]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19612</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19612"/>
-        <updated>2023-10-12T05:37:31.062Z</updated>
-        <content type="html"><![CDATA[<b>
-				청룡영화상사무국			</b>]]></content>
     </entry>
 </feed>
