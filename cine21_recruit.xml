@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2023-11-09T05:37:28.703Z</updated>
+    <updated>2023-11-09T17:37:21.466Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화/OTT 전문 디지털 마케팅 대행사 제스타드(주)지앤이에서  신입/경력 사원을 모집합니다. (~11/27…]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19696</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19696"/>
+        <updated>2023-11-09T17:37:20.856Z</updated>
+        <content type="html"><![CDATA[<b>
+				제스타드(주)			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[제 1회 영화인의 밤] 참여 인원 모집]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19695</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19695"/>
+        <updated>2023-11-09T17:37:20.857Z</updated>
+        <content type="html"><![CDATA[<b>
+				(주)위이메인			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제4회 고양무빙이미지페스티벌 상영회 개최]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19694</id>
@@ -108,21 +124,5 @@
         <updated>2023-11-03T05:37:23.272Z</updated>
         <content type="html"><![CDATA[<b>
 				키노캔버스			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제25회 전주국제영화제 1차 스태프 모집 (4개 팀 6개 파트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19680</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19680"/>
-        <updated>2023-11-03T05:37:23.273Z</updated>
-        <content type="html"><![CDATA[<b>
-				전주국제영화제			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<스튜디오 화인컷>에서 컨텐츠 제작을 위한 기획PD를 모집합니다]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19679</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19679"/>
-        <updated>2023-11-02T17:37:39.760Z</updated>
-        <content type="html"><![CDATA[<b>
-				화인컷			</b>]]></content>
     </entry>
 </feed>
