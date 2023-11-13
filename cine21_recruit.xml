@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2023-11-13T05:37:08.506Z</updated>
+    <updated>2023-11-13T17:37:24.491Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[채용] 플러스엠 엔터테인먼트 글로벌사업팀 경력사원 모집 (~11/26 서류 마감)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19698</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19698"/>
+        <updated>2023-11-13T17:37:23.844Z</updated>
+        <content type="html"><![CDATA[<b>
+				플러스엠 엔터테인먼트			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[채용] 2024년 제20회 제천국제음악영화제 전문위원(프로그래머)  채용 공고]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19697</id>
@@ -114,14 +122,6 @@
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19684</id>
         <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19684"/>
         <updated>2023-11-03T05:37:23.269Z</updated>
-        <content type="html"><![CDATA[<b>
-				미디액트			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[미디액트] 프리부터 포스트프로덕션까지 - 프로듀서의 모든 것 (11/16 목 개강!)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19683</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19683"/>
-        <updated>2023-11-03T05:37:23.270Z</updated>
         <content type="html"><![CDATA[<b>
 				미디액트			</b>]]></content>
     </entry>
