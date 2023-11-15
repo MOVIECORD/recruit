@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2023-11-14T17:37:14.134Z</updated>
+    <updated>2023-11-15T05:37:07.834Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[제1회 동국 · 판타지오 드라마 극본 공모전] 모집 공고]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19703</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19703"/>
+        <updated>2023-11-15T05:37:07.151Z</updated>
+        <content type="html"><![CDATA[<b>
+				동국대학교			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[KT&G 상상마당 시네마] 극장 파트타이머 모집]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19702</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19702"/>
+        <updated>2023-11-15T05:37:07.151Z</updated>
+        <content type="html"><![CDATA[<b>
+				키노라이츠			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[비스포크랩] SDH 자막 감수자 (정규직) 채용									댓글+1개]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19700</id>
@@ -108,21 +124,5 @@
         <updated>2023-11-05T17:37:47.309Z</updated>
         <content type="html"><![CDATA[<b>
 				MBC아카데미 문화연출학부			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[서울영상위원회] 11월 창작지원프로그램 <조현병 당사자 이야기> 안내(무료강의)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19687</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19687"/>
-        <updated>2023-11-03T17:37:05.112Z</updated>
-        <content type="html"><![CDATA[<b>
-				서울영상위원회			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[미디액트 시나리오 기초반] 단편영화 시나리오 워크숍 (11/14(화) 개강!!)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19686</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19686"/>
-        <updated>2023-11-03T05:37:23.266Z</updated>
-        <content type="html"><![CDATA[<b>
-				미디액트			</b>]]></content>
     </entry>
 </feed>
