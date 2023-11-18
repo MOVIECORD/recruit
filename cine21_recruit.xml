@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2023-11-17T17:37:21.725Z</updated>
+    <updated>2023-11-18T05:37:32.109Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024년 1월 2일(화) 개최, 독립영화워크숍 입문과정의 공개설명회에 의한 참여 회원 모집									댓글+1개]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19707</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19707"/>
+        <updated>2023-11-18T05:37:31.514Z</updated>
+        <content type="html"><![CDATA[<b>
+				영화공동체			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<씨네21> 객원기자 서류 심사 완료 공지]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19705</id>
@@ -116,13 +124,5 @@
         <updated>2023-11-07T05:37:38.765Z</updated>
         <content type="html"><![CDATA[<b>
 				ALLM			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[KAFA+ 영화인교육] 신기술 트랜드 교류 포럼: 영화제작의 혁신을 이끌 기술, 버추얼 프로덕션]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19690</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19690"/>
-        <updated>2023-11-07T05:37:38.765Z</updated>
-        <content type="html"><![CDATA[<b>
-				KAFA+ 영화인교육			</b>]]></content>
     </entry>
 </feed>
