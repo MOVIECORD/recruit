@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2023-11-21T05:37:28.614Z</updated>
+    <updated>2023-11-21T17:38:58.192Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[티캐스트]씨네큐브 발권 계약직 모집]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19716</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19716"/>
+        <updated>2023-11-21T17:38:57.570Z</updated>
+        <content type="html"><![CDATA[<b>
+				티캐스트			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KAFA 40주년 영화/드라마 창작자들 위한 '포텐 포럼'  (사전접수 ~11/22)]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19715</id>
@@ -116,13 +124,5 @@
         <updated>2023-11-13T17:37:23.844Z</updated>
         <content type="html"><![CDATA[<b>
 				플러스엠 엔터테인먼트			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[채용] 2024년 제20회 제천국제음악영화제 전문위원(프로그래머)  채용 공고]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19697</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19697"/>
-        <updated>2023-11-10T05:37:12.566Z</updated>
-        <content type="html"><![CDATA[<b>
-				제천국제음악영화제			</b>]]></content>
     </entry>
 </feed>
