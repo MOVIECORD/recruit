@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2023-11-25T17:37:06.495Z</updated>
+    <updated>2023-11-26T05:37:13.132Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[끌리는 '장편상업영화' 시나리오 개발을 위한 스터디 팀원 모집 (공모전, 아이템 개발)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19730</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19730"/>
+        <updated>2023-11-26T05:37:12.526Z</updated>
+        <content type="html"><![CDATA[<b>
+				SAT 개발팀			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[서강청년영화제] 제 13회 서강청년영화제가 개최됩니다! (11.27~12.01)]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19729</id>
@@ -116,13 +124,5 @@
         <updated>2023-11-21T17:38:57.570Z</updated>
         <content type="html"><![CDATA[<b>
 				티캐스트			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KAFA 40주년 영화/드라마 창작자들 위한 '포텐 포럼'  (사전접수 ~11/22)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19715</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19715"/>
-        <updated>2023-11-20T17:37:20.884Z</updated>
-        <content type="html"><![CDATA[<b>
-				한국영화아카데미동문회			</b>]]></content>
     </entry>
 </feed>
