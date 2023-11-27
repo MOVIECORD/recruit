@@ -2,9 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2023-11-26T17:37:17.943Z</updated>
+    <updated>2023-11-27T05:37:15.439Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한국영화아카데미의 입학을 위한 포토폴리오 과정이 아닙니다]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19734</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19734"/>
+        <updated>2023-11-27T05:37:14.725Z</updated>
+        <content type="html"><![CDATA[<b>
+				영화공동체			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024년 1월 2일(화) 개최, 독립영화워크숍 입문과정의 공개설명회에 의한 참여 회원 모집									댓글+1개]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19732</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19732"/>
+        <updated>2023-11-27T05:37:14.729Z</updated>
+        <content type="html"><![CDATA[<b>
+				영화공동체			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[서울영상위원회] 12월 창작지원프로그램<변태성욕자들의 조선 그리고 경성>  안내]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19731</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19731"/>
+        <updated>2023-11-27T05:37:14.729Z</updated>
+        <content type="html"><![CDATA[<b>
+				서울영상위원회			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[끌리는 '장편상업영화' 시나리오 개발을 위한 스터디 팀원 모집 (공모전, 아이템 개발)]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19730</id>
@@ -100,29 +124,5 @@
         <updated>2023-11-22T17:37:26.906Z</updated>
         <content type="html"><![CDATA[<b>
 				한국영화성평등센터 든든			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[무주산골영화제] 2024년 제12회 무주산골영화제 사무국 스태프 1차 채용공고]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19718</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19718"/>
-        <updated>2023-11-22T05:37:14.562Z</updated>
-        <content type="html"><![CDATA[<b>
-				무주산골영화제			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 영화제 스크리닝 및 영사 매니저 양성 교육 수강생 모집]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19717</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19717"/>
-        <updated>2023-11-22T05:37:14.563Z</updated>
-        <content type="html"><![CDATA[<b>
-				전주국제영화제			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[티캐스트]씨네큐브 발권 계약직 모집]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19716</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19716"/>
-        <updated>2023-11-21T17:38:57.570Z</updated>
-        <content type="html"><![CDATA[<b>
-				티캐스트			</b>]]></content>
     </entry>
 </feed>
