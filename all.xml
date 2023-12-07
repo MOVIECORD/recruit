@@ -2,8 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-12-06T17:37:41.800Z</updated>
+    <updated>2023-12-07T05:37:12.314Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[씨네큐브 발권업무 아르바이트 모집 (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19760</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19760"/>
+        <updated>2023-12-07T05:37:11.718Z</updated>
+        <content type="html"><![CDATA[<b>
+				씨네큐브			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[*(얼리버드 ~12/7) [아카데미 로카] 영화 비즈니스 취업 준비 과정 34기 in 성수 (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19759</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19759"/>
+        <updated>2023-12-07T05:37:11.725Z</updated>
+        <content type="html"><![CDATA[<b>
+				LOCA			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[류승완, 한준희 감독은 지옥 같은 공동작업으로 입문하였습니다									댓글+1개 (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19757</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19757"/>
+        <updated>2023-12-07T05:37:11.725Z</updated>
+        <content type="html"><![CDATA[<b>
+				영화공동체			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마케팅 에이전시 [프리엠컴퍼니] 신입/경력 팀원을 모집합니다. (씨네21 ─ 영화인 리쿠르트)]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19756</id>
@@ -69,14 +93,6 @@
 				KSI 한국시나리오연구소			</b>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[*교육과정 개편* [아카데미 로카] 영화 비즈니스 취업 준비 과정 34기 in 성수 (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19748</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19748"/>
-        <updated>2023-12-05T05:37:00.219Z</updated>
-        <content type="html"><![CDATA[<b>
-				LOCA			</b>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA['고전 영화 읽고 글쓰기 클럽' 멤버를 모집합니다.(12월 영화: 프랭크 카프라 <멋진 인생>) (씨네21 ─ 영화인 리쿠르트)]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19747</id>
         <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19747"/>
@@ -107,21 +123,5 @@
         <updated>2023-12-05T05:37:00.224Z</updated>
         <content type="html"><![CDATA[<b>
 				무비블록			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[더틱톡] 드라마/예능 홍보대행 2024년 상반기 신입 공고 (~12/12) (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19743</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19743"/>
-        <updated>2023-12-05T05:37:00.226Z</updated>
-        <content type="html"><![CDATA[<b>
-				홍보대행사 더틱톡			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[한국독립영화협회] 제6회 독립영화비평상 공모 (영화평론공모, 상금지급) (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19742</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19742"/>
-        <updated>2023-12-05T05:37:00.227Z</updated>
-        <content type="html"><![CDATA[<b>
-				한국독립영화협회 독립영화비평상 운영위원회			</b>]]></content>
     </entry>
 </feed>
