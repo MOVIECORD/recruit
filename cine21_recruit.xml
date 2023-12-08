@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2023-12-07T17:37:08.414Z</updated>
+    <updated>2023-12-08T05:37:13.493Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<태, 胎> Life Line(1986년 작, 105분) 공동체 상영 안내]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19761</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19761"/>
+        <updated>2023-12-08T05:37:12.835Z</updated>
+        <content type="html"><![CDATA[<b>
+				영화공동체			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[씨네큐브 발권업무 아르바이트 모집]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19760</id>
@@ -14,7 +22,7 @@
 				씨네큐브			</b>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[*(얼리버드 ~12/7) [아카데미 로카] 영화 비즈니스 취업 준비 과정 34기 in 성수]]></title>
+        <title type="html"><![CDATA[*워크숍 프로그램 추가* [아카데미 로카] 영화 비즈니스 취업 준비 과정 34기 in 성수]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19759</id>
         <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19759"/>
         <updated>2023-12-07T05:37:11.725Z</updated>
@@ -116,13 +124,5 @@
         <updated>2023-12-05T05:37:00.222Z</updated>
         <content type="html"><![CDATA[<b>
 				전주국제영화제조직위원회			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[무블크루: 에디터 4기를 모집합니다!]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19744</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19744"/>
-        <updated>2023-12-05T05:37:00.224Z</updated>
-        <content type="html"><![CDATA[<b>
-				무비블록			</b>]]></content>
     </entry>
 </feed>
