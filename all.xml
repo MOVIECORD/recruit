@@ -2,8 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-12-13T05:37:05.869Z</updated>
+    <updated>2023-12-13T17:37:21.976Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[「아몬드」 작가의 「영화인」의 시작									댓글+1개 (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19776</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19776"/>
+        <updated>2023-12-13T17:37:21.331Z</updated>
+        <content type="html"><![CDATA[<b>
+				독립영화협의회			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1월 2일(화) 개최, 독립영화워크숍 입문과정의 공개설명회에 의한 참여 회원 모집									댓글+1개 (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19775</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19775"/>
+        <updated>2023-12-13T17:37:21.338Z</updated>
+        <content type="html"><![CDATA[<b>
+				독립영화협의회			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(12/16 강의) [아카데미 로카] 영화사 취업 설명회 by LOCA (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19774</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19774"/>
+        <updated>2023-12-13T17:37:21.338Z</updated>
+        <content type="html"><![CDATA[<b>
+				LOCA			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[미디액트 강좌] (온라인) 훅 있는 OTT 드라마 시나리오 쓰기 8기 - 1/10(수) 개강!! (씨네21 ─ 영화인 리쿠르트)]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19773</id>
@@ -99,29 +123,5 @@
         <updated>2023-12-07T05:37:11.725Z</updated>
         <content type="html"><![CDATA[<b>
 				LOCA			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[류승완, 한준희 감독은 지옥 같은 공동작업으로 입문하였습니다									댓글+1개 (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19757</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19757"/>
-        <updated>2023-12-07T05:37:11.725Z</updated>
-        <content type="html"><![CDATA[<b>
-				영화공동체			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마케팅 에이전시 [프리엠컴퍼니] 신입/경력 팀원을 모집합니다. (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19756</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19756"/>
-        <updated>2023-12-06T05:37:25.577Z</updated>
-        <content type="html"><![CDATA[<b>
-				프리엠컴퍼니			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['삶을 위한 영화 에세이 쓰기 클럽' 멤버를 모집합니다.(12월 영화: <토니 에드만>) (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19755</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19755"/>
-        <updated>2023-12-05T05:37:00.211Z</updated>
-        <content type="html"><![CDATA[<b>
-				키노캔버스			</b>]]></content>
     </entry>
 </feed>
