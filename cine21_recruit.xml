@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2023-12-17T05:37:35.464Z</updated>
+    <updated>2023-12-17T17:37:02.182Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MBC아카데미] 영화홍보마케팅, 기획, 제작, 투자, 배급, 수입 교육생 모집!! :)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19783</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19783"/>
+        <updated>2023-12-17T17:37:01.602Z</updated>
+        <content type="html"><![CDATA[<b>
+				MBC아카데미 문화연출학부			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[시니어플레이어] 백발소녀단 오디션 공개모집]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19782</id>
@@ -116,13 +124,5 @@
         <updated>2023-12-11T05:37:17.286Z</updated>
         <content type="html"><![CDATA[<b>
 				아카데미 누벨			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<태, 胎> Life Line(1986년 작, 105분) 공동체 상영 안내]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19761</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19761"/>
-        <updated>2023-12-08T05:37:12.835Z</updated>
-        <content type="html"><![CDATA[<b>
-				영화공동체			</b>]]></content>
     </entry>
 </feed>
