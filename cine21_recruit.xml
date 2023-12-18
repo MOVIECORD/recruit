@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2023-12-17T17:37:02.182Z</updated>
+    <updated>2023-12-18T05:37:06.373Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[아카데미 로카] <영화 비즈니스 입문 54기 ONLINE> 오픈! (얼리버드 ~ 12/25)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19784</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19784"/>
+        <updated>2023-12-18T05:37:05.765Z</updated>
+        <content type="html"><![CDATA[<b>
+				LOCA			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[MBC아카데미] 영화홍보마케팅, 기획, 제작, 투자, 배급, 수입 교육생 모집!! :)]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19783</id>
@@ -116,13 +124,5 @@
         <updated>2023-12-11T17:37:33.295Z</updated>
         <content type="html"><![CDATA[<b>
 				KAFA+ 영화인교육			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[아카데미 누벨] 영상번역_입문반 1기]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19765</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19765"/>
-        <updated>2023-12-11T05:37:17.286Z</updated>
-        <content type="html"><![CDATA[<b>
-				아카데미 누벨			</b>]]></content>
     </entry>
 </feed>
