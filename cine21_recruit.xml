@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2023-12-20T05:37:08.099Z</updated>
+    <updated>2023-12-20T17:37:22.238Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(주)올스타엔터테인먼트 영화 마케팅 경력직 모집 공고]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19786</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19786"/>
+        <updated>2023-12-20T17:37:21.621Z</updated>
+        <content type="html"><![CDATA[<b>
+				(주)올스타엔터테인먼트			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전북전주 영화·영상산업 특화도시로의 도약을 위한 디지털 미디어테크(K-media) 산업 육성을 위한 포럼 개…]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19785</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19785"/>
+        <updated>2023-12-20T17:37:21.622Z</updated>
+        <content type="html"><![CDATA[<b>
+				(재)전주정보문화산업진흥원			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[아카데미 로카] <영화 비즈니스 입문 54기 ONLINE> 오픈! (얼리버드 ~ 12/25)]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19784</id>
@@ -108,21 +124,5 @@
         <updated>2023-12-12T17:37:24.951Z</updated>
         <content type="html"><![CDATA[<b>
 				미디액			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[청년일도약 우대 모집] 무비앤아이 영화 홍보 마케팅 신입 모집]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19767</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19767"/>
-        <updated>2023-12-11T17:37:33.295Z</updated>
-        <content type="html"><![CDATA[<b>
-				[무비앤아이]			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023년 KAFA+영화인교육 성과보고회 & 네트워킹 데이]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19766</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19766"/>
-        <updated>2023-12-11T17:37:33.295Z</updated>
-        <content type="html"><![CDATA[<b>
-				KAFA+ 영화인교육			</b>]]></content>
     </entry>
 </feed>
