@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2023-12-25T17:37:21.681Z</updated>
+    <updated>2023-12-26T05:37:16.061Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[일어영상번역, 입문반 1기 모집]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19801</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19801"/>
+        <updated>2023-12-26T05:37:15.312Z</updated>
+        <content type="html"><![CDATA[<b>
+				아카데미 누밸			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[든든] 1월 영상산업 내 성폭력 예방교육 안내(1월 11일 목요일 진행)]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19791</id>
@@ -113,14 +121,6 @@
         <title type="html"><![CDATA[[미디액트 강좌] 영상과 대담의 형식으로 시쓰기 - 1/10(수) 개강!!]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19772</id>
         <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19772"/>
-        <updated>2023-12-12T17:37:24.947Z</updated>
-        <content type="html"><![CDATA[<b>
-				미디액트			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[미디액트 강좌] 4일 동안 가능한 극영화 만들기 - 1/6(토) 개강!!]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19771</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19771"/>
         <updated>2023-12-12T17:37:24.947Z</updated>
         <content type="html"><![CDATA[<b>
 				미디액트			</b>]]></content>
