@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2023-12-30T05:37:17.094Z</updated>
+    <updated>2023-12-30T17:37:03.160Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[배재대학교 영화영상트랙 정시모집합니다.]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19821</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19821"/>
+        <updated>2023-12-30T17:37:02.573Z</updated>
+        <content type="html"><![CDATA[<b>
+				배재대학교 공연예술학과			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[*강의 오픈 확정 [아카데미 로카] 영화 비즈니스 취업 준비 과정 34기 in 성수]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19819</id>
@@ -114,14 +122,6 @@
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19803</id>
         <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19803"/>
         <updated>2023-12-26T17:37:05.005Z</updated>
-        <content type="html"><![CDATA[<b>
-				미디액트			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[미디액트 강좌] 연출가를 위한 배우디렉팅 - 1/13(토) 개강!!]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19802</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19802"/>
-        <updated>2023-12-26T17:37:05.007Z</updated>
         <content type="html"><![CDATA[<b>
 				미디액트			</b>]]></content>
     </entry>
