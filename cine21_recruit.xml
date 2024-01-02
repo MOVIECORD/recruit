@@ -2,9 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2024-01-02T05:37:07.709Z</updated>
+    <updated>2024-01-02T17:53:45.236Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 & OTT 콘텐츠 마케팅 대행사 (주)올댓시네마 신입 및 경력직원 채용공고]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19829</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19829"/>
+        <updated>2024-01-02T17:53:44.635Z</updated>
+        <content type="html"><![CDATA[<b>
+				(주)올댓시네마			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[무주산골영화제] 2024년 제12회 무주산골영화제 사무국 스태프 2차 채용공고]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19828</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19828"/>
+        <updated>2024-01-02T17:53:44.635Z</updated>
+        <content type="html"><![CDATA[<b>
+				(재)무주산골문화재단			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[비스포크랩] SDH 자막 감수자 (정규직) 채용]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19826</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19826"/>
+        <updated>2024-01-02T17:53:44.636Z</updated>
+        <content type="html"><![CDATA[<b>
+				비스포크랩 주식회사			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[비스포크랩] 자막 프로젝트 매니저 정규직 채용									댓글+1개]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19825</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19825"/>
+        <updated>2024-01-02T17:53:44.637Z</updated>
+        <content type="html"><![CDATA[<b>
+				비스포크랩 주식회사			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[엔케이컨텐츠] 해외팀 직원을 모집합니다 ( ~ 1/14 )]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19824</id>
@@ -92,37 +124,5 @@
         <updated>2023-12-27T17:37:33.193Z</updated>
         <content type="html"><![CDATA[<b>
 				독립영화협의회			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[미디액트 강좌] 영상 기술, 궁극의 기초 (2/17 개강!!)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19809</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19809"/>
-        <updated>2023-12-26T17:37:05.000Z</updated>
-        <content type="html"><![CDATA[<b>
-				미디액트			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[미디액트 강좌] 8일 완성! 다큐멘터리 제작 - 2/14(수) 개강!!]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19808</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19808"/>
-        <updated>2023-12-26T17:37:05.003Z</updated>
-        <content type="html"><![CDATA[<b>
-				미디액트			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[미디액트 강좌] [영화 기본기] 영화를 구성하는 핵심 기둥들 - 2/7(수) 개강!!]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19807</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19807"/>
-        <updated>2023-12-26T17:37:05.003Z</updated>
-        <content type="html"><![CDATA[<b>
-				미디액트			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[미디액트 강좌] 이틀만에 조명 기초 다지기 - 빛과 친해지기 - 2/3(토) 개강!]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19806</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19806"/>
-        <updated>2023-12-26T17:37:05.003Z</updated>
-        <content type="html"><![CDATA[<b>
-				미디액트			</b>]]></content>
     </entry>
 </feed>
