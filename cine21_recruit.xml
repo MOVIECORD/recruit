@@ -2,9 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2024-01-03T17:37:11.727Z</updated>
+    <updated>2024-01-04T05:37:10.113Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[웹스크리에이티브] 2024년 경력 /신입 채용공고입니다.]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19835</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19835"/>
+        <updated>2024-01-04T05:37:09.492Z</updated>
+        <content type="html"><![CDATA[<b>
+				웹스크리에이티브			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[아카데미 로카] <영화 비즈니스 입문 54기 ONLINE> 오픈!]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19834</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19834"/>
+        <updated>2024-01-04T05:37:09.492Z</updated>
+        <content type="html"><![CDATA[<b>
+				LOCA			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[키노라이츠] 영상 편집 분야 모집 (계약직)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19833</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19833"/>
+        <updated>2024-01-04T05:37:09.493Z</updated>
+        <content type="html"><![CDATA[<b>
+				키노라이츠			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['삶을 위한 영화 에세이 쓰기 클럽' 멤버를 모집합니다.(1월 영화: 올리비에 아사야스 <논-픽션>)]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19832</id>
@@ -100,29 +124,5 @@
         <updated>2023-12-29T05:37:23.399Z</updated>
         <content type="html"><![CDATA[<b>
 				LOCA			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시나리오작가 지망생을 위한 [영상작가전문교육원] 63기 수강생 모집 (접수마감:2024/01/31)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19818</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19818"/>
-        <updated>2023-12-29T05:37:23.400Z</updated>
-        <content type="html"><![CDATA[<b>
-				(사) 한국시나리오작가협회			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[독립영화 제작/배급사 [시네마 달] 해외배급팀 신입 및 경력사원 모집]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19817</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19817"/>
-        <updated>2023-12-28T05:36:58.808Z</updated>
-        <content type="html"><![CDATA[<b>
-				시네마 달			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[예술영화관 아트하우스 모모 현장운영 직원 모집]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19816</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19816"/>
-        <updated>2023-12-27T17:37:33.188Z</updated>
-        <content type="html"><![CDATA[<b>
-				(주)영화사백두대간			</b>]]></content>
     </entry>
 </feed>
