@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2024-01-05T05:37:23.130Z</updated>
+    <updated>2024-01-05T17:37:34.852Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[키노라이츠가 뉴미디어 크리에이터를 찾습니다! OTT / 영화 / 드라마 요약영상 공모전]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19840</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19840"/>
+        <updated>2024-01-05T17:37:34.248Z</updated>
+        <content type="html"><![CDATA[<b>
+				키노라이츠			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[씨네21 콘텐츠 DB 담당자 모집]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19837</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19837"/>
+        <updated>2024-01-05T17:37:34.252Z</updated>
+        <content type="html"><![CDATA[<b>
+				씨네21			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제25회 전주국제영화제 3차 스태프 모집]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19836</id>
@@ -108,21 +124,5 @@
         <updated>2024-01-02T05:37:07.103Z</updated>
         <content type="html"><![CDATA[<b>
 				영화사 하늘			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[클라이맥스 스튜디오에서 함께 할 인턴 사원을 모집합니다]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19822</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19822"/>
-        <updated>2024-01-02T05:37:07.103Z</updated>
-        <content type="html"><![CDATA[<b>
-				클라이맥스스튜디오			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배재대학교 영화영상트랙 정시모집합니다.]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19821</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19821"/>
-        <updated>2023-12-30T17:37:02.573Z</updated>
-        <content type="html"><![CDATA[<b>
-				배재대학교 공연예술학과			</b>]]></content>
     </entry>
 </feed>
