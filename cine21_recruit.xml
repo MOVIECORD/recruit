@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2024-01-09T05:37:13.971Z</updated>
+    <updated>2024-01-09T17:37:25.340Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[키노라이츠] 콘텐츠 분야 인턴 모집]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19847</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19847"/>
+        <updated>2024-01-09T17:37:24.744Z</updated>
+        <content type="html"><![CDATA[<b>
+				키노라이츠			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[글로벌 콘텐츠 제작사 WOW POINT에서 재경/경영지원 사원을 모집합니다.]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19845</id>
@@ -116,13 +124,5 @@
         <updated>2024-01-03T17:37:11.175Z</updated>
         <content type="html"><![CDATA[<b>
 				주식회사 구십구도씨			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 & OTT 콘텐츠 마케팅 대행사 (주)올댓시네마 신입 및 경력직원 채용공고]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19829</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19829"/>
-        <updated>2024-01-02T17:53:44.635Z</updated>
-        <content type="html"><![CDATA[<b>
-				(주)올댓시네마			</b>]]></content>
     </entry>
 </feed>
