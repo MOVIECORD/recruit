@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2024-01-11T05:37:35.930Z</updated>
+    <updated>2024-01-11T17:37:23.949Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[독립영화 제작/배급사 [시네마 달] 해외배급팀 신입 및 경력사원 모집 (채용 시 마감)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19853</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19853"/>
+        <updated>2024-01-11T17:37:23.385Z</updated>
+        <content type="html"><![CDATA[<b>
+				시네마 달			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[비스포크랩] 자막 프로젝트 매니저 정규직 채용									댓글+1개]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19851</id>
@@ -116,13 +124,5 @@
         <updated>2024-01-04T05:37:09.492Z</updated>
         <content type="html"><![CDATA[<b>
 				웹스크리에이티브			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[아카데미 로카] <영화 비즈니스 입문 54기 ONLINE> 오픈!]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19834</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19834"/>
-        <updated>2024-01-04T05:37:09.492Z</updated>
-        <content type="html"><![CDATA[<b>
-				LOCA			</b>]]></content>
     </entry>
 </feed>
