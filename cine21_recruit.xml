@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2024-01-12T05:37:07.565Z</updated>
+    <updated>2024-01-12T17:37:12.080Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[채용] 2024년도 제20회 제천국제음악영화제 1차 스태프 모집 공고]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19856</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19856"/>
+        <updated>2024-01-12T17:37:11.474Z</updated>
+        <content type="html"><![CDATA[<b>
+				사단법인제천국제음악영화제			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024년 CaFF영화제작워크숍 12기 수강생 모집]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19855</id>
@@ -14,12 +22,12 @@
 				가톨릭영화제			</b>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[출판, 편집 채용공고]]></title>
+        <title type="html"><![CDATA[마인드마크 (신세계그룹사) 출판, 편집 채용공고]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19854</id>
         <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19854"/>
         <updated>2024-01-12T05:37:06.903Z</updated>
         <content type="html"><![CDATA[<b>
-				(주)마인드마크                (신세계그룹사)			</b>]]></content>
+				(주)마인드마크			</b>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[독립영화 제작/배급사 [시네마 달] 해외배급팀 신입 및 경력사원 모집 (채용 시 마감)]]></title>
@@ -116,13 +124,5 @@
         <updated>2024-01-05T17:37:34.248Z</updated>
         <content type="html"><![CDATA[<b>
 				키노라이츠			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[서류마감] 씨네21 콘텐츠 DB 담당자 모집]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19837</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19837"/>
-        <updated>2024-01-05T17:37:34.252Z</updated>
-        <content type="html"><![CDATA[<b>
-				씨네21			</b>]]></content>
     </entry>
 </feed>
