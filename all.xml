@@ -2,8 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-01-15T05:37:35.502Z</updated>
+    <updated>2024-01-15T17:37:05.483Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[부천 스토리텔링 아카데미] 학생 모집 (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19862</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19862"/>
+        <updated>2024-01-15T17:37:04.878Z</updated>
+        <content type="html"><![CDATA[<b>
+				부천 유네스코 문학창의도시			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[서울국제여성영화제] 2024 '필름X젠더' 단편영화 제작지원 공모 (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19861</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19861"/>
+        <updated>2024-01-15T17:37:04.880Z</updated>
+        <content type="html"><![CDATA[<b>
+				서울국제여성영화제			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[아카데미 로카] <영화사 취업 설명회 by LOCA> 오픈! (씨네21 ─ 영화인 리쿠르트)]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19860</id>
@@ -61,7 +77,7 @@
 				(주)마인드마크			</b>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[독립영화 제작/배급사 [시네마 달] 해외배급팀 신입 및 경력사원 모집 (채용 시 마감) (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <title type="html"><![CDATA[(채용마감) 독립영화 제작/배급사 [시네마 달] 해외배급팀 신입 및 경력사원 모집 (채용 시 마감) (씨네21 ─ 영화인 리쿠르트)]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19853</id>
         <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19853"/>
         <updated>2024-01-11T17:37:23.385Z</updated>
@@ -107,21 +123,5 @@
         <updated>2024-01-09T17:37:24.744Z</updated>
         <content type="html"><![CDATA[<b>
 				키노라이츠			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[글로벌 콘텐츠 제작사 WOW POINT에서 재경/경영지원 사원을 모집합니다. (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19845</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19845"/>
-        <updated>2024-01-08T17:37:11.635Z</updated>
-        <content type="html"><![CDATA[<b>
-				WOW POINT			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NCH 국내 프로젝트 매니저(PM) (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19844</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19844"/>
-        <updated>2024-01-08T05:37:17.193Z</updated>
-        <content type="html"><![CDATA[<b>
-				넥서스			</b>]]></content>
     </entry>
 </feed>
