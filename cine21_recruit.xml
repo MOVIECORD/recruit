@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2024-01-26T05:37:00.901Z</updated>
+    <updated>2024-01-26T17:37:11.507Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[Wservices(왓챠 자회사)] 검수 아르바이트를 모집합니다]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19888</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19888"/>
+        <updated>2024-01-26T17:37:10.916Z</updated>
+        <content type="html"><![CDATA[<b>
+				Wservices			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한국영화아카데미의 입학을 위한 포토폴리오 과정이 아닙니다]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19887</id>
@@ -116,13 +124,5 @@
         <updated>2024-01-22T05:37:51.920Z</updated>
         <content type="html"><![CDATA[<b>
 							</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[모집] 답십리영화미디어아트센터 2024년도 프로그램 전문가풀 모집 공고]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19870</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19870"/>
-        <updated>2024-01-19T17:37:07.884Z</updated>
-        <content type="html"><![CDATA[<b>
-				답십리영화미디어아트센터			</b>]]></content>
     </entry>
 </feed>
