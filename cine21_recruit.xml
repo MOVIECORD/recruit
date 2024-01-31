@@ -2,9 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2024-01-31T05:37:04.061Z</updated>
+    <updated>2024-01-31T17:37:05.932Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[채용] 플러스엠 엔터테인먼트 콘텐트담당 '인턴' 모집 (~02/12 서류 마감)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19906</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19906"/>
+        <updated>2024-01-31T17:37:05.336Z</updated>
+        <content type="html"><![CDATA[<b>
+				플러스엠 엔터테인먼트			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['고전 영화 읽고 글쓰기 클럽' 멤버를 모집합니다.(2월 영화: 압바스 키아로스타미 <체리향기>)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19905</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19905"/>
+        <updated>2024-01-31T17:37:05.337Z</updated>
+        <content type="html"><![CDATA[<b>
+				키노캔버스			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['삶을 위한 영화 에세이 쓰기 클럽' 멤버를 모집합니다.(2월 영화: <칠드런 액트>)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19904</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19904"/>
+        <updated>2024-01-31T17:37:05.337Z</updated>
+        <content type="html"><![CDATA[<b>
+				키노캔버스			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[경기 스토리작가 창작소 고양 5기·파주 6기 참여작가 모집]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19903</id>
@@ -98,30 +122,6 @@
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19882</id>
         <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19882"/>
         <updated>2024-01-24T17:38:02.836Z</updated>
-        <content type="html"><![CDATA[<b>
-				미디액트			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[미디액트 강좌] [온오프/기초반] 단편 영화 시나리오 워크숍 12기 - 2/20(목) 개강!!]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19881</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19881"/>
-        <updated>2024-01-24T17:38:02.838Z</updated>
-        <content type="html"><![CDATA[<b>
-				미디액트			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[미디액트 강좌] 아티스트 필름&비디오 Ⅲ - 3/30(토) 개강!!]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19880</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19880"/>
-        <updated>2024-01-24T05:37:47.772Z</updated>
-        <content type="html"><![CDATA[<b>
-				미디액트			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[미디액트 강좌] 하루만에 배우는 촬영/조명 기초 - 2/18(일) 개강!!]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19879</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19879"/>
-        <updated>2024-01-24T05:37:47.772Z</updated>
         <content type="html"><![CDATA[<b>
 				미디액트			</b>]]></content>
     </entry>
