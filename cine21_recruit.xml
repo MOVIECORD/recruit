@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2024-02-02T17:37:13.688Z</updated>
+    <updated>2024-02-03T05:37:08.356Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[상업적인 시나리오 개발을 위한 스터디 팀원 모집 (아이템 개발, 공모전 준비 등)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19913</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19913"/>
+        <updated>2024-02-03T05:37:07.762Z</updated>
+        <content type="html"><![CDATA[<b>
+				SAT 개발팀			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화사 홀리가든에서 2024년 상반기 신입/경력사원을 모집합니다.]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19912</id>
@@ -116,13 +124,5 @@
         <updated>2024-01-29T05:37:39.797Z</updated>
         <content type="html"><![CDATA[<b>
 				넥서스			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[아카데미 로카] 영화 비즈니스 취업 준비 과정 35기 in 성수 오픈!]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19890</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19890"/>
-        <updated>2024-01-29T05:37:39.802Z</updated>
-        <content type="html"><![CDATA[<b>
-				LOCA			</b>]]></content>
     </entry>
 </feed>
