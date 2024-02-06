@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MOVIECORD.github.io/recruit/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-02-06T05:37:35.910Z</updated>
+    <updated>2024-02-06T17:37:26.768Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[티빙, 파라마운트+ 마케팅 에이전시 (주)구십구도씨 기획 AE 채용 공고 (씨네21 ─ 영화인 리쿠르트)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19919</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19919"/>
+        <updated>2024-02-06T17:37:26.176Z</updated>
+        <content type="html"><![CDATA[<b>
+				주식회사 구십구도씨			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[아카데미 로카] 영화 비즈니스 입문 55기 ONLINE 오픈! (씨네21 ─ 영화인 리쿠르트)]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19918</id>
@@ -115,13 +123,5 @@
         <updated>2024-01-31T17:37:05.337Z</updated>
         <content type="html"><![CDATA[<b>
 				키노캔버스			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경기 스토리작가 창작소 고양 5기·파주 6기 참여작가 모집 (씨네21 ─ 영화인 리쿠르트)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19903</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19903"/>
-        <updated>2024-01-30T17:37:02.164Z</updated>
-        <content type="html"><![CDATA[<b>
-				한국영화프로듀서조합			</b>]]></content>
     </entry>
 </feed>
