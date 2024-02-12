@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2024-02-12T05:37:56.275Z</updated>
+    <updated>2024-02-12T17:37:30.221Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화/OTT 디지털 마케팅 신입 채용-절찬상영중]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19940</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19940"/>
+        <updated>2024-02-12T17:37:29.476Z</updated>
+        <content type="html"><![CDATA[<b>
+				주식회사 절찬상영중			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 팟캐스트 <시네마약>에서 24년 신규 멤버를 모집합니다!]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19939</id>
@@ -116,13 +124,5 @@
         <updated>2024-02-06T17:37:26.176Z</updated>
         <content type="html"><![CDATA[<b>
 				주식회사 구십구도씨			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[아카데미 로카] 영화 비즈니스 입문 55기 ONLINE 오픈!]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19918</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19918"/>
-        <updated>2024-02-06T05:37:35.337Z</updated>
-        <content type="html"><![CDATA[<b>
-				LOCA			</b>]]></content>
     </entry>
 </feed>
