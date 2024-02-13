@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2024-02-13T05:38:53.042Z</updated>
+    <updated>2024-02-13T17:37:11.389Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[W SERVICES(왓챠 자회사) 일본 콘텐츠 검수 아르바이트 채용]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19942</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19942"/>
+        <updated>2024-02-13T17:37:10.811Z</updated>
+        <content type="html"><![CDATA[<b>
+				Wservices			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(주)퍼스트런에서 마케팅사업부 신입 및 경력사원을 모십니다.]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19941</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19941"/>
+        <updated>2024-02-13T17:37:10.814Z</updated>
+        <content type="html"><![CDATA[<b>
+				(주)퍼스트런			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화/OTT 디지털 마케팅 신입 채용-절찬상영중]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19940</id>
@@ -108,21 +124,5 @@
         <updated>2024-02-07T05:37:03.786Z</updated>
         <content type="html"><![CDATA[<b>
 				영화공동체			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마케팅 에이전시 [프리엠컴퍼니] 신입/경력 팀원을 모집합니다.]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19920</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19920"/>
-        <updated>2024-02-07T05:37:03.787Z</updated>
-        <content type="html"><![CDATA[<b>
-				프리엠컴퍼니			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[티빙, 파라마운트+ 마케팅 에이전시 (주)구십구도씨 기획 AE 채용 공고]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19919</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19919"/>
-        <updated>2024-02-06T17:37:26.176Z</updated>
-        <content type="html"><![CDATA[<b>
-				주식회사 구십구도씨			</b>]]></content>
     </entry>
 </feed>
