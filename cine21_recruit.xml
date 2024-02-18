@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2024-02-17T17:37:27.428Z</updated>
+    <updated>2024-02-18T05:37:29.776Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["영화로부터 도망칠 수 있는 가장 마지막 기회"									댓글+1개]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19954</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19954"/>
+        <updated>2024-02-18T05:37:29.085Z</updated>
+        <content type="html"><![CDATA[<b>
+				영화공동체			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2월 27일(화) 개최, 독립영화워크숍 입문과정의 공개설명회에 의한 참여 회원 모집									댓글+1개]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19952</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19952"/>
+        <updated>2024-02-18T05:37:29.087Z</updated>
+        <content type="html"><![CDATA[<b>
+				영화공동체			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제12회 서울국제어린이영화제 1차 스태프 채용]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19951</id>
@@ -108,21 +124,5 @@
         <updated>2024-02-08T17:37:26.304Z</updated>
         <content type="html"><![CDATA[<b>
 				시네마약			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[에무시네마 배급] 팀원 모집합니다.]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19936</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19936"/>
-        <updated>2024-02-08T17:37:26.307Z</updated>
-        <content type="html"><![CDATA[<b>
-				에무시네마			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2024 상생 프로젝트] 영화제 기술 업무 지원 프로젝트]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19935</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19935"/>
-        <updated>2024-02-08T17:37:26.307Z</updated>
-        <content type="html"><![CDATA[<b>
-				주식회사 포스트핀			</b>]]></content>
     </entry>
 </feed>
