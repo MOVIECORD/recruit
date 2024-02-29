@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2024-02-29T05:37:01.791Z</updated>
+    <updated>2024-02-29T17:37:16.841Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[든든] 3월 영상산업 내 성폭력 예방교육 안내(3월 14일/3월 28일 목요일 진행)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19977</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19977"/>
+        <updated>2024-02-29T17:37:16.191Z</updated>
+        <content type="html"><![CDATA[<b>
+				한국영화성평등센터 든든			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Plus M 엔터테인먼트 콘텐트담당 경력사원 공개 채용 (~03/14 서류 마감)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19976</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19976"/>
+        <updated>2024-02-29T17:37:16.193Z</updated>
+        <content type="html"><![CDATA[<b>
+				플러스엠 엔터테인먼트			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[비스포크랩] 영한 자막 감수자 정규직 채용]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19975</id>
@@ -108,21 +124,5 @@
         <updated>2024-02-19T17:37:05.855Z</updated>
         <content type="html"><![CDATA[<b>
 				WATCHA			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 부산신진작가 기획개발 멘토링 창작자 모집]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19961</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19961"/>
-        <updated>2024-02-19T17:37:05.865Z</updated>
-        <content type="html"><![CDATA[<b>
-				부산영상위원회			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[공모] 2024년 상반기 <제25회 필름게이트> 공모(~3.17)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19960</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19960"/>
-        <updated>2024-02-19T17:37:05.865Z</updated>
-        <content type="html"><![CDATA[<b>
-				신영균예술문화재단			</b>]]></content>
     </entry>
 </feed>
