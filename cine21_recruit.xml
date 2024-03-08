@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2024-03-07T17:37:11.253Z</updated>
+    <updated>2024-03-08T05:36:56.570Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024년 서울시뉴딜「영화 유통배급 전문가 양성 및 배치사업」협력사업장 및 참여자 모집]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=20011</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=20011"/>
+        <updated>2024-03-08T05:36:55.966Z</updated>
+        <content type="html"><![CDATA[<b>
+				(사)한국영상미디어교육협회			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[서울국제노인영화제] 제16회 서울국제노인영화제 트레일러 공모(~3/20)]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=20010</id>
@@ -27,7 +35,7 @@
         <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=20008"/>
         <updated>2024-03-07T05:36:56.899Z</updated>
         <content type="html"><![CDATA[<b>
-							</b>]]></content>
+				LOCA			</b>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[채용] 2024년도 제20회 제천국제음악영화제 3차 스태프 모집 공고]]></title>
@@ -116,13 +124,5 @@
         <updated>2024-03-04T17:37:12.495Z</updated>
         <content type="html"><![CDATA[<b>
 				(주)엔케이컨텐츠			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오!재미동] 생활드로잉 강좌 <영화를 그리는 시간> 수강생 모집중]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19992</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19992"/>
-        <updated>2024-03-04T06:05:39.409Z</updated>
-        <content type="html"><![CDATA[<b>
-				오!재미동			</b>]]></content>
     </entry>
 </feed>
