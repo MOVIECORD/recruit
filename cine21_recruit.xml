@@ -2,9 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2024-03-08T05:36:56.570Z</updated>
+    <updated>2024-03-08T17:37:23.552Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[JIMFF2024] 제20회 제천국제음악영화제 음악영화 출품 공모 (~5.24)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=20014</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=20014"/>
+        <updated>2024-03-08T17:37:22.902Z</updated>
+        <content type="html"><![CDATA[<b>
+				(사)제천국제음악영화제			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[MBC아카데미] 영화 기획, 제작, 홍보마케팅, 예고편, 포스터, 투자, 배급, 수입 실무 교육생 모집!!]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=20013</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=20013"/>
+        <updated>2024-03-08T17:37:22.903Z</updated>
+        <content type="html"><![CDATA[<b>
+				MBC아카데미			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[EIDF2024] 제21회 EBS국제다큐영화제 스태프 채용 공고(프로그램/디자인마케팅)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=20012</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=20012"/>
+        <updated>2024-03-08T17:37:22.903Z</updated>
+        <content type="html"><![CDATA[<b>
+				한국교육방송공사			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024년 서울시뉴딜「영화 유통배급 전문가 양성 및 배치사업」협력사업장 및 참여자 모집]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=20011</id>
@@ -100,29 +124,5 @@
         <updated>2024-03-04T17:37:12.492Z</updated>
         <content type="html"><![CDATA[<b>
 				MBC아카데미			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PDFF] 제25회 가치봄영화제 사전제작지원 공모 안내]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19995</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19995"/>
-        <updated>2024-03-04T17:37:12.492Z</updated>
-        <content type="html"><![CDATA[<b>
-				(사)한국농아인협회			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PDFF] 제25회 가치봄영화제 경쟁부문 출품 안내]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19994</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19994"/>
-        <updated>2024-03-04T17:37:12.494Z</updated>
-        <content type="html"><![CDATA[<b>
-				(사)한국농아인협회			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[엔케이컨텐츠] 마케팅팀 직원을 모집합니다 ( ~ 3/17 )]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19993</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=19993"/>
-        <updated>2024-03-04T17:37:12.495Z</updated>
-        <content type="html"><![CDATA[<b>
-				(주)엔케이컨텐츠			</b>]]></content>
     </entry>
 </feed>
