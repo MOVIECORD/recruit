@@ -2,9 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2024-03-12T05:36:54.681Z</updated>
+    <updated>2024-03-12T17:37:38.687Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[청년일도약 우대 모집] 무비앤아이 영화 홍보 마케팅 신입 모집]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=20023</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=20023"/>
+        <updated>2024-03-12T17:37:38.095Z</updated>
+        <content type="html"><![CDATA[<b>
+				무비앤아이			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[아카데미 누벨] 영상번역가 교육생 모집]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=20022</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=20022"/>
+        <updated>2024-03-12T17:37:38.095Z</updated>
+        <content type="html"><![CDATA[<b>
+				아카데미 누벨			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[(주)그룹에이트] 드라마 기획 서포터즈 모집]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=20020</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=20020"/>
+        <updated>2024-03-12T17:37:38.096Z</updated>
+        <content type="html"><![CDATA[<b>
+				㈜크리에이티브리더스그룹에이트			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[DMZ국제다큐멘터리영화제] 코리안 POV 2024 프로젝트 공모 안내]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=20019</id>
@@ -100,29 +124,5 @@
         <updated>2024-03-07T05:36:56.899Z</updated>
         <content type="html"><![CDATA[<b>
 				LOCA			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[채용] 2024년도 제20회 제천국제음악영화제 3차 스태프 모집 공고]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=20007</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=20007"/>
-        <updated>2024-03-07T05:36:56.899Z</updated>
-        <content type="html"><![CDATA[<b>
-				(사)제천국제음악영화제			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[로카] <영화 비즈니스 입문 55기 ONLINE> 강의 오픈!]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=20006</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=20006"/>
-        <updated>2024-03-07T05:36:56.900Z</updated>
-        <content type="html"><![CDATA[<b>
-				LOCA			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산국제단편영화제] 제 41회 BISFF 자원활동가 모집 (~3/17)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=20005</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=20005"/>
-        <updated>2024-03-06T17:38:47.194Z</updated>
-        <content type="html"><![CDATA[<b>
-				부산국제단편영화제			</b>]]></content>
     </entry>
 </feed>
