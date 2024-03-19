@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2024-03-19T05:37:29.951Z</updated>
+    <updated>2024-03-19T17:37:40.244Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제3회 하나뿐인 지구영상제 출품 공모(~4/30)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=20045</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=20045"/>
+        <updated>2024-03-19T17:37:39.607Z</updated>
+        <content type="html"><![CDATA[<b>
+				하나뿐인 지구영상제			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[MBC아카데미] 영화 기획, 제작, 홍보마케팅, 예고편, 포스터, 투자, 배급, 수입 실무 교육생 모집!!]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=20044</id>
@@ -114,14 +122,6 @@
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=20029</id>
         <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=20029"/>
         <updated>2024-03-13T05:36:59.957Z</updated>
-        <content type="html"><![CDATA[<b>
-				영화공동체			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["영화로부터 도망칠 수 있는 가장 마지막 기회"									댓글+2개]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=20026</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=20026"/>
-        <updated>2024-03-13T05:36:59.958Z</updated>
         <content type="html"><![CDATA[<b>
 				영화공동체			</b>]]></content>
     </entry>
