@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2024-03-27T05:36:58.742Z</updated>
+    <updated>2024-03-27T17:37:24.127Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[경기 스토리작가 창작소 고양 5기 참여작가 추가 모집]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=20064</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=20064"/>
+        <updated>2024-03-27T17:37:23.458Z</updated>
+        <content type="html"><![CDATA[<b>
+				PGK			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[아카데미 로카] <영화사 취업 설명회 by LOCA> 오픈!]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=20063</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=20063"/>
+        <updated>2024-03-27T17:37:23.459Z</updated>
+        <content type="html"><![CDATA[<b>
+				LOCA			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024년 상반기 전주 영화 후반제작지원사업 공고]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=20061</id>
@@ -108,21 +124,5 @@
         <updated>2024-03-22T05:37:22.660Z</updated>
         <content type="html"><![CDATA[<b>
 				아카데미 누벨			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[영화사 하늘]홍보/마케팅 신입 및 경력 채용 공고]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=20047</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=20047"/>
-        <updated>2024-03-21T17:37:39.214Z</updated>
-        <content type="html"><![CDATA[<b>
-				영화사 하늘			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 울산울주세계산악영화제 2차 스태프 모집 공고(~4/4)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=20046</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=20046"/>
-        <updated>2024-03-21T17:37:39.214Z</updated>
-        <content type="html"><![CDATA[<b>
-				울산울주세계산악영화제			</b>]]></content>
     </entry>
 </feed>
