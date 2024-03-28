@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2024-03-27T17:37:24.127Z</updated>
+    <updated>2024-03-28T05:37:19.371Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[시나리오, 드라마, OTT를 쓰는 작가입니다.]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=20065</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=20065"/>
+        <updated>2024-03-28T05:37:18.750Z</updated>
+        <content type="html"><![CDATA[<b>
+							</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[경기 스토리작가 창작소 고양 5기 참여작가 추가 모집]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=20064</id>
@@ -116,13 +124,5 @@
         <updated>2024-03-22T17:37:03.064Z</updated>
         <content type="html"><![CDATA[<b>
 				미디액트			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[아카데미 누벨] 영상번역가 교육생 모집(일어, 중국어, 한영)]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=20048</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=20048"/>
-        <updated>2024-03-22T05:37:22.660Z</updated>
-        <content type="html"><![CDATA[<b>
-				아카데미 누벨			</b>]]></content>
     </entry>
 </feed>
