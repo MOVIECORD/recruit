@@ -2,9 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2024-03-29T05:37:01.163Z</updated>
+    <updated>2024-03-29T17:38:53.905Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[든든] 4월 영상산업 내 성폭력 예방교육 안내(4월 18일/4월 25일 목요일 진행)]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=20073</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=20073"/>
+        <updated>2024-03-29T17:38:53.278Z</updated>
+        <content type="html"><![CDATA[<b>
+				한국영화성평등센터 든든			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[비스포크랩] 영한 자막 프로젝트 매니저 정규직 채용									댓글+1개]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=20071</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=20071"/>
+        <updated>2024-03-29T17:38:53.278Z</updated>
+        <content type="html"><![CDATA[<b>
+				비스포크랩 주식회사			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[비스포크랩] 영한 자막 감수자 정규직 채용									댓글+1개]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=20069</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=20069"/>
+        <updated>2024-03-29T17:38:53.278Z</updated>
+        <content type="html"><![CDATA[<b>
+				비스포크랩 주식회사			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[티빙 마케팅 에이전시 (주)구십구도씨 기획 AE 채용 공고]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=20068</id>
@@ -100,29 +124,5 @@
         <updated>2024-03-25T17:37:10.329Z</updated>
         <content type="html"><![CDATA[<b>
 				KSI 한국시나리오연구소			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[반짝다큐페스티발이 3/29~31일 홍대 인디스페이스에서 열립니다]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=20055</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=20055"/>
-        <updated>2024-03-25T17:37:10.329Z</updated>
-        <content type="html"><![CDATA[<b>
-				반짝다큐페스티발			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 사업 극장 배급, 유통, 정산 관리 담당자 모집]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=20053</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=20053"/>
-        <updated>2024-03-22T17:37:03.051Z</updated>
-        <content type="html"><![CDATA[<b>
-				(주)스튜디오산타클로스엔터테인먼트			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[미디액트 강좌] 하루만에 배우는 촬영/조명 기초 - 4/27(토) 개강!!]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=20052</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=20052"/>
-        <updated>2024-03-22T17:37:03.055Z</updated>
-        <content type="html"><![CDATA[<b>
-				미디액트			</b>]]></content>
     </entry>
 </feed>
