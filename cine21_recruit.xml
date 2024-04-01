@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://b.cine21.com/bbs/board.php?bo_table=recruit</id>
     <title>씨네21 ─ 영화인 리쿠르트</title>
-    <updated>2024-03-31T17:38:48.256Z</updated>
+    <updated>2024-04-01T05:37:19.129Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://b.cine21.com/bbs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[출품 공모] 26회 서울국제여성영화제 출품 공모]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=20076</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=20076"/>
+        <updated>2024-04-01T05:37:18.509Z</updated>
+        <content type="html"><![CDATA[<b>
+				서울국제영성영화제			</b>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영화디지털마케팅사 아이스크림(eyescream)에서 신입 및 경력 직원을 모집합니다.]]></title>
+        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=20074</id>
+        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=20074"/>
+        <updated>2024-04-01T05:37:18.509Z</updated>
+        <content type="html"><![CDATA[<b>
+				아이스크림(eyescream)			</b>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[든든] 4월 영상산업 내 성폭력 예방교육 안내(4월 18일/4월 25일 목요일 진행)]]></title>
         <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=20073</id>
@@ -108,21 +124,5 @@
         <updated>2024-03-25T17:37:10.327Z</updated>
         <content type="html"><![CDATA[<b>
 				MBC아카데미			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[무주산골영화제] 제12회 무주산골영화제 초청 스태프 채용공고]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=20057</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=20057"/>
-        <updated>2024-03-25T17:37:10.327Z</updated>
-        <content type="html"><![CDATA[<b>
-				무주산골영화제			</b>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나도 OST 작사가가 될 수 있다! [KSI프로작사반 2기] 5월19일 개강]]></title>
-        <id>http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=20056</id>
-        <link href="http://b.cine21.com/bbs/board.php?bo_table=recruit&amp;wr_id=20056"/>
-        <updated>2024-03-25T17:37:10.329Z</updated>
-        <content type="html"><![CDATA[<b>
-				KSI 한국시나리오연구소			</b>]]></content>
     </entry>
 </feed>
